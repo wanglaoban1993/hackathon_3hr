@@ -27,6 +27,7 @@ import json
 import re
 import shutil
 import statistics
+import time
 import webbrowser
 from contextlib import asynccontextmanager
 from datetime import datetime
@@ -251,7 +252,7 @@ class FileTokenStorage:
         except (FileNotFoundError, json.JSONDecodeError):
             return {}
 
-    def _write(self, key: str, value: dict) -> None:
+    def _write(self, key: str, value: Any) -> None:
         data = self._read()
         data[key] = value
         AUTH_FILE.write_text(json.dumps(data, indent=2))
@@ -263,6 +264,7 @@ class FileTokenStorage:
 
     async def set_tokens(self, tokens: OAuthToken) -> None:
         self._write("tokens", tokens.model_dump(mode="json"))
+        self._write("tokens_obtained_at", time.time())
 
     async def get_client_info(self) -> OAuthClientInformationFull | None:
         d = self._read().get("client_info")
@@ -337,9 +339,66 @@ def _auth_provider() -> OAuthClientProvider:
     )
 
 
+async def _refresh_token_if_stale(skew_seconds: int = 300) -> None:
+    """Refresh the access token before it expires.
+
+    idealo's access tokens last 1 hour, and an expired token is answered with HTTP 403
+    (not 401), so the MCP SDK never notices and never refreshes it: the connection just
+    fails with "Server returned an error response". Refreshing up front avoids that.
+    If the refresh is rejected, the stored tokens are dropped so the SDK starts a normal
+    browser login instead.
+    """
+    store = FileTokenStorage()
+    data = store._read()
+    tokens, client_info = data.get("tokens"), data.get("client_info")
+    if not tokens or not client_info or not tokens.get("refresh_token"):
+        return  # no login yet: the SDK will run the browser flow
+
+    obtained = data.get("tokens_obtained_at")
+    if obtained is None:  # file written by an older version: use its modification time
+        obtained = AUTH_FILE.stat().st_mtime
+    lifetime = tokens.get("expires_in") or 3600
+    if time.time() < obtained + lifetime - skew_seconds:
+        return  # still fresh
+
+    async with httpx2.AsyncClient(timeout=30) as http:
+        prm = (await http.get(f"{MCP_URL.rsplit('/mcp', 1)[0]}/.well-known/oauth-protected-resource")).json()
+        issuer = prm["authorization_servers"][0].rstrip("/")
+        meta = None
+        for path in ("/.well-known/oauth-authorization-server", "/.well-known/openid-configuration"):
+            r = await http.get(issuer + path)
+            if r.status_code == 200:
+                meta = r.json()
+                break
+        if meta is None:
+            return  # cannot refresh here; let the SDK try
+        form = {
+            "grant_type": "refresh_token",
+            "refresh_token": tokens["refresh_token"],
+            "client_id": client_info["client_id"],
+        }
+        if client_info.get("client_secret"):
+            form["client_secret"] = client_info["client_secret"]
+        r = await http.post(meta["token_endpoint"], data=form)
+
+    if r.status_code == 200:
+        # the refresh response may omit refresh_token: keep the old one
+        store._write("tokens", {**tokens, **r.json()})
+        store._write("tokens_obtained_at", time.time())
+        print("[idealo] access token refreshed", flush=True)
+    else:
+        print(f"[idealo] token refresh rejected (HTTP {r.status_code}); a new browser login is needed",
+              flush=True)
+        data.pop("tokens", None)
+        data.pop("tokens_obtained_at", None)
+        AUTH_FILE.write_text(json.dumps(data, indent=2))
+        AUTH_FILE.chmod(0o600)
+
+
 @asynccontextmanager
 async def connect() -> AsyncGenerator[Client]:
     """Connected, authenticated MCP client for the idealo server."""
+    await _refresh_token_if_stale()
     http = httpx2.AsyncClient(
         auth=_auth_provider(),
         timeout=httpx2.Timeout(30, read=300),

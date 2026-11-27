@@ -1,0 +1,249 @@
+{
+  "query": "28 zoll fahrradreifen",
+  "country": "DE",
+  "currency": "EUR",
+  "product_name": "Schwalbe Marathon Plus (Perf)",
+  "product_url": "https://www.idealo.de/preisvergleich/OffersOfProduct/4874444_-marathon-plus-28-x-1-50-40-622-perf-schwalbe.html",
+  "list_price": 27.28,
+  "total_offers_on_idealo": 26,
+  "user_rating": 4.31,
+  "user_review_count": 16,
+  "pros": [
+    "sehr starker Pannenschutz",
+    "geringer Rollwiderstand",
+    "in allen Standardmaßen verfügbar, passen die Reifen auf jede Felge"
+  ],
+  "cons": [
+    "hohes Gewicht führt zu mehr drehender Masse",
+    "Profil nicht für starkes Gelände ausgelegt"
+  ],
+  "offers": [
+    {
+      "shop": "mszweirad.de",
+      "is_marketplace": false,
+      "price": 27.28,
+      "shipping": 4.95,
+      "total_price": 32.23,
+      "shipping_known": true,
+      "shop_rating": 3.67,
+      "shop_rating_count": 3,
+      "delivery_text": "bis Di. 01.12.2026",
+      "delivery_status": "SHORT",
+      "delivery_latest": "2026-12-01",
+      "payment_methods": [
+        "Lastschrift",
+        "PayPal",
+        "Sofort.",
+        "Kreditkarte",
+        "Vorkasse"
+      ],
+      "freshness": "2026-11-27T16:51:10.765Z",
+      "url": "https://www.idealo.de/relocator/relocate?offerKey=631b261e771481835de0c9bfcc3381af&categoryId=9452&pos=1&price=27.28&productid=4874444&sid=325278&type=offer&media=ipc-public-mcp"
+    },
+    {
+      "shop": "bike-components.de",
+      "is_marketplace": false,
+      "price": 27.99,
+      "shipping": 4.99,
+      "total_price": 32.98,
+      "shipping_known": true,
+      "shop_rating": 3.6,
+      "shop_rating_count": 81,
+      "delivery_text": "Di. 01.12.–Do. 03.12.2026",
+      "delivery_status": "MEDIUM",
+      "delivery_earliest": "2026-12-01",
+      "delivery_latest": "2026-12-03",
+      "free_return_days": 14,
+      "payment_methods": [
+        "Rechnung",
+        "PayPal",
+        "Lastschrift",
+        "Sofort.",
+        "Kreditkarte",
+        "Nachnahme",
+        "Vorkasse",
+        "Amazon Pay"
+      ],
+      "freshness": "2026-11-27T16:51:10.765Z",
+      "url": "https://www.idealo.de/relocator/relocate?offerKey=dc0c56b4d8e391734cefb96eb89be2c6&categoryId=9452&pos=2&price=27.99&productid=4874444&sid=315475&type=offer&media=ipc-public-mcp"
+    },
+    {
+      "shop": "btr-tools.com",
+      "is_marketplace": false,
+      "price": 28.02,
+      "shipping": 7.9,
+      "total_price": 35.92,
+      "shipping_known": true,
+      "shop_rating": 4.82,
+      "shop_rating_count": 40,
+      "delivery_text": "bis Di. 01.12.2026",
+      "delivery_status": "SHORT",
+      "delivery_latest": "2026-12-01",
+      "payment_methods": [
+        "Rechnung",
+        "PayPal",
+        "Lastschrift",
+        "Sofort.",
+        "Kreditkarte",
+        "Nachnahme",
+        "Vorkasse"
+      ],
+      "freshness": "2026-11-27T16:51:10.765Z",
+      "url": "https://www.idealo.de/relocator/relocate?offerKey=e56246e1be2ab02544c8cccbccef7405&categoryId=9452&pos=3&price=28.02&productid=4874444&sid=335538&type=offer&media=ipc-public-mcp"
+    },
+    {
+      "shop": "koempf24.de",
+      "is_marketplace": false,
+      "price": 28.02,
+      "shipping": 7.9,
+      "total_price": 35.92,
+      "shipping_known": true,
+      "shop_rating": 4.62,
+      "shop_rating_count": 1351,
+      "delivery_text": "bis Di. 01.12.2026",
+      "delivery_status": "SHORT",
+      "delivery_latest": "2026-12-01",
+      "payment_methods": [
+        "Rechnung",
+        "PayPal",
+        "Lastschrift",
+        "Sofort.",
+        "Kreditkarte",
+        "Vorkasse"
+      ],
+      "freshness": "2026-11-27T16:51:10.766Z",
+      "url": "https://www.idealo.de/relocator/relocate?offerKey=51f50abd0089973b83b7f034e2d2df3a&categoryId=9452&pos=4&price=28.02&productid=4874444&sid=291122&type=offer&media=ipc-public-mcp"
+    },
+    {
+      "shop": "ftzshop.de",
+      "is_marketplace": false,
+      "price": 29.99,
+      "shipping": 4.99,
+      "total_price": 34.98,
+      "shipping_known": true,
+      "shop_rating": 4.48,
+      "shop_rating_count": 34,
+      "delivery_text": "Di. 01.12.–Mi. 02.12.2026",
+      "delivery_status": "SHORT",
+      "delivery_earliest": "2026-12-01",
+      "delivery_latest": "2026-12-02",
+      "payment_methods": [
+        "Rechnung",
+        "PayPal",
+        "Lastschrift",
+        "Sofort.",
+        "Kreditkarte",
+        "Vorkasse"
+      ],
+      "freshness": "2026-11-27T16:51:10.766Z",
+      "url": "https://www.idealo.de/relocator/relocate?offerKey=356c47bba60fef9b2371308970b331e2&categoryId=9452&pos=5&price=29.99&productid=4874444&sid=332931&type=offer&media=ipc-public-mcp"
+    },
+    {
+      "shop": "fahrrad-teile.shop",
+      "is_marketplace": false,
+      "price": 31.97,
+      "shipping": 5.9,
+      "total_price": 37.87,
+      "shipping_known": true,
+      "shop_rating": 2.6,
+      "shop_rating_count": 15,
+      "delivery_text": "Mi. 02.12.–Fr. 04.12.2026",
+      "delivery_status": "MEDIUM",
+      "delivery_earliest": "2026-12-02",
+      "delivery_latest": "2026-12-04",
+      "payment_methods": [
+        "Rechnung",
+        "PayPal",
+        "Kreditkarte",
+        "Vorkasse"
+      ],
+      "freshness": "2026-11-27T16:51:11.396Z",
+      "url": "https://www.idealo.de/relocator/relocate?offerKey=982000faf3518520e36d7e2724953295&categoryId=9452&pos=7&price=31.97&productid=4874444&sid=318926&type=offer&media=ipc-public-mcp"
+    },
+    {
+      "shop": "bikable.de",
+      "is_marketplace": false,
+      "price": 31.99,
+      "shipping": 6.99,
+      "total_price": 38.98,
+      "shipping_known": true,
+      "shop_rating": 4.2,
+      "shop_rating_count": 10,
+      "delivery_text": "bis Di. 01.12.2026",
+      "delivery_status": "SHORT",
+      "delivery_latest": "2026-12-01",
+      "payment_methods": [
+        "PayPal",
+        "Sofort.",
+        "Kreditkarte"
+      ],
+      "freshness": "2026-11-27T16:51:11.396Z",
+      "url": "https://www.idealo.de/relocator/relocate?offerKey=ed1e173eff281f58402c13d37ad5be61&categoryId=9452&pos=8&price=31.99&productid=4874444&sid=335461&type=offer&media=ipc-public-mcp"
+    },
+    {
+      "shop": "deporvillage.de",
+      "is_marketplace": false,
+      "price": 32.95,
+      "shipping": 5.99,
+      "total_price": 38.94,
+      "shipping_known": true,
+      "shop_rating": 1.96,
+      "shop_rating_count": 69,
+      "delivery_text": "Di. 01.12.–Mi. 02.12.2026",
+      "delivery_status": "SHORT",
+      "delivery_earliest": "2026-12-01",
+      "delivery_latest": "2026-12-02",
+      "payment_methods": [
+        "Rechnung",
+        "PayPal",
+        "Sofort.",
+        "Kreditkarte",
+        "Vorkasse"
+      ],
+      "freshness": "2026-11-27T16:51:11.396Z",
+      "url": "https://www.idealo.de/relocator/relocate?offerKey=39e44199cc3d9eac308b758940faa5ef&categoryId=9452&pos=9&price=32.95&productid=4874444&sid=332932&type=offer&media=ipc-public-mcp"
+    },
+    {
+      "shop": "dasfahrradwerk.de",
+      "is_marketplace": false,
+      "price": 33.95,
+      "shipping": 7.69,
+      "total_price": 41.64,
+      "shipping_known": true,
+      "delivery_text": "Di. 01.12.–Do. 03.12.2026",
+      "delivery_status": "MEDIUM",
+      "delivery_earliest": "2026-12-01",
+      "delivery_latest": "2026-12-03",
+      "payment_methods": [
+        "PayPal",
+        "eps",
+        "Vorkasse",
+        "Amazon Pay"
+      ],
+      "freshness": "2026-11-27T16:51:11.396Z",
+      "url": "https://www.idealo.de/relocator/relocate?offerKey=837f95a7381895bec35bb6f29c85961d&categoryId=9452&pos=10&price=33.95&productid=4874444&sid=335972&type=offer&media=ipc-public-mcp"
+    }
+  ],
+  "offers_capped_by_trial_tier": true,
+  "price_history": {
+    "period_days": 29,
+    "current": 27.28,
+    "min": 25.19,
+    "max": 27.28,
+    "avg": 26.82,
+    "change_percent": 1.0744720266765468,
+    "lowest_price_date": "2026-11-02T22:59:59.999Z",
+    "highest_price_date": "2026-11-15T22:59:59.999Z",
+    "data_source_confidence": 0.95,
+    "total_data_points": 31
+  },
+  "market_stats": {
+    "offer_count": 9,
+    "min_total": 32.23,
+    "median_total": 35.92,
+    "max_total": 41.64
+  },
+  "gaps": [
+    "offer list truncated by API tier: Trial tier limit reached: max 10 offers per product. Upgrade for full access."
+  ]
+}
