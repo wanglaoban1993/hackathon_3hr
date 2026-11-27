@@ -16,8 +16,8 @@ This repo is built for two hackathon challenges:
 |---|---|
 | idealo data layer (`idealo_client.py`) | Done and tested against the live server |
 | Two demo cases in `demo_cases/` | Done (one routine, one conflicting) |
-| Nebius decision agent | Not built yet |
-| Streamlit demo UI | Not built yet |
+| Nebius decision agent (`agent.py`, `nebius_client.py`) | Done. `decide(evidence, budget)` takes the idealo Evidence directly; tested live on both demo cases |
+| Streamlit demo UI (`app.py`) | Starter works; see `UI_BRIEF.md` |
 
 ## How it works
 

@@ -1,5 +1,15 @@
 .idealo_auth.json
 .env
+.env.*
+!.env.example
+*.key
+secrets/
+.streamlit/secrets.toml
 __pycache__/
+*.pyc
 .venv/
+venv/
 .DS_Store
+Thumbs.db
+# Nebius call log (proof for submission; attach it separately)
+*.log

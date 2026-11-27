@@ -3,3 +3,5 @@ openai>=3
 pydantic>=2.14
 streamlit
 httpx
+python-dotenv>=1.0
+pandas>=2.0
