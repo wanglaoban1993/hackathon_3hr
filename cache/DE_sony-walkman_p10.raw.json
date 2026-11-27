@@ -1,0 +1,2203 @@
+{
+  "query": "sony walkman",
+  "country": "DE",
+  "search": {
+    "query": "sony walkman",
+    "availableCategories": [
+      {
+        "categoryId": "1341",
+        "categoryName": "MP3-Player",
+        "amount": 4
+      },
+      {
+        "categoryId": "8533",
+        "categoryName": "Kamera-Akkus",
+        "amount": 56
+      },
+      {
+        "categoryId": "14852",
+        "categoryName": "Displayschutzfolien",
+        "amount": 18
+      },
+      {
+        "categoryId": "8512",
+        "categoryName": "Ladegeräte für Kamera-Akkus",
+        "amount": 10
+      },
+      {
+        "categoryId": "8594",
+        "categoryName": "MP3-Player-Zubehör",
+        "amount": 9
+      },
+      {
+        "categoryId": "8534",
+        "categoryName": "Akkus & Batterien",
+        "amount": 1
+      },
+      {
+        "categoryId": "19116",
+        "categoryName": "Handys & Smartphones",
+        "amount": 9
+      },
+      {
+        "categoryId": "2520",
+        "categoryName": "Kopfhörer",
+        "amount": 15
+      },
+      {
+        "categoryId": "5232",
+        "categoryName": "Audio Zubehör",
+        "amount": 3
+      },
+      {
+        "categoryId": "5455",
+        "categoryName": "Handy-Akkus",
+        "amount": 1
+      },
+      {
+        "categoryId": "8636",
+        "categoryName": "Fernbedienungen",
+        "amount": 1
+      },
+      {
+        "categoryId": "14858",
+        "categoryName": "Handy Kabel & Adapter",
+        "amount": 2
+      },
+      {
+        "categoryId": "26200",
+        "categoryName": "Notenbücher",
+        "amount": 1
+      },
+      {
+        "categoryId": "15256",
+        "categoryName": "Audiokabel",
+        "amount": 1
+      },
+      {
+        "categoryId": "9972",
+        "categoryName": "Bücher",
+        "amount": 1
+      },
+      {
+        "categoryId": "15814",
+        "categoryName": "Hörbücher",
+        "amount": 3
+      },
+      {
+        "categoryId": "4952",
+        "categoryName": "Kamera-Stromversorgungen",
+        "amount": 1
+      },
+      {
+        "categoryId": "8412",
+        "categoryName": "Handy-Ladegeräte",
+        "amount": 1
+      },
+      {
+        "categoryId": "13832",
+        "categoryName": "Digitalkamera-Zubehör",
+        "amount": 1
+      },
+      {
+        "categoryId": "5453",
+        "categoryName": "Handyhüllen",
+        "amount": 1
+      }
+    ],
+    "availableManufacturers": [
+      {
+        "manufacturerId": "1013",
+        "manufacturerName": "Sony",
+        "amount": 27
+      },
+      {
+        "manufacturerId": "109396",
+        "manufacturerName": "vhbw",
+        "amount": 42
+      },
+      {
+        "manufacturerId": "169459",
+        "manufacturerName": "EXTENSILO",
+        "amount": 14
+      },
+      {
+        "manufacturerId": "118087",
+        "manufacturerName": "Powery",
+        "amount": 1
+      },
+      {
+        "manufacturerId": "29383",
+        "manufacturerName": "e-cultor",
+        "amount": 1
+      },
+      {
+        "manufacturerId": "109007",
+        "manufacturerName": "S-Conn",
+        "amount": 2
+      },
+      {
+        "manufacturerId": "155342",
+        "manufacturerName": "BROTECT",
+        "amount": 11
+      },
+      {
+        "manufacturerId": "146941",
+        "manufacturerName": "upscreen",
+        "amount": 4
+      },
+      {
+        "manufacturerId": "106150",
+        "manufacturerName": "Massa Technology",
+        "amount": 1
+      },
+      {
+        "manufacturerId": "77926",
+        "manufacturerName": "AccuCell",
+        "amount": 2
+      },
+      {
+        "manufacturerId": "76710",
+        "manufacturerName": "Snuza",
+        "amount": 1
+      },
+      {
+        "manufacturerId": "40504",
+        "manufacturerName": "Bedifol",
+        "amount": 1
+      },
+      {
+        "manufacturerId": "1227",
+        "manufacturerName": "Sony-Ericsson",
+        "amount": 2
+      },
+      {
+        "manufacturerId": "172968",
+        "manufacturerName": "We Are Rewind",
+        "amount": 3
+      },
+      {
+        "manufacturerId": "128324",
+        "manufacturerName": "Cameron Sino Technology",
+        "amount": 1
+      },
+      {
+        "manufacturerId": "123437",
+        "manufacturerName": "Patona",
+        "amount": 5
+      },
+      {
+        "manufacturerId": "134829",
+        "manufacturerName": "Avizar",
+        "amount": 1
+      },
+      {
+        "manufacturerId": "114665",
+        "manufacturerName": "Seki",
+        "amount": 1
+      },
+      {
+        "manufacturerId": "156516",
+        "manufacturerName": "Berenstargh",
+        "amount": 2
+      },
+      {
+        "manufacturerId": "105720",
+        "manufacturerName": "Subtel electronics",
+        "amount": 1
+      },
+      {
+        "manufacturerId": "73719",
+        "manufacturerName": "Shiverpeaks",
+        "amount": 1
+      },
+      {
+        "manufacturerId": "182666",
+        "manufacturerName": "EUROPA",
+        "amount": 2
+      },
+      {
+        "manufacturerId": "2124",
+        "manufacturerName": "Samsonite",
+        "amount": 1
+      },
+      {
+        "manufacturerId": "1320",
+        "manufacturerName": "Hama",
+        "amount": 3
+      },
+      {
+        "manufacturerId": "122632",
+        "manufacturerName": "OTB",
+        "amount": 1
+      },
+      {
+        "manufacturerId": "1884",
+        "manufacturerName": "Bigben Interactive",
+        "amount": 1
+      }
+    ],
+    "availableFilters": [
+      {
+        "attributeId": "15583",
+        "name": "Produkttyp",
+        "filters": [
+          {
+            "filterId": "9019145",
+            "content": "High-Resolution-Audioplayer",
+            "amount": 4
+          },
+          {
+            "filterId": "1284548",
+            "content": "tragbarer MP3-Player",
+            "amount": 3
+          },
+          {
+            "filterId": "1230021",
+            "content": "MP4-Player",
+            "amount": 2
+          },
+          {
+            "filterId": "935393",
+            "content": "Camcorder Akku",
+            "amount": 45
+          },
+          {
+            "filterId": "935394",
+            "content": "Digitalkamera Akku",
+            "amount": 14
+          },
+          {
+            "filterId": "1116711",
+            "content": "Schutzfolie",
+            "amount": 18
+          },
+          {
+            "filterId": "994128",
+            "content": "Digitalkamera Ladegerät",
+            "amount": 10
+          },
+          {
+            "filterId": "3916364",
+            "content": "Displayspiegelfolie",
+            "amount": 2
+          },
+          {
+            "filterId": "105861537",
+            "content": "Handy-Schutzfolie",
+            "amount": 7
+          },
+          {
+            "filterId": "3916363",
+            "content": "Displayblickschutzfolie",
+            "amount": 3
+          },
+          {
+            "filterId": "3916362",
+            "content": "Antireflexfolie",
+            "amount": 3
+          },
+          {
+            "filterId": "105517607",
+            "content": "Dumb Phone",
+            "amount": 1
+          },
+          {
+            "filterId": "10065998",
+            "content": "Tastenhandy",
+            "amount": 1
+          },
+          {
+            "filterId": "808012",
+            "content": "In-Ear-Kopfhörer",
+            "amount": 8
+          },
+          {
+            "filterId": "4287437",
+            "content": "LTE Smartphone",
+            "amount": 8
+          },
+          {
+            "filterId": "4287435",
+            "content": "Android Handy",
+            "amount": 8
+          },
+          {
+            "filterId": "10228479",
+            "content": "5G Handy",
+            "amount": 4
+          },
+          {
+            "filterId": "2305516",
+            "content": "Phablet",
+            "amount": 4
+          },
+          {
+            "filterId": "1827440",
+            "content": "Dual-SIM Handy",
+            "amount": 4
+          },
+          {
+            "filterId": "469623",
+            "content": "Bügelkopfhörer",
+            "amount": 7
+          },
+          {
+            "filterId": "2094025",
+            "content": "Kassettendeck",
+            "amount": 3
+          },
+          {
+            "filterId": "4810181",
+            "content": "Original Handy-Akku",
+            "amount": 1
+          },
+          {
+            "filterId": "867451",
+            "content": "Ersatzfernbedienung",
+            "amount": 1
+          },
+          {
+            "filterId": "1894426",
+            "content": "Universal-Fernbedienung",
+            "amount": 1
+          },
+          {
+            "filterId": "1544892",
+            "content": "Handy Ladekabel",
+            "amount": 2
+          },
+          {
+            "filterId": "10245805",
+            "content": "MP3-Player-Tasche",
+            "amount": 2
+          },
+          {
+            "filterId": "101943326",
+            "content": "Dummy-Akku",
+            "amount": 1
+          },
+          {
+            "filterId": "4279227",
+            "content": "Handy Netzteil",
+            "amount": 1
+          },
+          {
+            "filterId": "2090436",
+            "content": "Universal-Ladegerät Handy",
+            "amount": 1
+          },
+          {
+            "filterId": "1598530",
+            "content": "MP3-Halterung",
+            "amount": 1
+          },
+          {
+            "filterId": "1544602",
+            "content": "iPod-Zubehör",
+            "amount": 1
+          },
+          {
+            "filterId": "953687",
+            "content": "Kamera-Schutzglas",
+            "amount": 1
+          },
+          {
+            "filterId": "1502416",
+            "content": "Handy-Case",
+            "amount": 1
+          }
+        ]
+      }
+    ],
+    "suggestedFilters": [],
+    "sizeAttributes": [],
+    "results": [
+      {
+        "productRef": "pr.v1.k1.Jr5CqLy-3jE_TL2QObhiEn9Ks6K98oGr1KUSpy5-pS3HqktkSQ",
+        "itemType": "PRODUCT",
+        "siteId": 1,
+        "name": "Sony NW-WM1Z M2",
+        "imageUrl": "https://cdn.idealo.com/folder/Product/201828/7/201828740/s1_produktbild_mobil/sony-nw-wm1z-m2.jpg",
+        "url": "https://www.idealo.de/preisvergleich/OffersOfProduct/201828740_-nw-wm1z-m2-sony.html",
+        "userReviewsSummary": {
+          "averageRating": 4,
+          "totalReviewCount": 17
+        },
+        "testReportsSummary": {
+          "grade": "3,2"
+        },
+        "totalOfferCount": 1
+      },
+      {
+        "productRef": "pr.v1.k1.LxVvthPmTzua-u5qInsTvKXiLNg_5LEF0d-TBv1s0SkS-3u4Zw",
+        "itemType": "PRODUCT",
+        "siteId": 1,
+        "name": "Sony NW-ZX707",
+        "price": "755,88 €",
+        "imageUrl": "https://cdn.idealo.com/images/product/209706646/de_DE/0/mobil.jpg",
+        "url": "https://www.idealo.de/preisvergleich/OffersOfProduct/209706646_-nw-zx707-sony.html",
+        "totalOfferCount": 1
+      },
+      {
+        "productRef": "pr.v1.k1.2rvK_-WtvqZQpABRAUW-7CzbBtXLwxUNZUzFnLh9EBInCiX03Q",
+        "itemType": "PRODUCT",
+        "siteId": 1,
+        "name": "Sony MDR-3R",
+        "price": "59,99 €",
+        "imageUrl": "https://cdn.idealo.com/folder/Product/215736/6/215736657/s1_produktbild_mobil/sony-mdr-3r.jpg",
+        "url": "https://www.idealo.de/preisvergleich/OffersOfProduct/215736657_-mdr-3r-sony.html",
+        "totalOfferCount": 5
+      },
+      {
+        "productRef": "pr.v1.k1.7RzJYUZXFZ_7c3SsoeGIm3zvK7BdxkLwm_Gy0-YEUNiBJXqCpg",
+        "itemType": "PRODUCT",
+        "siteId": 1,
+        "name": "Sony Xperia 1 VIII",
+        "nameDelta": "256GB Iolith-Silber",
+        "price": "1.195,80 €",
+        "imageUrl": "https://cdn.idealo.com/folder/Product/210328/7/210328757/s1_produktbild_mobil/sony-xperia-1-viii-256gb-iolith-silber.jpg",
+        "url": "https://www.idealo.de/preisvergleich/OffersOfProduct/210328757_-xperia-1-viii-256gb-iolith-silber-sony.html",
+        "userReviewsSummary": {
+          "averageRating": 5,
+          "totalReviewCount": 4
+        },
+        "testReportsSummary": {
+          "grade": "1,7"
+        },
+        "totalOfferCount": 3,
+        "badges": {
+          "bargain": {
+            "discountRate": 12,
+            "tags": [
+              "REGULAR",
+              "SHORTTERM",
+              "BLACK_FRIDAY"
+            ]
+          }
+        }
+      },
+      {
+        "productRef": "pr.v1.k1.6MQrJOzPlK76JPYRYBymO738ityueIXGyirpp7gt_8jKoatDDQ",
+        "itemType": "PRODUCT",
+        "siteId": 1,
+        "name": "Sony Xperia 1 VIII",
+        "nameDelta": "256GB Graphitschwarz",
+        "price": "1.249,00 €",
+        "imageUrl": "https://cdn.idealo.com/folder/Product/210324/5/210324559/s1_produktbild_mobil/sony-xperia-1-viii-256gb-graphitschwarz.jpg",
+        "url": "https://www.idealo.de/preisvergleich/OffersOfProduct/210324559_-xperia-1-viii-256gb-graphitschwarz-sony.html",
+        "userReviewsSummary": {
+          "averageRating": 5,
+          "totalReviewCount": 4
+        },
+        "testReportsSummary": {
+          "grade": "1,7"
+        },
+        "totalOfferCount": 5
+      },
+      {
+        "productRef": "pr.v1.k1.3koueJA5iN7EODROvXkhpQD2TO8XJXc17RQJ8TbguRsTOUsWYg",
+        "itemType": "PRODUCT",
+        "siteId": 1,
+        "name": "We Are Rewind Cassette Player",
+        "nameDelta": "Amy (Limited Edition)",
+        "price": "134,10 €",
+        "imageUrl": "https://cdn.idealo.com/folder/Product/204324/4/204324426/s1_produktbild_mobil/we-are-rewind-cassette-player-amy-limited-edition.jpg",
+        "url": "https://www.idealo.de/preisvergleich/OffersOfProduct/204324426_-cassette-player-amy-limited-edition-we-are-rewind.html",
+        "testReportsSummary": {
+          "grade": "2,0"
+        },
+        "totalOfferCount": 12
+      },
+      {
+        "productRef": "pr.v1.k1.wj5Q_rXix39A83Cx09ltHWCLpto2E20Gl3P5maCTPHpiP6Nv1g",
+        "itemType": "PRODUCT",
+        "siteId": 1,
+        "name": "Sony Xperia 1 VIII",
+        "nameDelta": "256GB Granatrot",
+        "price": "1.249,00 €",
+        "imageUrl": "https://cdn.idealo.com/folder/Product/210328/5/210328512/s1_produktbild_mobil/sony-xperia-1-viii-256gb-granatrot.jpg",
+        "url": "https://www.idealo.de/preisvergleich/OffersOfProduct/210328512_-xperia-1-viii-256gb-granatrot-sony.html",
+        "userReviewsSummary": {
+          "averageRating": 5,
+          "totalReviewCount": 4
+        },
+        "testReportsSummary": {
+          "grade": "1,7"
+        },
+        "totalOfferCount": 4
+      },
+      {
+        "productRef": "pr.v1.k1.6_sOMojyKW9zizSSTIfpo9D2Wx9US6MZRYevtVV__6yJu1vOow",
+        "itemType": "PRODUCT",
+        "siteId": 1,
+        "name": "Powery Akku für Sony Video GV-D800 (Video Walkman) 10400mAh",
+        "price": "87,99 €",
+        "imageUrl": "https://cdn.idealo.com/folder/Product/206555/3/206555367/s1_produktbild_mobil/powery-akku-fuer-sony-video-gv-d800-video-walkman-10400mah.jpg",
+        "url": "https://www.idealo.de/preisvergleich/OffersOfProduct/206555367_-akku-fuer-sony-video-gv-d800-video-walkman-10400mah-powery.html",
+        "totalOfferCount": 1
+      },
+      {
+        "productRef": "pr.v1.k1.T0G5M4YXvu1TXiq1mUGV0CPXzFIHcrZNDwPJrGBSzXvVcLg",
+        "itemType": "PRODUCT",
+        "siteId": 1,
+        "name": "Sony MDR-E9LP",
+        "nameDelta": "blau",
+        "price": "5,22 €",
+        "imageUrl": "https://cdn.idealo.com/folder/Product/2914/2/2914211/s1_produktbild_mobil/sony-mdr-e9lp-blau.jpg",
+        "url": "https://www.idealo.de/preisvergleich/OffersOfProduct/2914211_-mdr-e9lp-blau-sony.html",
+        "userReviewsSummary": {
+          "averageRating": 4.09,
+          "totalReviewCount": 34
+        },
+        "testReportsSummary": {
+          "grade": "1,8"
+        },
+        "totalOfferCount": 24
+      },
+      {
+        "productRef": "pr.v1.k1.9RR7zuW6OawQMrRbqaddskWWPiHk-RochyO4MIhGsFXfFzc",
+        "itemType": "PRODUCT",
+        "siteId": 1,
+        "name": "Sony MDR-E9LP",
+        "nameDelta": "schwarz",
+        "price": "5,22 €",
+        "imageUrl": "https://cdn.idealo.com/folder/Product/2914/1/2914192/s1_produktbild_mobil/sony-mdr-e9lp-schwarz.jpg",
+        "url": "https://www.idealo.de/preisvergleich/OffersOfProduct/2914192_-mdr-e9lp-schwarz-sony.html",
+        "userReviewsSummary": {
+          "averageRating": 4.09,
+          "totalReviewCount": 34
+        },
+        "testReportsSummary": {
+          "grade": "1,8"
+        },
+        "totalOfferCount": 29
+      }
+    ]
+  },
+  "picked": {
+    "productRef": "pr.v1.k1.9RR7zuW6OawQMrRbqaddskWWPiHk-RochyO4MIhGsFXfFzc",
+    "itemType": "PRODUCT",
+    "siteId": 1,
+    "name": "Sony MDR-E9LP",
+    "nameDelta": "schwarz",
+    "price": "5,22 €",
+    "imageUrl": "https://cdn.idealo.com/folder/Product/2914/1/2914192/s1_produktbild_mobil/sony-mdr-e9lp-schwarz.jpg",
+    "url": "https://www.idealo.de/preisvergleich/OffersOfProduct/2914192_-mdr-e9lp-schwarz-sony.html",
+    "userReviewsSummary": {
+      "averageRating": 4.09,
+      "totalReviewCount": 34
+    },
+    "testReportsSummary": {
+      "grade": "1,8"
+    },
+    "totalOfferCount": 29
+  },
+  "details": {
+    "productRef": "pr.v1.k1.9RR7zuW6OawQMrRbqaddskWWPiHk-RochyO4MIhGsFXfFzc",
+    "itemType": "PRODUCT",
+    "siteId": 1,
+    "url": "https://www.idealo.de/preisvergleich/OffersOfProduct/2914192_-mdr-e9lp-schwarz-sony.html",
+    "name": "Sony MDR-E9LP",
+    "nameDelta": "schwarz",
+    "imageUrls": [
+      "https://cdn.idealo.com/folder/Product/2914/1/2914192/s1_produktbild_mobil/sony-mdr-e9lp-schwarz.jpg"
+    ],
+    "nextOffset": 3,
+    "offers": [
+      {
+        "key": "13bebbe5b36a665a232044fa1677dec7",
+        "price": "5,22 €",
+        "basePrice": null,
+        "shop": {
+          "shopId": "301980",
+          "merchantId": null,
+          "name": "dressinn.com (DE)",
+          "merchantName": null,
+          "rating": {
+            "count": 108,
+            "avg": 1.5
+          },
+          "isMarketplace": false
+        },
+        "payments": [
+          {
+            "costCode": "INV",
+            "name": "Rechnung"
+          },
+          {
+            "costCode": "PP",
+            "name": "PayPal"
+          },
+          {
+            "costCode": "SUW",
+            "name": "Sofort."
+          },
+          {
+            "costCode": "CBC",
+            "name": "Kreditkarte"
+          },
+          {
+            "costCode": "CIA",
+            "name": "Vorkasse"
+          }
+        ],
+        "showPaymentDisclaimer": false,
+        "delivery": {
+          "deliveryText": "bis Mo. 07.12.2026",
+          "deliveryStatus": "MEDIUM",
+          "earlyDeliveryDate": null,
+          "lateDeliveryDate": "2026-12-07"
+        },
+        "freeReturnDays": null,
+        "relocatorUrl": "https://www.idealo.de/relocator/relocate?offerKey=13bebbe5b36a665a232044fa1677dec7&categoryId=2520&pos=1&price=5.22&productid=2914192&sid=301980&type=offer&media=ipc-public-mcp",
+        "minShippingCost": "4,99 €",
+        "hasAlwaysFreeShipping": false,
+        "cheapestTotalPriceOffer": false,
+        "freshness": "2026-11-27T17:12:47.339Z"
+      },
+      {
+        "key": "21b435da808676286bfbae6ae0d7839e",
+        "price": "5,61 €",
+        "basePrice": null,
+        "shop": {
+          "shopId": "23197",
+          "merchantId": null,
+          "name": "energeto.de",
+          "merchantName": null,
+          "rating": {
+            "count": 2501,
+            "avg": 4.6
+          },
+          "isMarketplace": false
+        },
+        "payments": [
+          {
+            "costCode": "PP",
+            "name": "PayPal"
+          },
+          {
+            "costCode": "CBC",
+            "name": "Kreditkarte"
+          },
+          {
+            "costCode": "CIA",
+            "name": "Vorkasse"
+          },
+          {
+            "costCode": "AMZP",
+            "name": "Amazon Pay"
+          }
+        ],
+        "showPaymentDisclaimer": false,
+        "delivery": {
+          "deliveryText": "Di. 01.12.–Mi. 02.12.2026",
+          "deliveryStatus": "SHORT",
+          "earlyDeliveryDate": "2026-12-01",
+          "lateDeliveryDate": "2026-12-02"
+        },
+        "freeReturnDays": null,
+        "relocatorUrl": "https://www.idealo.de/relocator/relocate?offerKey=21b435da808676286bfbae6ae0d7839e&categoryId=2520&pos=2&price=5.61&productid=2914192&sid=23197&type=offer&media=ipc-public-mcp",
+        "minShippingCost": "3,49 €",
+        "hasAlwaysFreeShipping": false,
+        "cheapestTotalPriceOffer": false,
+        "freshness": "2026-11-27T17:12:47.339Z"
+      },
+      {
+        "key": "9d8946e76a51dba07b6e8712f3212e39",
+        "price": "5,79 €",
+        "basePrice": null,
+        "shop": {
+          "shopId": "1362",
+          "merchantId": null,
+          "name": "alternate.de",
+          "merchantName": null,
+          "rating": {
+            "count": 13508,
+            "avg": 4.53
+          },
+          "isMarketplace": false
+        },
+        "payments": [
+          {
+            "costCode": "INV",
+            "name": "Rechnung"
+          },
+          {
+            "costCode": "PP",
+            "name": "PayPal"
+          },
+          {
+            "costCode": "SUW",
+            "name": "Sofort."
+          },
+          {
+            "costCode": "CBC",
+            "name": "Kreditkarte"
+          },
+          {
+            "costCode": "APPLE_PAY",
+            "name": "Apple Pay"
+          },
+          {
+            "costCode": "CIA",
+            "name": "Vorkasse"
+          }
+        ],
+        "showPaymentDisclaimer": false,
+        "delivery": {
+          "deliveryText": "Di. 01.12.–Mi. 02.12.2026",
+          "deliveryStatus": "SHORT",
+          "earlyDeliveryDate": "2026-12-01",
+          "lateDeliveryDate": "2026-12-02"
+        },
+        "freeReturnDays": 14,
+        "relocatorUrl": "https://www.idealo.de/relocator/relocate?offerKey=9d8946e76a51dba07b6e8712f3212e39&categoryId=2520&pos=3&price=5.79&productid=2914192&sid=1362&type=offer&media=ipc-public-mcp",
+        "minShippingCost": "7,99 €",
+        "hasAlwaysFreeShipping": false,
+        "cheapestTotalPriceOffer": false,
+        "freshness": "2026-11-27T17:12:47.339Z"
+      }
+    ],
+    "prosCons": {
+      "pros": [
+        "leichtes Gewicht von nur 6 g",
+        "komfortabler Sitz im Ohr",
+        "gute Klangqualität für Podcasts und Videos"
+      ],
+      "cons": [
+        "begrenzte Haltbarkeit",
+        "schwacher Bass",
+        "kein Mikrofon für Telefonate"
+      ]
+    },
+    "testReports": {
+      "summary": {
+        "grade": "1,8",
+        "averageRating": 85,
+        "rating": "gut",
+        "ratingCount": 1
+      },
+      "list": [
+        {
+          "providerName": "Good Housekeeping",
+          "shortDescription": "Einzeltest Sony MDR-E9LP",
+          "ratingValue": "B+",
+          "publishedAt": 1309514400000,
+          "language": "de",
+          "issue": "online",
+          "testedProductsCount": 1
+        }
+      ]
+    },
+    "productSpecification": {
+      "groups": [
+        {
+          "name": "Funktion",
+          "type": "DEFAULT",
+          "attributes": [
+            {
+              "name": "Übertragungsart",
+              "value": "kabelgebunden"
+            },
+            {
+              "name": "geeignet für",
+              "value": "mobiler Audioplayer"
+            }
+          ]
+        },
+        {
+          "name": "Ton",
+          "type": "DEFAULT",
+          "attributes": [
+            {
+              "name": "Frequenzgang",
+              "value": "18 - 22.000 Hz"
+            },
+            {
+              "name": "Impedanz",
+              "value": "16 Ohm"
+            },
+            {
+              "name": "Empfindlichkeit",
+              "value": "104 dB/mW"
+            },
+            {
+              "name": "Treiber",
+              "value": "13,5 mm"
+            },
+            {
+              "name": "Belastbarkeit max.",
+              "value": "100 mW"
+            }
+          ]
+        },
+        {
+          "name": "Kabel",
+          "type": "DEFAULT",
+          "attributes": [
+            {
+              "name": "Kabellänge",
+              "value": "1,2 m"
+            },
+            {
+              "name": "Kabelarten",
+              "value": "gerades Kabel, beidseitig"
+            },
+            {
+              "name": "Stecker",
+              "value": "3,5 mm"
+            },
+            {
+              "name": "Steckerform",
+              "value": "abgewinkelt"
+            }
+          ]
+        },
+        {
+          "name": "Design",
+          "type": "DEFAULT",
+          "attributes": [
+            {
+              "name": "Farbe",
+              "value": "schwarz"
+            },
+            {
+              "name": "Material",
+              "value": "Kunststoff"
+            }
+          ]
+        },
+        {
+          "name": "",
+          "type": "IMPORTANT",
+          "attributes": [
+            {
+              "name": "Gelistet seit",
+              "value": "August 2011"
+            },
+            {
+              "name": "Produkttyp",
+              "value": "In-Ear-Kopfhörer"
+            },
+            {
+              "name": "Serie",
+              "value": "Sony MDR-E"
+            },
+            {
+              "name": "Typ",
+              "value": "Dynamisch"
+            },
+            {
+              "name": "Trageweise",
+              "value": "im Ohr sitzend"
+            }
+          ]
+        },
+        {
+          "name": "",
+          "type": "OTHER",
+          "attributes": [
+            {
+              "name": "Markteinführung",
+              "value": "2011"
+            },
+            {
+              "name": "Bemerkung",
+              "value": "in verschiedenen Farben erhältlich"
+            }
+          ]
+        }
+      ]
+    },
+    "productOverview": [
+      "im Ohr sitzend",
+      "kabelgebunden",
+      "Frequenzgang 18 - 22.000 Hz",
+      "16 Ohm",
+      "Kabellänge 1,2 m"
+    ],
+    "productDetailsUrl": "https://www.idealo.de/preisvergleich/OffersOfProduct/2914192_-mdr-e9lp-schwarz-sony.html#datasheet",
+    "priceTrend": {
+      "history": [
+        {
+          "dateTime": 1793228399999,
+          "price": 499
+        },
+        {
+          "dateTime": 1793314799999,
+          "price": 499
+        },
+        {
+          "dateTime": 1793401199999,
+          "price": 499
+        },
+        {
+          "dateTime": 1793487599999,
+          "price": 499
+        },
+        {
+          "dateTime": 1793573999999,
+          "price": 499
+        },
+        {
+          "dateTime": 1793660399999,
+          "price": 499
+        },
+        {
+          "dateTime": 1793746799999,
+          "price": 499
+        },
+        {
+          "dateTime": 1793833199999,
+          "price": 499
+        },
+        {
+          "dateTime": 1793919599999,
+          "price": 499
+        },
+        {
+          "dateTime": 1794005999999,
+          "price": 499
+        },
+        {
+          "dateTime": 1794092399999,
+          "price": 499
+        },
+        {
+          "dateTime": 1794178799999,
+          "price": 499
+        },
+        {
+          "dateTime": 1794265199999,
+          "price": 499
+        },
+        {
+          "dateTime": 1794351599999,
+          "price": 499
+        },
+        {
+          "dateTime": 1794437999999,
+          "price": 499
+        },
+        {
+          "dateTime": 1794524399999,
+          "price": 561
+        },
+        {
+          "dateTime": 1794610799999,
+          "price": 561
+        },
+        {
+          "dateTime": 1794697199999,
+          "price": 561
+        },
+        {
+          "dateTime": 1794783599999,
+          "price": 561
+        },
+        {
+          "dateTime": 1794869999999,
+          "price": 561
+        },
+        {
+          "dateTime": 1794956399999,
+          "price": 561
+        },
+        {
+          "dateTime": 1795042799999,
+          "price": 561
+        },
+        {
+          "dateTime": 1795129199999,
+          "price": 549
+        },
+        {
+          "dateTime": 1795215599999,
+          "price": 549
+        },
+        {
+          "dateTime": 1795301999999,
+          "price": 549
+        },
+        {
+          "dateTime": 1795388399999,
+          "price": 549
+        },
+        {
+          "dateTime": 1795474799999,
+          "price": 549
+        },
+        {
+          "dateTime": 1795561199999,
+          "price": 522
+        },
+        {
+          "dateTime": 1795647599999,
+          "price": 522
+        },
+        {
+          "dateTime": 1795733999999,
+          "price": 522
+        },
+        {
+          "dateTime": 1795799567308,
+          "price": 522
+        }
+      ]
+    }
+  },
+  "offers_pages": [
+    {
+      "nextOffset": 5,
+      "offers": [
+        {
+          "key": "13bebbe5b36a665a232044fa1677dec7",
+          "price": "5,22 €",
+          "basePrice": null,
+          "shop": {
+            "shopId": "301980",
+            "merchantId": null,
+            "name": "dressinn.com (DE)",
+            "merchantName": null,
+            "rating": {
+              "count": 108,
+              "avg": 1.5
+            },
+            "isMarketplace": false
+          },
+          "payments": [
+            {
+              "costCode": "INV",
+              "name": "Rechnung"
+            },
+            {
+              "costCode": "PP",
+              "name": "PayPal"
+            },
+            {
+              "costCode": "SUW",
+              "name": "Sofort."
+            },
+            {
+              "costCode": "CBC",
+              "name": "Kreditkarte"
+            },
+            {
+              "costCode": "CIA",
+              "name": "Vorkasse"
+            }
+          ],
+          "showPaymentDisclaimer": false,
+          "delivery": {
+            "deliveryText": "bis Mo. 07.12.2026",
+            "deliveryStatus": "MEDIUM",
+            "earlyDeliveryDate": null,
+            "lateDeliveryDate": "2026-12-07"
+          },
+          "freeReturnDays": null,
+          "relocatorUrl": "https://www.idealo.de/relocator/relocate?offerKey=13bebbe5b36a665a232044fa1677dec7&categoryId=2520&pos=1&price=5.22&productid=2914192&sid=301980&type=offer&media=ipc-public-mcp",
+          "minShippingCost": "4,99 €",
+          "hasAlwaysFreeShipping": false,
+          "cheapestTotalPriceOffer": false,
+          "freshness": "2026-11-27T17:12:47.612Z"
+        },
+        {
+          "key": "21b435da808676286bfbae6ae0d7839e",
+          "price": "5,61 €",
+          "basePrice": null,
+          "shop": {
+            "shopId": "23197",
+            "merchantId": null,
+            "name": "energeto.de",
+            "merchantName": null,
+            "rating": {
+              "count": 2501,
+              "avg": 4.6
+            },
+            "isMarketplace": false
+          },
+          "payments": [
+            {
+              "costCode": "PP",
+              "name": "PayPal"
+            },
+            {
+              "costCode": "CBC",
+              "name": "Kreditkarte"
+            },
+            {
+              "costCode": "CIA",
+              "name": "Vorkasse"
+            },
+            {
+              "costCode": "AMZP",
+              "name": "Amazon Pay"
+            }
+          ],
+          "showPaymentDisclaimer": false,
+          "delivery": {
+            "deliveryText": "Di. 01.12.–Mi. 02.12.2026",
+            "deliveryStatus": "SHORT",
+            "earlyDeliveryDate": "2026-12-01",
+            "lateDeliveryDate": "2026-12-02"
+          },
+          "freeReturnDays": null,
+          "relocatorUrl": "https://www.idealo.de/relocator/relocate?offerKey=21b435da808676286bfbae6ae0d7839e&categoryId=2520&pos=2&price=5.61&productid=2914192&sid=23197&type=offer&media=ipc-public-mcp",
+          "minShippingCost": "3,49 €",
+          "hasAlwaysFreeShipping": false,
+          "cheapestTotalPriceOffer": false,
+          "freshness": "2026-11-27T17:12:47.612Z"
+        },
+        {
+          "key": "9d8946e76a51dba07b6e8712f3212e39",
+          "price": "5,79 €",
+          "basePrice": null,
+          "shop": {
+            "shopId": "1362",
+            "merchantId": null,
+            "name": "alternate.de",
+            "merchantName": null,
+            "rating": {
+              "count": 13508,
+              "avg": 4.53
+            },
+            "isMarketplace": false
+          },
+          "payments": [
+            {
+              "costCode": "INV",
+              "name": "Rechnung"
+            },
+            {
+              "costCode": "PP",
+              "name": "PayPal"
+            },
+            {
+              "costCode": "SUW",
+              "name": "Sofort."
+            },
+            {
+              "costCode": "CBC",
+              "name": "Kreditkarte"
+            },
+            {
+              "costCode": "APPLE_PAY",
+              "name": "Apple Pay"
+            },
+            {
+              "costCode": "CIA",
+              "name": "Vorkasse"
+            }
+          ],
+          "showPaymentDisclaimer": false,
+          "delivery": {
+            "deliveryText": "Di. 01.12.–Mi. 02.12.2026",
+            "deliveryStatus": "SHORT",
+            "earlyDeliveryDate": "2026-12-01",
+            "lateDeliveryDate": "2026-12-02"
+          },
+          "freeReturnDays": 14,
+          "relocatorUrl": "https://www.idealo.de/relocator/relocate?offerKey=9d8946e76a51dba07b6e8712f3212e39&categoryId=2520&pos=3&price=5.79&productid=2914192&sid=1362&type=offer&media=ipc-public-mcp",
+          "minShippingCost": "7,99 €",
+          "hasAlwaysFreeShipping": false,
+          "cheapestTotalPriceOffer": false,
+          "freshness": "2026-11-27T17:12:47.612Z"
+        },
+        {
+          "key": "2c435918c2aa9e9752901ca5550367fa",
+          "price": "6,49 €",
+          "basePrice": null,
+          "shop": {
+            "shopId": "285519",
+            "merchantId": null,
+            "name": "mediamarkt.de",
+            "merchantName": null,
+            "rating": {
+              "count": 18594,
+              "avg": 3.85
+            },
+            "isMarketplace": false
+          },
+          "payments": [
+            {
+              "costCode": "PP",
+              "name": "PayPal"
+            },
+            {
+              "costCode": "SUW",
+              "name": "Sofort."
+            },
+            {
+              "costCode": "CBC",
+              "name": "Kreditkarte"
+            },
+            {
+              "costCode": "CIA",
+              "name": "Vorkasse"
+            },
+            {
+              "costCode": "AMZP",
+              "name": "Amazon Pay"
+            }
+          ],
+          "showPaymentDisclaimer": false,
+          "delivery": {
+            "deliveryText": "bis Di. 01.12.2026",
+            "deliveryStatus": "SHORT",
+            "earlyDeliveryDate": null,
+            "lateDeliveryDate": "2026-12-01"
+          },
+          "freeReturnDays": 30,
+          "relocatorUrl": "https://www.idealo.de/relocator/relocate?offerKey=2c435918c2aa9e9752901ca5550367fa&categoryId=2520&pos=5&price=6.49&productid=2914192&sid=285519&type=offer&media=ipc-public-mcp",
+          "minShippingCost": "0,00 €",
+          "hasAlwaysFreeShipping": true,
+          "cheapestTotalPriceOffer": true,
+          "freshness": "2026-11-27T17:12:47.612Z"
+        }
+      ]
+    },
+    {
+      "nextOffset": 0,
+      "offers": [
+        {
+          "key": "db3d9a07c03dad49857aad9947591f82",
+          "price": "6,49 €",
+          "basePrice": null,
+          "shop": {
+            "shopId": "281846",
+            "merchantId": null,
+            "name": "saturn.de",
+            "merchantName": null,
+            "rating": {
+              "count": 15509,
+              "avg": 3.64
+            },
+            "isMarketplace": false
+          },
+          "payments": [
+            {
+              "costCode": "PP",
+              "name": "PayPal"
+            },
+            {
+              "costCode": "SUW",
+              "name": "Sofort."
+            },
+            {
+              "costCode": "CBC",
+              "name": "Kreditkarte"
+            },
+            {
+              "costCode": "CIA",
+              "name": "Vorkasse"
+            },
+            {
+              "costCode": "AMZP",
+              "name": "Amazon Pay"
+            }
+          ],
+          "showPaymentDisclaimer": false,
+          "delivery": {
+            "deliveryText": "bis Di. 01.12.2026",
+            "deliveryStatus": "SHORT",
+            "earlyDeliveryDate": null,
+            "lateDeliveryDate": "2026-12-01"
+          },
+          "freeReturnDays": 30,
+          "relocatorUrl": "https://www.idealo.de/relocator/relocate?offerKey=db3d9a07c03dad49857aad9947591f82&categoryId=2520&pos=6&price=6.49&productid=2914192&sid=281846&type=offer&media=ipc-public-mcp",
+          "minShippingCost": "0,00 €",
+          "hasAlwaysFreeShipping": true,
+          "cheapestTotalPriceOffer": true,
+          "freshness": "2026-11-27T17:12:48.352Z"
+        },
+        {
+          "key": "022a7a50427cf7c569729a3f90d36b50",
+          "price": "6,49 €",
+          "basePrice": null,
+          "shop": {
+            "shopId": "21830",
+            "merchantId": null,
+            "name": "bueroshop24.de",
+            "merchantName": null,
+            "rating": {
+              "count": 6658,
+              "avg": 4.66
+            },
+            "isMarketplace": false
+          },
+          "payments": [
+            {
+              "costCode": "INV",
+              "name": "Rechnung"
+            },
+            {
+              "costCode": "PP",
+              "name": "PayPal"
+            },
+            {
+              "costCode": "DD",
+              "name": "Lastschrift"
+            },
+            {
+              "costCode": "SUW",
+              "name": "Sofort."
+            },
+            {
+              "costCode": "CBC",
+              "name": "Kreditkarte"
+            },
+            {
+              "costCode": "CIA",
+              "name": "Vorkasse"
+            }
+          ],
+          "showPaymentDisclaimer": false,
+          "delivery": {
+            "deliveryText": "Sofort lieferbar",
+            "deliveryStatus": "SHORT",
+            "earlyDeliveryDate": null,
+            "lateDeliveryDate": null
+          },
+          "freeReturnDays": 30,
+          "relocatorUrl": "https://www.idealo.de/relocator/relocate?offerKey=022a7a50427cf7c569729a3f90d36b50&categoryId=2520&pos=7&price=6.49&productid=2914192&sid=21830&type=offer&media=ipc-public-mcp",
+          "minShippingCost": "4,99 €",
+          "hasAlwaysFreeShipping": false,
+          "cheapestTotalPriceOffer": false,
+          "freshness": "2026-11-27T17:12:48.352Z"
+        },
+        {
+          "key": "557fd02d7cc2371f4fde9c368c87ce37",
+          "price": "6,49 €",
+          "basePrice": null,
+          "shop": {
+            "shopId": "338942",
+            "merchantId": null,
+            "name": "pccomponentes.de",
+            "merchantName": null,
+            "rating": {
+              "count": 2,
+              "avg": 3
+            },
+            "isMarketplace": false
+          },
+          "payments": [
+            {
+              "costCode": "PP",
+              "name": "PayPal"
+            },
+            {
+              "costCode": "CBC",
+              "name": "Kreditkarte"
+            },
+            {
+              "costCode": "APPLE_PAY",
+              "name": "Apple Pay"
+            },
+            {
+              "costCode": "CIA",
+              "name": "Vorkasse"
+            }
+          ],
+          "showPaymentDisclaimer": false,
+          "delivery": {
+            "deliveryText": "Mi. 02.12.–Fr. 04.12.2026",
+            "deliveryStatus": "MEDIUM",
+            "earlyDeliveryDate": "2026-12-02",
+            "lateDeliveryDate": "2026-12-04"
+          },
+          "freeReturnDays": null,
+          "relocatorUrl": "https://www.idealo.de/relocator/relocate?offerKey=557fd02d7cc2371f4fde9c368c87ce37&categoryId=2520&pos=8&price=6.49&productid=2914192&sid=338942&type=offer&media=ipc-public-mcp",
+          "minShippingCost": "3,95 €",
+          "hasAlwaysFreeShipping": false,
+          "cheapestTotalPriceOffer": false,
+          "freshness": "2026-11-27T17:12:48.352Z"
+        },
+        {
+          "key": "f18b3421622e0a6708a6e9133f5f68f2",
+          "price": "6,62 €",
+          "basePrice": null,
+          "shop": {
+            "shopId": "27566",
+            "merchantId": null,
+            "name": "office-partner.de",
+            "merchantName": null,
+            "rating": {
+              "count": 3231,
+              "avg": 4.38
+            },
+            "isMarketplace": false
+          },
+          "payments": [
+            {
+              "costCode": "INV",
+              "name": "Rechnung"
+            },
+            {
+              "costCode": "PP",
+              "name": "PayPal"
+            },
+            {
+              "costCode": "SUW",
+              "name": "Sofort."
+            },
+            {
+              "costCode": "CBC",
+              "name": "Kreditkarte"
+            },
+            {
+              "costCode": "CIA",
+              "name": "Vorkasse"
+            },
+            {
+              "costCode": "AMZP",
+              "name": "Amazon Pay"
+            }
+          ],
+          "showPaymentDisclaimer": false,
+          "delivery": {
+            "deliveryText": "bis Di. 01.12.2026",
+            "deliveryStatus": "SHORT",
+            "earlyDeliveryDate": null,
+            "lateDeliveryDate": "2026-12-01"
+          },
+          "freeReturnDays": 30,
+          "relocatorUrl": "https://www.idealo.de/relocator/relocate?offerKey=f18b3421622e0a6708a6e9133f5f68f2&categoryId=2520&pos=9&price=6.62&productid=2914192&sid=27566&type=offer&media=ipc-public-mcp",
+          "minShippingCost": "5,99 €",
+          "hasAlwaysFreeShipping": false,
+          "cheapestTotalPriceOffer": false,
+          "freshness": "2026-11-27T17:12:48.352Z"
+        },
+        {
+          "key": "990a4b71c096d3111500622e2bc42174",
+          "price": "6,62 €",
+          "basePrice": null,
+          "shop": {
+            "shopId": "243147",
+            "merchantId": null,
+            "name": "playox.de",
+            "merchantName": null,
+            "rating": {
+              "count": 1352,
+              "avg": 3.8
+            },
+            "isMarketplace": false
+          },
+          "payments": [
+            {
+              "costCode": "INV",
+              "name": "Rechnung"
+            },
+            {
+              "costCode": "PP",
+              "name": "PayPal"
+            },
+            {
+              "costCode": "SUW",
+              "name": "Sofort."
+            },
+            {
+              "costCode": "CBC",
+              "name": "Kreditkarte"
+            },
+            {
+              "costCode": "CIA",
+              "name": "Vorkasse"
+            },
+            {
+              "costCode": "AMZP",
+              "name": "Amazon Pay"
+            }
+          ],
+          "showPaymentDisclaimer": false,
+          "delivery": {
+            "deliveryText": "bis Di. 01.12.2026",
+            "deliveryStatus": "SHORT",
+            "earlyDeliveryDate": null,
+            "lateDeliveryDate": "2026-12-01"
+          },
+          "freeReturnDays": 30,
+          "relocatorUrl": "https://www.idealo.de/relocator/relocate?offerKey=990a4b71c096d3111500622e2bc42174&categoryId=2520&pos=10&price=6.62&productid=2914192&sid=243147&type=offer&media=ipc-public-mcp",
+          "minShippingCost": "5,99 €",
+          "hasAlwaysFreeShipping": false,
+          "cheapestTotalPriceOffer": false,
+          "freshness": "2026-11-27T17:12:48.352Z"
+        }
+      ],
+      "message": "Trial tier limit reached: max 10 offers per product. Upgrade for full access."
+    }
+  ],
+  "offers": [
+    {
+      "key": "13bebbe5b36a665a232044fa1677dec7",
+      "price": "5,22 €",
+      "basePrice": null,
+      "shop": {
+        "shopId": "301980",
+        "merchantId": null,
+        "name": "dressinn.com (DE)",
+        "merchantName": null,
+        "rating": {
+          "count": 108,
+          "avg": 1.5
+        },
+        "isMarketplace": false
+      },
+      "payments": [
+        {
+          "costCode": "INV",
+          "name": "Rechnung"
+        },
+        {
+          "costCode": "PP",
+          "name": "PayPal"
+        },
+        {
+          "costCode": "SUW",
+          "name": "Sofort."
+        },
+        {
+          "costCode": "CBC",
+          "name": "Kreditkarte"
+        },
+        {
+          "costCode": "CIA",
+          "name": "Vorkasse"
+        }
+      ],
+      "showPaymentDisclaimer": false,
+      "delivery": {
+        "deliveryText": "bis Mo. 07.12.2026",
+        "deliveryStatus": "MEDIUM",
+        "earlyDeliveryDate": null,
+        "lateDeliveryDate": "2026-12-07"
+      },
+      "freeReturnDays": null,
+      "relocatorUrl": "https://www.idealo.de/relocator/relocate?offerKey=13bebbe5b36a665a232044fa1677dec7&categoryId=2520&pos=1&price=5.22&productid=2914192&sid=301980&type=offer&media=ipc-public-mcp",
+      "minShippingCost": "4,99 €",
+      "hasAlwaysFreeShipping": false,
+      "cheapestTotalPriceOffer": false,
+      "freshness": "2026-11-27T17:12:47.612Z"
+    },
+    {
+      "key": "21b435da808676286bfbae6ae0d7839e",
+      "price": "5,61 €",
+      "basePrice": null,
+      "shop": {
+        "shopId": "23197",
+        "merchantId": null,
+        "name": "energeto.de",
+        "merchantName": null,
+        "rating": {
+          "count": 2501,
+          "avg": 4.6
+        },
+        "isMarketplace": false
+      },
+      "payments": [
+        {
+          "costCode": "PP",
+          "name": "PayPal"
+        },
+        {
+          "costCode": "CBC",
+          "name": "Kreditkarte"
+        },
+        {
+          "costCode": "CIA",
+          "name": "Vorkasse"
+        },
+        {
+          "costCode": "AMZP",
+          "name": "Amazon Pay"
+        }
+      ],
+      "showPaymentDisclaimer": false,
+      "delivery": {
+        "deliveryText": "Di. 01.12.–Mi. 02.12.2026",
+        "deliveryStatus": "SHORT",
+        "earlyDeliveryDate": "2026-12-01",
+        "lateDeliveryDate": "2026-12-02"
+      },
+      "freeReturnDays": null,
+      "relocatorUrl": "https://www.idealo.de/relocator/relocate?offerKey=21b435da808676286bfbae6ae0d7839e&categoryId=2520&pos=2&price=5.61&productid=2914192&sid=23197&type=offer&media=ipc-public-mcp",
+      "minShippingCost": "3,49 €",
+      "hasAlwaysFreeShipping": false,
+      "cheapestTotalPriceOffer": false,
+      "freshness": "2026-11-27T17:12:47.612Z"
+    },
+    {
+      "key": "9d8946e76a51dba07b6e8712f3212e39",
+      "price": "5,79 €",
+      "basePrice": null,
+      "shop": {
+        "shopId": "1362",
+        "merchantId": null,
+        "name": "alternate.de",
+        "merchantName": null,
+        "rating": {
+          "count": 13508,
+          "avg": 4.53
+        },
+        "isMarketplace": false
+      },
+      "payments": [
+        {
+          "costCode": "INV",
+          "name": "Rechnung"
+        },
+        {
+          "costCode": "PP",
+          "name": "PayPal"
+        },
+        {
+          "costCode": "SUW",
+          "name": "Sofort."
+        },
+        {
+          "costCode": "CBC",
+          "name": "Kreditkarte"
+        },
+        {
+          "costCode": "APPLE_PAY",
+          "name": "Apple Pay"
+        },
+        {
+          "costCode": "CIA",
+          "name": "Vorkasse"
+        }
+      ],
+      "showPaymentDisclaimer": false,
+      "delivery": {
+        "deliveryText": "Di. 01.12.–Mi. 02.12.2026",
+        "deliveryStatus": "SHORT",
+        "earlyDeliveryDate": "2026-12-01",
+        "lateDeliveryDate": "2026-12-02"
+      },
+      "freeReturnDays": 14,
+      "relocatorUrl": "https://www.idealo.de/relocator/relocate?offerKey=9d8946e76a51dba07b6e8712f3212e39&categoryId=2520&pos=3&price=5.79&productid=2914192&sid=1362&type=offer&media=ipc-public-mcp",
+      "minShippingCost": "7,99 €",
+      "hasAlwaysFreeShipping": false,
+      "cheapestTotalPriceOffer": false,
+      "freshness": "2026-11-27T17:12:47.612Z"
+    },
+    {
+      "key": "2c435918c2aa9e9752901ca5550367fa",
+      "price": "6,49 €",
+      "basePrice": null,
+      "shop": {
+        "shopId": "285519",
+        "merchantId": null,
+        "name": "mediamarkt.de",
+        "merchantName": null,
+        "rating": {
+          "count": 18594,
+          "avg": 3.85
+        },
+        "isMarketplace": false
+      },
+      "payments": [
+        {
+          "costCode": "PP",
+          "name": "PayPal"
+        },
+        {
+          "costCode": "SUW",
+          "name": "Sofort."
+        },
+        {
+          "costCode": "CBC",
+          "name": "Kreditkarte"
+        },
+        {
+          "costCode": "CIA",
+          "name": "Vorkasse"
+        },
+        {
+          "costCode": "AMZP",
+          "name": "Amazon Pay"
+        }
+      ],
+      "showPaymentDisclaimer": false,
+      "delivery": {
+        "deliveryText": "bis Di. 01.12.2026",
+        "deliveryStatus": "SHORT",
+        "earlyDeliveryDate": null,
+        "lateDeliveryDate": "2026-12-01"
+      },
+      "freeReturnDays": 30,
+      "relocatorUrl": "https://www.idealo.de/relocator/relocate?offerKey=2c435918c2aa9e9752901ca5550367fa&categoryId=2520&pos=5&price=6.49&productid=2914192&sid=285519&type=offer&media=ipc-public-mcp",
+      "minShippingCost": "0,00 €",
+      "hasAlwaysFreeShipping": true,
+      "cheapestTotalPriceOffer": true,
+      "freshness": "2026-11-27T17:12:47.612Z"
+    },
+    {
+      "key": "db3d9a07c03dad49857aad9947591f82",
+      "price": "6,49 €",
+      "basePrice": null,
+      "shop": {
+        "shopId": "281846",
+        "merchantId": null,
+        "name": "saturn.de",
+        "merchantName": null,
+        "rating": {
+          "count": 15509,
+          "avg": 3.64
+        },
+        "isMarketplace": false
+      },
+      "payments": [
+        {
+          "costCode": "PP",
+          "name": "PayPal"
+        },
+        {
+          "costCode": "SUW",
+          "name": "Sofort."
+        },
+        {
+          "costCode": "CBC",
+          "name": "Kreditkarte"
+        },
+        {
+          "costCode": "CIA",
+          "name": "Vorkasse"
+        },
+        {
+          "costCode": "AMZP",
+          "name": "Amazon Pay"
+        }
+      ],
+      "showPaymentDisclaimer": false,
+      "delivery": {
+        "deliveryText": "bis Di. 01.12.2026",
+        "deliveryStatus": "SHORT",
+        "earlyDeliveryDate": null,
+        "lateDeliveryDate": "2026-12-01"
+      },
+      "freeReturnDays": 30,
+      "relocatorUrl": "https://www.idealo.de/relocator/relocate?offerKey=db3d9a07c03dad49857aad9947591f82&categoryId=2520&pos=6&price=6.49&productid=2914192&sid=281846&type=offer&media=ipc-public-mcp",
+      "minShippingCost": "0,00 €",
+      "hasAlwaysFreeShipping": true,
+      "cheapestTotalPriceOffer": true,
+      "freshness": "2026-11-27T17:12:48.352Z"
+    },
+    {
+      "key": "022a7a50427cf7c569729a3f90d36b50",
+      "price": "6,49 €",
+      "basePrice": null,
+      "shop": {
+        "shopId": "21830",
+        "merchantId": null,
+        "name": "bueroshop24.de",
+        "merchantName": null,
+        "rating": {
+          "count": 6658,
+          "avg": 4.66
+        },
+        "isMarketplace": false
+      },
+      "payments": [
+        {
+          "costCode": "INV",
+          "name": "Rechnung"
+        },
+        {
+          "costCode": "PP",
+          "name": "PayPal"
+        },
+        {
+          "costCode": "DD",
+          "name": "Lastschrift"
+        },
+        {
+          "costCode": "SUW",
+          "name": "Sofort."
+        },
+        {
+          "costCode": "CBC",
+          "name": "Kreditkarte"
+        },
+        {
+          "costCode": "CIA",
+          "name": "Vorkasse"
+        }
+      ],
+      "showPaymentDisclaimer": false,
+      "delivery": {
+        "deliveryText": "Sofort lieferbar",
+        "deliveryStatus": "SHORT",
+        "earlyDeliveryDate": null,
+        "lateDeliveryDate": null
+      },
+      "freeReturnDays": 30,
+      "relocatorUrl": "https://www.idealo.de/relocator/relocate?offerKey=022a7a50427cf7c569729a3f90d36b50&categoryId=2520&pos=7&price=6.49&productid=2914192&sid=21830&type=offer&media=ipc-public-mcp",
+      "minShippingCost": "4,99 €",
+      "hasAlwaysFreeShipping": false,
+      "cheapestTotalPriceOffer": false,
+      "freshness": "2026-11-27T17:12:48.352Z"
+    },
+    {
+      "key": "557fd02d7cc2371f4fde9c368c87ce37",
+      "price": "6,49 €",
+      "basePrice": null,
+      "shop": {
+        "shopId": "338942",
+        "merchantId": null,
+        "name": "pccomponentes.de",
+        "merchantName": null,
+        "rating": {
+          "count": 2,
+          "avg": 3
+        },
+        "isMarketplace": false
+      },
+      "payments": [
+        {
+          "costCode": "PP",
+          "name": "PayPal"
+        },
+        {
+          "costCode": "CBC",
+          "name": "Kreditkarte"
+        },
+        {
+          "costCode": "APPLE_PAY",
+          "name": "Apple Pay"
+        },
+        {
+          "costCode": "CIA",
+          "name": "Vorkasse"
+        }
+      ],
+      "showPaymentDisclaimer": false,
+      "delivery": {
+        "deliveryText": "Mi. 02.12.–Fr. 04.12.2026",
+        "deliveryStatus": "MEDIUM",
+        "earlyDeliveryDate": "2026-12-02",
+        "lateDeliveryDate": "2026-12-04"
+      },
+      "freeReturnDays": null,
+      "relocatorUrl": "https://www.idealo.de/relocator/relocate?offerKey=557fd02d7cc2371f4fde9c368c87ce37&categoryId=2520&pos=8&price=6.49&productid=2914192&sid=338942&type=offer&media=ipc-public-mcp",
+      "minShippingCost": "3,95 €",
+      "hasAlwaysFreeShipping": false,
+      "cheapestTotalPriceOffer": false,
+      "freshness": "2026-11-27T17:12:48.352Z"
+    },
+    {
+      "key": "f18b3421622e0a6708a6e9133f5f68f2",
+      "price": "6,62 €",
+      "basePrice": null,
+      "shop": {
+        "shopId": "27566",
+        "merchantId": null,
+        "name": "office-partner.de",
+        "merchantName": null,
+        "rating": {
+          "count": 3231,
+          "avg": 4.38
+        },
+        "isMarketplace": false
+      },
+      "payments": [
+        {
+          "costCode": "INV",
+          "name": "Rechnung"
+        },
+        {
+          "costCode": "PP",
+          "name": "PayPal"
+        },
+        {
+          "costCode": "SUW",
+          "name": "Sofort."
+        },
+        {
+          "costCode": "CBC",
+          "name": "Kreditkarte"
+        },
+        {
+          "costCode": "CIA",
+          "name": "Vorkasse"
+        },
+        {
+          "costCode": "AMZP",
+          "name": "Amazon Pay"
+        }
+      ],
+      "showPaymentDisclaimer": false,
+      "delivery": {
+        "deliveryText": "bis Di. 01.12.2026",
+        "deliveryStatus": "SHORT",
+        "earlyDeliveryDate": null,
+        "lateDeliveryDate": "2026-12-01"
+      },
+      "freeReturnDays": 30,
+      "relocatorUrl": "https://www.idealo.de/relocator/relocate?offerKey=f18b3421622e0a6708a6e9133f5f68f2&categoryId=2520&pos=9&price=6.62&productid=2914192&sid=27566&type=offer&media=ipc-public-mcp",
+      "minShippingCost": "5,99 €",
+      "hasAlwaysFreeShipping": false,
+      "cheapestTotalPriceOffer": false,
+      "freshness": "2026-11-27T17:12:48.352Z"
+    },
+    {
+      "key": "990a4b71c096d3111500622e2bc42174",
+      "price": "6,62 €",
+      "basePrice": null,
+      "shop": {
+        "shopId": "243147",
+        "merchantId": null,
+        "name": "playox.de",
+        "merchantName": null,
+        "rating": {
+          "count": 1352,
+          "avg": 3.8
+        },
+        "isMarketplace": false
+      },
+      "payments": [
+        {
+          "costCode": "INV",
+          "name": "Rechnung"
+        },
+        {
+          "costCode": "PP",
+          "name": "PayPal"
+        },
+        {
+          "costCode": "SUW",
+          "name": "Sofort."
+        },
+        {
+          "costCode": "CBC",
+          "name": "Kreditkarte"
+        },
+        {
+          "costCode": "CIA",
+          "name": "Vorkasse"
+        },
+        {
+          "costCode": "AMZP",
+          "name": "Amazon Pay"
+        }
+      ],
+      "showPaymentDisclaimer": false,
+      "delivery": {
+        "deliveryText": "bis Di. 01.12.2026",
+        "deliveryStatus": "SHORT",
+        "earlyDeliveryDate": null,
+        "lateDeliveryDate": "2026-12-01"
+      },
+      "freeReturnDays": 30,
+      "relocatorUrl": "https://www.idealo.de/relocator/relocate?offerKey=990a4b71c096d3111500622e2bc42174&categoryId=2520&pos=10&price=6.62&productid=2914192&sid=243147&type=offer&media=ipc-public-mcp",
+      "minShippingCost": "5,99 €",
+      "hasAlwaysFreeShipping": false,
+      "cheapestTotalPriceOffer": false,
+      "freshness": "2026-11-27T17:12:48.352Z"
+    }
+  ],
+  "price_history": {
+    "priceTrend": {
+      "history": [
+        {
+          "dateTime": 1793228399999,
+          "price": "4,99 €",
+          "dateTimeISO": "2026-10-28T22:59:59.999Z"
+        },
+        {
+          "dateTime": 1793314799999,
+          "price": "4,99 €",
+          "dateTimeISO": "2026-10-29T22:59:59.999Z",
+          "priceChangePercent": 0
+        },
+        {
+          "dateTime": 1793401199999,
+          "price": "4,99 €",
+          "dateTimeISO": "2026-10-30T22:59:59.999Z",
+          "priceChangePercent": 0
+        },
+        {
+          "dateTime": 1793487599999,
+          "price": "4,99 €",
+          "dateTimeISO": "2026-10-31T22:59:59.999Z",
+          "priceChangePercent": 0
+        },
+        {
+          "dateTime": 1793573999999,
+          "price": "4,99 €",
+          "dateTimeISO": "2026-11-01T22:59:59.999Z",
+          "priceChangePercent": 0
+        },
+        {
+          "dateTime": 1793660399999,
+          "price": "4,99 €",
+          "dateTimeISO": "2026-11-02T22:59:59.999Z",
+          "priceChangePercent": 0
+        },
+        {
+          "dateTime": 1793746799999,
+          "price": "4,99 €",
+          "dateTimeISO": "2026-11-03T22:59:59.999Z",
+          "priceChangePercent": 0
+        },
+        {
+          "dateTime": 1793833199999,
+          "price": "4,99 €",
+          "dateTimeISO": "2026-11-04T22:59:59.999Z",
+          "priceChangePercent": 0
+        },
+        {
+          "dateTime": 1793919599999,
+          "price": "4,99 €",
+          "dateTimeISO": "2026-11-05T22:59:59.999Z",
+          "priceChangePercent": 0
+        },
+        {
+          "dateTime": 1794005999999,
+          "price": "4,99 €",
+          "dateTimeISO": "2026-11-06T22:59:59.999Z",
+          "priceChangePercent": 0
+        },
+        {
+          "dateTime": 1794092399999,
+          "price": "4,99 €",
+          "dateTimeISO": "2026-11-07T22:59:59.999Z",
+          "priceChangePercent": 0
+        },
+        {
+          "dateTime": 1794178799999,
+          "price": "4,99 €",
+          "dateTimeISO": "2026-11-08T22:59:59.999Z",
+          "priceChangePercent": 0
+        },
+        {
+          "dateTime": 1794265199999,
+          "price": "4,99 €",
+          "dateTimeISO": "2026-11-09T22:59:59.999Z",
+          "priceChangePercent": 0
+        },
+        {
+          "dateTime": 1794351599999,
+          "price": "4,99 €",
+          "dateTimeISO": "2026-11-10T22:59:59.999Z",
+          "priceChangePercent": 0
+        },
+        {
+          "dateTime": 1794437999999,
+          "price": "4,99 €",
+          "dateTimeISO": "2026-11-11T22:59:59.999Z",
+          "priceChangePercent": 0
+        },
+        {
+          "dateTime": 1794524399999,
+          "price": "5,61 €",
+          "dateTimeISO": "2026-11-12T22:59:59.999Z",
+          "priceChangePercent": 12.424849699398797
+        },
+        {
+          "dateTime": 1794610799999,
+          "price": "5,61 €",
+          "dateTimeISO": "2026-11-13T22:59:59.999Z",
+          "priceChangePercent": 0
+        },
+        {
+          "dateTime": 1794697199999,
+          "price": "5,61 €",
+          "dateTimeISO": "2026-11-14T22:59:59.999Z",
+          "priceChangePercent": 0
+        },
+        {
+          "dateTime": 1794783599999,
+          "price": "5,61 €",
+          "dateTimeISO": "2026-11-15T22:59:59.999Z",
+          "priceChangePercent": 0
+        },
+        {
+          "dateTime": 1794869999999,
+          "price": "5,61 €",
+          "dateTimeISO": "2026-11-16T22:59:59.999Z",
+          "priceChangePercent": 0
+        },
+        {
+          "dateTime": 1794956399999,
+          "price": "5,61 €",
+          "dateTimeISO": "2026-11-17T22:59:59.999Z",
+          "priceChangePercent": 0
+        },
+        {
+          "dateTime": 1795042799999,
+          "price": "5,61 €",
+          "dateTimeISO": "2026-11-18T22:59:59.999Z",
+          "priceChangePercent": 0
+        },
+        {
+          "dateTime": 1795129199999,
+          "price": "5,49 €",
+          "dateTimeISO": "2026-11-19T22:59:59.999Z",
+          "priceChangePercent": -2.13903743315508
+        },
+        {
+          "dateTime": 1795215599999,
+          "price": "5,49 €",
+          "dateTimeISO": "2026-11-20T22:59:59.999Z",
+          "priceChangePercent": 0
+        },
+        {
+          "dateTime": 1795301999999,
+          "price": "5,49 €",
+          "dateTimeISO": "2026-11-21T22:59:59.999Z",
+          "priceChangePercent": 0
+        },
+        {
+          "dateTime": 1795388399999,
+          "price": "5,49 €",
+          "dateTimeISO": "2026-11-22T22:59:59.999Z",
+          "priceChangePercent": 0
+        },
+        {
+          "dateTime": 1795474799999,
+          "price": "5,49 €",
+          "dateTimeISO": "2026-11-23T22:59:59.999Z",
+          "priceChangePercent": 0
+        },
+        {
+          "dateTime": 1795561199999,
+          "price": "5,22 €",
+          "dateTimeISO": "2026-11-24T22:59:59.999Z",
+          "priceChangePercent": -4.918032786885246
+        },
+        {
+          "dateTime": 1795647599999,
+          "price": "5,22 €",
+          "dateTimeISO": "2026-11-25T22:59:59.999Z",
+          "priceChangePercent": 0
+        },
+        {
+          "dateTime": 1795733999999,
+          "price": "5,22 €",
+          "dateTimeISO": "2026-11-26T22:59:59.999Z",
+          "priceChangePercent": 0
+        },
+        {
+          "dateTime": 1795799568995,
+          "price": "5,22 €",
+          "dateTimeISO": "2026-11-27T17:12:48.995Z",
+          "priceChangePercent": 0
+        }
+      ],
+      "statistics": {
+        "minPrice": "4,99 €",
+        "maxPrice": "5,61 €",
+        "avgPrice": "5,24 €",
+        "currentPrice": "5,22 €",
+        "priceChangePercent": 4.609218436873747,
+        "lowestPriceDate": "2026-10-28T22:59:59.999Z",
+        "highestPriceDate": "2026-11-12T22:59:59.999Z"
+      },
+      "samplingGranularity": "daily",
+      "dataSourceConfidence": 0.95,
+      "periodDays": 29.8,
+      "totalDataPoints": 31
+    }
+  }
+}

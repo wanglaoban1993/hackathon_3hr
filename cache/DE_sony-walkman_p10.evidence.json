@@ -1,0 +1,254 @@
+{
+  "query": "sony walkman",
+  "country": "DE",
+  "currency": "EUR",
+  "product_name": "Sony MDR-E9LP",
+  "product_url": "https://www.idealo.de/preisvergleich/OffersOfProduct/2914192_-mdr-e9lp-schwarz-sony.html",
+  "list_price": 5.22,
+  "total_offers_on_idealo": 29,
+  "user_rating": 4.09,
+  "user_review_count": 34,
+  "test_grade": "1,8",
+  "pros": [
+    "leichtes Gewicht von nur 6 g",
+    "komfortabler Sitz im Ohr",
+    "gute Klangqualität für Podcasts und Videos"
+  ],
+  "cons": [
+    "begrenzte Haltbarkeit",
+    "schwacher Bass",
+    "kein Mikrofon für Telefonate"
+  ],
+  "offers": [
+    {
+      "shop": "dressinn.com (DE)",
+      "is_marketplace": false,
+      "price": 5.22,
+      "shipping": 4.99,
+      "total_price": 10.21,
+      "shipping_known": true,
+      "shop_rating": 1.5,
+      "shop_rating_count": 108,
+      "delivery_text": "bis Mo. 07.12.2026",
+      "delivery_status": "MEDIUM",
+      "delivery_latest": "2026-12-07",
+      "payment_methods": [
+        "Rechnung",
+        "PayPal",
+        "Sofort.",
+        "Kreditkarte",
+        "Vorkasse"
+      ],
+      "freshness": "2026-11-27T17:12:47.612Z",
+      "url": "https://www.idealo.de/relocator/relocate?offerKey=13bebbe5b36a665a232044fa1677dec7&categoryId=2520&pos=1&price=5.22&productid=2914192&sid=301980&type=offer&media=ipc-public-mcp"
+    },
+    {
+      "shop": "energeto.de",
+      "is_marketplace": false,
+      "price": 5.61,
+      "shipping": 3.49,
+      "total_price": 9.1,
+      "shipping_known": true,
+      "shop_rating": 4.6,
+      "shop_rating_count": 2501,
+      "delivery_text": "Di. 01.12.–Mi. 02.12.2026",
+      "delivery_status": "SHORT",
+      "delivery_earliest": "2026-12-01",
+      "delivery_latest": "2026-12-02",
+      "payment_methods": [
+        "PayPal",
+        "Kreditkarte",
+        "Vorkasse",
+        "Amazon Pay"
+      ],
+      "freshness": "2026-11-27T17:12:47.612Z",
+      "url": "https://www.idealo.de/relocator/relocate?offerKey=21b435da808676286bfbae6ae0d7839e&categoryId=2520&pos=2&price=5.61&productid=2914192&sid=23197&type=offer&media=ipc-public-mcp"
+    },
+    {
+      "shop": "alternate.de",
+      "is_marketplace": false,
+      "price": 5.79,
+      "shipping": 7.99,
+      "total_price": 13.78,
+      "shipping_known": true,
+      "shop_rating": 4.53,
+      "shop_rating_count": 13508,
+      "delivery_text": "Di. 01.12.–Mi. 02.12.2026",
+      "delivery_status": "SHORT",
+      "delivery_earliest": "2026-12-01",
+      "delivery_latest": "2026-12-02",
+      "free_return_days": 14,
+      "payment_methods": [
+        "Rechnung",
+        "PayPal",
+        "Sofort.",
+        "Kreditkarte",
+        "Apple Pay",
+        "Vorkasse"
+      ],
+      "freshness": "2026-11-27T17:12:47.612Z",
+      "url": "https://www.idealo.de/relocator/relocate?offerKey=9d8946e76a51dba07b6e8712f3212e39&categoryId=2520&pos=3&price=5.79&productid=2914192&sid=1362&type=offer&media=ipc-public-mcp"
+    },
+    {
+      "shop": "mediamarkt.de",
+      "is_marketplace": false,
+      "price": 6.49,
+      "shipping": 0.0,
+      "total_price": 6.49,
+      "shipping_known": true,
+      "shop_rating": 3.85,
+      "shop_rating_count": 18594,
+      "delivery_text": "bis Di. 01.12.2026",
+      "delivery_status": "SHORT",
+      "delivery_latest": "2026-12-01",
+      "free_return_days": 30,
+      "payment_methods": [
+        "PayPal",
+        "Sofort.",
+        "Kreditkarte",
+        "Vorkasse",
+        "Amazon Pay"
+      ],
+      "freshness": "2026-11-27T17:12:47.612Z",
+      "url": "https://www.idealo.de/relocator/relocate?offerKey=2c435918c2aa9e9752901ca5550367fa&categoryId=2520&pos=5&price=6.49&productid=2914192&sid=285519&type=offer&media=ipc-public-mcp"
+    },
+    {
+      "shop": "saturn.de",
+      "is_marketplace": false,
+      "price": 6.49,
+      "shipping": 0.0,
+      "total_price": 6.49,
+      "shipping_known": true,
+      "shop_rating": 3.64,
+      "shop_rating_count": 15509,
+      "delivery_text": "bis Di. 01.12.2026",
+      "delivery_status": "SHORT",
+      "delivery_latest": "2026-12-01",
+      "free_return_days": 30,
+      "payment_methods": [
+        "PayPal",
+        "Sofort.",
+        "Kreditkarte",
+        "Vorkasse",
+        "Amazon Pay"
+      ],
+      "freshness": "2026-11-27T17:12:48.352Z",
+      "url": "https://www.idealo.de/relocator/relocate?offerKey=db3d9a07c03dad49857aad9947591f82&categoryId=2520&pos=6&price=6.49&productid=2914192&sid=281846&type=offer&media=ipc-public-mcp"
+    },
+    {
+      "shop": "bueroshop24.de",
+      "is_marketplace": false,
+      "price": 6.49,
+      "shipping": 4.99,
+      "total_price": 11.48,
+      "shipping_known": true,
+      "shop_rating": 4.66,
+      "shop_rating_count": 6658,
+      "delivery_text": "Sofort lieferbar",
+      "delivery_status": "SHORT",
+      "free_return_days": 30,
+      "payment_methods": [
+        "Rechnung",
+        "PayPal",
+        "Lastschrift",
+        "Sofort.",
+        "Kreditkarte",
+        "Vorkasse"
+      ],
+      "freshness": "2026-11-27T17:12:48.352Z",
+      "url": "https://www.idealo.de/relocator/relocate?offerKey=022a7a50427cf7c569729a3f90d36b50&categoryId=2520&pos=7&price=6.49&productid=2914192&sid=21830&type=offer&media=ipc-public-mcp"
+    },
+    {
+      "shop": "pccomponentes.de",
+      "is_marketplace": false,
+      "price": 6.49,
+      "shipping": 3.95,
+      "total_price": 10.44,
+      "shipping_known": true,
+      "shop_rating": 3.0,
+      "shop_rating_count": 2,
+      "delivery_text": "Mi. 02.12.–Fr. 04.12.2026",
+      "delivery_status": "MEDIUM",
+      "delivery_earliest": "2026-12-02",
+      "delivery_latest": "2026-12-04",
+      "payment_methods": [
+        "PayPal",
+        "Kreditkarte",
+        "Apple Pay",
+        "Vorkasse"
+      ],
+      "freshness": "2026-11-27T17:12:48.352Z",
+      "url": "https://www.idealo.de/relocator/relocate?offerKey=557fd02d7cc2371f4fde9c368c87ce37&categoryId=2520&pos=8&price=6.49&productid=2914192&sid=338942&type=offer&media=ipc-public-mcp"
+    },
+    {
+      "shop": "office-partner.de",
+      "is_marketplace": false,
+      "price": 6.62,
+      "shipping": 5.99,
+      "total_price": 12.61,
+      "shipping_known": true,
+      "shop_rating": 4.38,
+      "shop_rating_count": 3231,
+      "delivery_text": "bis Di. 01.12.2026",
+      "delivery_status": "SHORT",
+      "delivery_latest": "2026-12-01",
+      "free_return_days": 30,
+      "payment_methods": [
+        "Rechnung",
+        "PayPal",
+        "Sofort.",
+        "Kreditkarte",
+        "Vorkasse",
+        "Amazon Pay"
+      ],
+      "freshness": "2026-11-27T17:12:48.352Z",
+      "url": "https://www.idealo.de/relocator/relocate?offerKey=f18b3421622e0a6708a6e9133f5f68f2&categoryId=2520&pos=9&price=6.62&productid=2914192&sid=27566&type=offer&media=ipc-public-mcp"
+    },
+    {
+      "shop": "playox.de",
+      "is_marketplace": false,
+      "price": 6.62,
+      "shipping": 5.99,
+      "total_price": 12.61,
+      "shipping_known": true,
+      "shop_rating": 3.8,
+      "shop_rating_count": 1352,
+      "delivery_text": "bis Di. 01.12.2026",
+      "delivery_status": "SHORT",
+      "delivery_latest": "2026-12-01",
+      "free_return_days": 30,
+      "payment_methods": [
+        "Rechnung",
+        "PayPal",
+        "Sofort.",
+        "Kreditkarte",
+        "Vorkasse",
+        "Amazon Pay"
+      ],
+      "freshness": "2026-11-27T17:12:48.352Z",
+      "url": "https://www.idealo.de/relocator/relocate?offerKey=990a4b71c096d3111500622e2bc42174&categoryId=2520&pos=10&price=6.62&productid=2914192&sid=243147&type=offer&media=ipc-public-mcp"
+    }
+  ],
+  "offers_capped_by_trial_tier": true,
+  "price_history": {
+    "period_days": 29,
+    "current": 5.22,
+    "min": 4.99,
+    "max": 5.61,
+    "avg": 5.24,
+    "change_percent": 4.609218436873747,
+    "lowest_price_date": "2026-10-28T22:59:59.999Z",
+    "highest_price_date": "2026-11-12T22:59:59.999Z",
+    "data_source_confidence": 0.95,
+    "total_data_points": 31
+  },
+  "market_stats": {
+    "offer_count": 9,
+    "min_total": 6.49,
+    "median_total": 10.44,
+    "max_total": 13.78
+  },
+  "gaps": [
+    "offer list truncated by API tier: Trial tier limit reached: max 10 offers per product. Upgrade for full access."
+  ]
+}
