@@ -1,22 +1,23 @@
-"""Mock idealo-style offers for the two required demo cases.
-The idealo teammate replaces these with real MCP data using the same fields:
-merchant, price, in_stock, delivery, merchant_rating
+"""The two required demo cases: real idealo evidence captured 2026-11-27 (see demo_cases/).
+
+Each case = (evidence dict, budget in EUR). For live data instead:
+    from idealo_client import get_evidence
+    evidence = get_evidence("27 zoll monitor", country="DE", pick=3)
 """
+import json
+from pathlib import Path
 
-PRODUCT = "Sony WH-1000XM5"
-BUDGET = 300
+DEMO_DIR = Path(__file__).with_name("demo_cases")
 
-ROUTINE_OFFERS = [
-    {"merchant": "MediaMarkt", "price": 279.00, "in_stock": True, "delivery": "1-2 days", "merchant_rating": 4.6},
-    {"merchant": "Amazon", "price": 281.99, "in_stock": True, "delivery": "1 day", "merchant_rating": 4.7},
-    {"merchant": "Otto", "price": 285.00, "in_stock": True, "delivery": "2-3 days", "merchant_rating": 4.4},
-]
 
-CONFLICTING_OFFERS = ROUTINE_OFFERS + [
-    {"merchant": "cheap-deals24.biz", "price": 149.00, "in_stock": True, "delivery": None, "merchant_rating": None},
-]
+def load(name: str) -> dict:
+    return json.loads((DEMO_DIR / name).read_text(encoding="utf-8"))
+
 
 CASES = {
-    "routine": (PRODUCT, BUDGET, ROUTINE_OFFERS),
-    "conflicting": (PRODUCT, BUDGET, CONFLICTING_OFFERS),
+    # Samsung Odyssey G50F: 9 consistent offers €132.65-149.88, stable price -> expect BUY_NOW
+    "routine": (load("routine_samsung_odyssey_g50f.json"), 160),
+    # GigaByte M27UP Ice: cheapest shop (joybuy.de €259) has a 2.32 rating, price fell 13%,
+    # two shops with UNKNOWN delivery, only 5 product reviews -> expect conflict flagged
+    "conflicting": (load("conflict_gigabyte_m27up.json"), 300),
 }

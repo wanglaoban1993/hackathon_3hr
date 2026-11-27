@@ -2,9 +2,10 @@
 from agent import decide
 from cases import CASES
 
-for name, (product, budget, offers) in CASES.items():
-    print(f"\n=== {name.upper()} CASE: {product}, budget €{budget}, {len(offers)} offers ===")
-    d = decide(product, budget, offers)
+for name, (evidence, budget) in CASES.items():
+    print(f"\n=== {name.upper()} CASE: {evidence.get('product_name')}, budget €{budget}, "
+          f"{len(evidence.get('offers', []))} idealo offers ===")
+    d = decide(evidence, budget)
     print(f"Decision:   {d.decision}  (confidence {d.confidence:.2f})")
     print(f"Model:      {d.model_used}  [call {d.nebius_call_id}]")
     print("Pre-check flags:" + ("" if d.flags else " none"))
