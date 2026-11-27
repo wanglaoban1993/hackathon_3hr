@@ -46,7 +46,7 @@ def offer_chart(df, cited, median, budget):
     """Total price per shop, coloured the same way as the table."""
     def status(row):
         if row["shop"] in cited:
-            return "Agent relied on"
+            return "Cited by the agent"
         if pd.notna(row["shop_rating"]) and row["shop_rating"] < LOW_SHOP_RATING:
             return "Low shop rating"
         if row["delivery_status"] in (None, "UNKNOWN") or pd.isna(row["delivery_status"]):
@@ -54,10 +54,10 @@ def offer_chart(df, cited, median, budget):
         return "OK"
     data = df.assign(status=df.apply(status, axis=1))
     low = float(data["total_price"].min()) * 0.9
-    scale = alt.Scale(domain=["Agent relied on", "OK", "Delivery unknown", "Low shop rating"],
+    scale = alt.Scale(domain=["Cited by the agent", "OK", "Delivery unknown", "Low shop rating"],
                       range=["#2ea043", "#8b949e", "#d29922", "#f85149"])
     bars = alt.Chart(data).mark_bar(cornerRadiusEnd=4).encode(
-        y=alt.Y("shop:N", sort="x", title=None),
+        y=alt.Y("shop:N", sort=list(data.sort_values("total_price")["shop"]), title=None),
         x=alt.X("total_price:Q", title="Total price incl. shipping (€)", scale=alt.Scale(domainMin=low, clamp=True)),
         color=alt.Color("status:N", scale=scale, legend=alt.Legend(orient="bottom", title=None)),
         tooltip=["shop", "total_price", "shop_rating", "shop_rating_count", "delivery_text"])
@@ -71,7 +71,9 @@ def offer_chart(df, cited, median, budget):
 st.markdown("### 1 · Evidence from idealo")
 case_name = st.radio("Demo case", list(CASES), horizontal=True, format_func=lambda k: LABELS.get(k, k))
 evidence, default_budget = CASES[case_name]
-budget = st.number_input("Budget (€)", min_value=0, value=default_budget, step=10, key=f"budget_{case_name}")
+top_price = max((o.get("total_price") or 0) for o in evidence.get("offers", [])) if evidence.get("offers") else default_budget
+budget = st.slider("Your budget (€): drag it and watch the budget line move", 0, int(max(top_price, default_budget) * 1.3 // 10 * 10),
+                   default_budget, step=5, key=f"budget_{case_name}")
 
 st.subheader(evidence.get("product_name", "Product"))
 ph = evidence.get("price_history") or {}
@@ -85,31 +87,69 @@ c4.metric("Product rating", f"{evidence.get('user_rating')} ★", f"{evidence.ge
           delta_color="off")
 c5.metric("Offers shown", f"{len(evidence.get('offers', []))} of {evidence.get('total_offers_on_idealo')}")
 
-result = st.session_state.get("result")
-if result and result["key"] != (case_name, budget):
-    result = None  # the case or budget changed: the old decision no longer applies
-d = result["decision"] if result else None
-
 cols = ["shop", "total_price", "shop_rating", "shop_rating_count", "delivery_status", "delivery_text"]
-offers_df = pd.DataFrame(evidence.get("offers", [])).reindex(columns=cols).sort_values("total_price")
-cited = d.cited_offers if d else []
+all_df = pd.DataFrame(evidence.get("offers", [])).reindex(columns=cols).sort_values("total_price").reset_index(drop=True)
+
+
+def signal(row):
+    if pd.notna(row["shop_rating"]) and row["shop_rating"] < LOW_SHOP_RATING:
+        return "🟥 low rating"
+    if row["delivery_status"] in (None, "UNKNOWN") or pd.isna(row["delivery_status"]):
+        return "🟧 delivery?"
+    return "ok"
+
+
 chart_col, table_col = st.columns([5, 6])
-chart_col.altair_chart(offer_chart(offers_df, cited, stats.get("median_total"), budget), width="stretch")
-table_col.dataframe(
-    offers_df.style.apply(row_style, axis=1, cited=cited)
-    .format({"total_price": "€{:.2f}", "shop_rating": "{:.2f}", "shop_rating_count": "{:,.0f}"}, na_rep="unknown"),
-    hide_index=True, width="stretch", height=38 * len(offers_df) + 40,
-    column_config={"shop": "Shop", "total_price": "Total", "shop_rating": "Shop rating", "shop_rating_count": "Ratings",
-                   "delivery_status": "Delivery", "delivery_text": "Delivery detail"})
-st.caption(f"🟥 shop rating under {LOW_SHOP_RATING}/5 · 🟧 delivery unknown · 🟩 offer the agent relied on (after it decides) · dashed lines: median and budget. "
+with table_col:
+    st.markdown("**What-if:** untick a shop to hide it from the agent, then ask again. The decision follows the evidence.")
+    edited = st.data_editor(
+        all_df.assign(include=True, signal=all_df.apply(signal, axis=1))[["include", "signal", *cols]],
+        hide_index=True, width="stretch", height=38 * len(all_df) + 40, disabled=["signal", *cols], key=f"editor_{case_name}",
+        column_config={"include": st.column_config.CheckboxColumn("Use", help="Untick to remove this offer from the evidence"),
+                       "signal": "Signal", "shop": "Shop", "total_price": st.column_config.NumberColumn("Total", format="€%.2f"),
+                       "shop_rating": st.column_config.NumberColumn("Shop rating", format="%.2f"), "shop_rating_count": "Ratings",
+                       "delivery_status": "Delivery", "delivery_text": "Delivery detail"})
+excluded = tuple(sorted(edited.loc[~edited["include"], "shop"]))
+offers_df = all_df[~all_df["shop"].isin(excluded)]
+
+# The evidence the agent will actually see: the idealo data minus the offers the user removed.
+active = dict(evidence)
+if excluded:
+    active["offers"] = [o for o in evidence.get("offers", []) if o.get("shop") not in excluded]
+    totals = offers_df["total_price"].dropna()
+    active["market_stats"] = ({"offer_count": len(totals), "min_total": float(totals.min()),
+                               "median_total": float(totals.median()), "max_total": float(totals.max())} if len(totals) else None)
+    active["gaps"] = list(evidence.get("gaps", [])) + [f"What-if: the user removed {len(excluded)} offer(s) from the evidence: {', '.join(excluded)}."]
+run_key = (case_name, budget, excluded)
+
+result = st.session_state.get("result")
+if result and result["key"] != run_key:
+    result = None  # the case, budget or evidence changed: the old decision no longer applies
+d = result["decision"] if result else None
+cited = d.cited_offers if d else []
+with chart_col:
+    if len(offers_df):
+        st.altair_chart(offer_chart(offers_df, cited, (active.get("market_stats") or {}).get("median_total"), budget), width="stretch")
+    else:
+        st.warning("Every offer is removed. The agent will have no evidence to work with.")
+if excluded:
+    st.warning(f"What-if active: {len(excluded)} offer(s) hidden from the agent ({', '.join(excluded)}).")
+st.caption(f"🟥 shop rating under {LOW_SHOP_RATING}/5 · 🟧 delivery unknown · 🟩 offer the agent cited in its reasoning (after it decides) · dashed lines: median and budget. "
            + " ".join(f"Data gap: {g}" for g in evidence.get("gaps", [])))
 
 # ---------------------------------------------------------------- decision
 if st.button("Ask the agent", type="primary"):
     try:
         with st.spinner("Calling the Nebius model: it is weighing the evidence (10-20 s)..."):
-            decision = decide(evidence, budget)
-        st.session_state["result"] = {"key": (case_name, budget), "decision": decision}
+            decision = decide(active, budget)
+        st.session_state["result"] = {"key": run_key, "decision": decision}
+        logged = (log_entries(decision.nebius_call_id) or [{}])[-1]
+        st.session_state.setdefault("history", []).append({
+            "Time": pd.Timestamp.now().strftime("%H:%M:%S"), "Case": LABELS.get(case_name, case_name), "Budget €": budget,
+            "Offers hidden": ", ".join(excluded) or "none", "Decision": decision.decision.replace("_", " "),
+            "Confidence": f"{decision.confidence:.0%}", "Conflicts": len(decision.conflicts_found),
+            "Buy from": ", ".join(decision.cited_offers[:2]) or "-", "Tokens": (logged.get("usage") or {}).get("total_tokens"),
+            "Seconds": logged.get("latency_s"), "Call ID": decision.nebius_call_id})
         st.rerun()
     except Exception as error:  # show the real reason on screen instead of a stack trace
         st.error(f"The agent could not decide: {error}")
@@ -168,3 +208,10 @@ if d:
                 st.code(message["content"], language="json" if message["role"] == "user" else None, wrap_lines=True)
         with st.expander("Raw response from the model"):
             st.code(call.get("response_text", ""), language="json", wrap_lines=True)
+
+history = st.session_state.get("history")
+if history:
+    st.divider()
+    st.markdown(f"### Runs this session · {len(history)} live Nebius call(s), {sum(h['Tokens'] or 0 for h in history):,} tokens")
+    st.caption("Same agent, different evidence, different answers: proof that nothing is hard-coded.")
+    st.dataframe(pd.DataFrame(history[::-1]), hide_index=True, width="stretch")
