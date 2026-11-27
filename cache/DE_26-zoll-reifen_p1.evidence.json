@@ -1,0 +1,182 @@
+{
+  "query": "26 zoll reifen",
+  "country": "DE",
+  "currency": "EUR",
+  "product_name": "Schwalbe Billy Bonkers",
+  "product_url": "https://www.idealo.de/preisvergleich/OffersOfProduct/202052396_-billy-bonkers-hs600-foldable-26-x-2-10-bronze-schwalbe.html",
+  "list_price": 15.66,
+  "total_offers_on_idealo": 9,
+  "user_rating": 3.71,
+  "user_review_count": 7,
+  "pros": [
+    "sehr leicht und rollt schnell",
+    "verspieltes und agiles Fahrverhalten",
+    "verzeiht Fahrfehler bei Landungen",
+    "gute Mikroverzahnung auf hartem Untergrund"
+  ],
+  "cons": [
+    "nicht tubeless-ready",
+    "keine E-Bike Zulassung"
+  ],
+  "offers": [
+    {
+      "shop": "bikeinn.com (DE)",
+      "is_marketplace": false,
+      "price": 16.14,
+      "shipping": 3.99,
+      "total_price": 20.13,
+      "shipping_known": true,
+      "shop_rating": 1.62,
+      "shop_rating_count": 189,
+      "delivery_text": "Di. 01.12.–Do. 03.12.2026",
+      "delivery_status": "MEDIUM",
+      "delivery_earliest": "2026-12-01",
+      "delivery_latest": "2026-12-03",
+      "payment_methods": [
+        "Rechnung",
+        "PayPal",
+        "Sofort.",
+        "Kreditkarte"
+      ],
+      "freshness": "2026-11-27T15:47:25.568Z",
+      "url": "https://www.idealo.de/relocator/relocate?offerKey=a21fa9835c2cc4ec3d00fdd1299c952c&categoryId=9452&pos=2&price=16.14&productid=202052396&sid=283194&type=offer&media=ipc-public-mcp"
+    },
+    {
+      "shop": "bike-components.de",
+      "is_marketplace": false,
+      "price": 16.99,
+      "shipping": 4.99,
+      "total_price": 21.98,
+      "shipping_known": true,
+      "shop_rating": 3.6,
+      "shop_rating_count": 81,
+      "delivery_text": "Di. 01.12.–Do. 03.12.2026",
+      "delivery_status": "MEDIUM",
+      "delivery_earliest": "2026-12-01",
+      "delivery_latest": "2026-12-03",
+      "free_return_days": 14,
+      "payment_methods": [
+        "Rechnung",
+        "PayPal",
+        "Lastschrift",
+        "Sofort.",
+        "Kreditkarte",
+        "Nachnahme",
+        "Vorkasse",
+        "Amazon Pay"
+      ],
+      "freshness": "2026-11-27T15:47:25.568Z",
+      "url": "https://www.idealo.de/relocator/relocate?offerKey=9c4358efac17b40bcc0fcf8a38554f3b&categoryId=9452&pos=4&price=16.99&productid=202052396&sid=315475&type=offer&media=ipc-public-mcp"
+    },
+    {
+      "shop": "galaxus.de",
+      "is_marketplace": false,
+      "price": 20.47,
+      "shipping": 3.0,
+      "total_price": 23.47,
+      "shipping_known": true,
+      "shop_rating": 4.63,
+      "shop_rating_count": 2667,
+      "delivery_text": "bis Do. 03.12.2026",
+      "delivery_status": "MEDIUM",
+      "delivery_latest": "2026-12-03",
+      "free_return_days": 30,
+      "payment_methods": [
+        "Rechnung",
+        "PayPal",
+        "Sofort.",
+        "Kreditkarte",
+        "Vorkasse"
+      ],
+      "freshness": "2026-11-27T15:47:25.568Z",
+      "url": "https://www.idealo.de/relocator/relocate?offerKey=2b3dac88402e989c83829fc94c717a04&categoryId=9452&pos=5&price=20.47&productid=202052396&sid=317105&type=offer&media=ipc-public-mcp"
+    },
+    {
+      "shop": "sportfits.de",
+      "is_marketplace": false,
+      "price": 22.45,
+      "shipping": 3.95,
+      "total_price": 26.4,
+      "shipping_known": true,
+      "shop_rating": 4.89,
+      "shop_rating_count": 1197,
+      "delivery_text": "Do. 03.12.–Sa. 05.12.2026",
+      "delivery_status": "MEDIUM",
+      "delivery_earliest": "2026-12-03",
+      "delivery_latest": "2026-12-05",
+      "payment_methods": [
+        "Rechnung",
+        "PayPal",
+        "Sofort.",
+        "Kreditkarte",
+        "Vorkasse",
+        "Amazon Pay"
+      ],
+      "freshness": "2026-11-27T15:47:26.177Z",
+      "url": "https://www.idealo.de/relocator/relocate?offerKey=51d7545432759eb4ac6c59e4f1f72d9a&categoryId=9452&pos=6&price=22.45&productid=202052396&sid=315320&type=offer&media=ipc-public-mcp"
+    },
+    {
+      "shop": "decathlon.de",
+      "is_marketplace": false,
+      "price": 24.89,
+      "shipping": 3.99,
+      "total_price": 28.88,
+      "shipping_known": true,
+      "shop_rating": 1.1,
+      "shop_rating_count": 67,
+      "delivery_text": "Di. 01.12.–Mo. 07.12.2026",
+      "delivery_status": "MEDIUM",
+      "delivery_earliest": "2026-12-01",
+      "delivery_latest": "2026-12-07",
+      "payment_methods": [
+        "Rechnung",
+        "PayPal",
+        "Kreditkarte"
+      ],
+      "freshness": "2026-11-27T15:47:26.178Z",
+      "url": "https://www.idealo.de/relocator/relocate?offerKey=6e0ed8ef582237a1d0d55fbc017ad59a&categoryId=9452&pos=7&price=24.89&productid=202052396&sid=282682&type=offer&media=ipc-public-mcp"
+    },
+    {
+      "shop": "fahrrad-teile.shop",
+      "is_marketplace": false,
+      "price": 24.99,
+      "shipping": 5.9,
+      "total_price": 30.89,
+      "shipping_known": true,
+      "shop_rating": 2.6,
+      "shop_rating_count": 15,
+      "delivery_text": "Mi. 02.12.–Fr. 04.12.2026",
+      "delivery_status": "MEDIUM",
+      "delivery_earliest": "2026-12-02",
+      "delivery_latest": "2026-12-04",
+      "payment_methods": [
+        "Rechnung",
+        "PayPal",
+        "Kreditkarte",
+        "Vorkasse"
+      ],
+      "freshness": "2026-11-27T15:47:26.178Z",
+      "url": "https://www.idealo.de/relocator/relocate?offerKey=7c1342d5706641dee3e985ed75bcd962&categoryId=9452&pos=9&price=24.99&productid=202052396&sid=318926&type=offer&media=ipc-public-mcp"
+    }
+  ],
+  "offers_capped_by_trial_tier": false,
+  "price_history": {
+    "period_days": 29,
+    "current": 15.66,
+    "min": 13.48,
+    "max": 16.99,
+    "avg": 14.41,
+    "change_percent": 16.172106824925816,
+    "lowest_price_date": "2026-10-28T22:59:59.999Z",
+    "highest_price_date": "2026-11-20T22:59:59.999Z",
+    "data_source_confidence": 0.95,
+    "total_data_points": 31
+  },
+  "market_stats": {
+    "offer_count": 6,
+    "min_total": 20.13,
+    "median_total": 24.935,
+    "max_total": 30.89
+  },
+  "gaps": []
+}

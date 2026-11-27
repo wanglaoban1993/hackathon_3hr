@@ -1,0 +1,3702 @@
+{
+  "query": "26 zoll fahrradreifen",
+  "country": "DE",
+  "search": {
+    "query": "26 zoll fahrradreifen",
+    "availableCategories": [
+      {
+        "categoryId": "9452",
+        "categoryName": "Fahrradreifen",
+        "amount": 0
+      }
+    ],
+    "availableManufacturers": [
+      {
+        "manufacturerId": "17871",
+        "manufacturerName": "Schwalbe",
+        "amount": 210,
+        "searchFilterId": "699272"
+      },
+      {
+        "manufacturerId": "31880",
+        "manufacturerName": "Continental",
+        "amount": 69,
+        "searchFilterId": "699262"
+      },
+      {
+        "manufacturerId": "32320",
+        "manufacturerName": "Maxxis",
+        "amount": 59,
+        "searchFilterId": "699267"
+      },
+      {
+        "manufacturerId": "32461",
+        "manufacturerName": "Vittoria",
+        "amount": 21,
+        "searchFilterId": "699276"
+      },
+      {
+        "manufacturerId": "75880",
+        "manufacturerName": "Panaracer",
+        "amount": 17,
+        "searchFilterId": "1165485"
+      },
+      {
+        "manufacturerId": "13960",
+        "manufacturerName": "Specialized",
+        "amount": 5,
+        "searchFilterId": "1149923"
+      },
+      {
+        "manufacturerId": "34398",
+        "manufacturerName": "Hutchinson",
+        "amount": 30,
+        "searchFilterId": "921916"
+      },
+      {
+        "manufacturerId": "36007",
+        "manufacturerName": "Pirelli",
+        "amount": 25,
+        "searchFilterId": "7375492"
+      },
+      {
+        "manufacturerId": "33340",
+        "manufacturerName": "Michelin",
+        "amount": 33,
+        "searchFilterId": "699268"
+      },
+      {
+        "manufacturerId": "32902",
+        "manufacturerName": "Bontrager",
+        "amount": 3,
+        "searchFilterId": "839802"
+      },
+      {
+        "manufacturerId": "32762",
+        "manufacturerName": "Kenda",
+        "amount": 47,
+        "searchFilterId": "699266"
+      },
+      {
+        "manufacturerId": "50901",
+        "manufacturerName": "DEESTONE",
+        "amount": 4,
+        "searchFilterId": "2554239"
+      },
+      {
+        "manufacturerId": "36016",
+        "manufacturerName": "Vredestein",
+        "amount": 7,
+        "searchFilterId": "1138618"
+      },
+      {
+        "manufacturerId": "34385",
+        "manufacturerName": "Rubena",
+        "amount": 5,
+        "searchFilterId": "699271"
+      },
+      {
+        "manufacturerId": "32908",
+        "manufacturerName": "TUFO",
+        "amount": 6,
+        "searchFilterId": "699275"
+      },
+      {
+        "manufacturerId": "76177",
+        "manufacturerName": "WTB",
+        "amount": 6,
+        "searchFilterId": "1177407"
+      },
+      {
+        "manufacturerId": "119484",
+        "manufacturerName": "CST",
+        "amount": 42,
+        "searchFilterId": "2138420"
+      },
+      {
+        "manufacturerId": "152972",
+        "manufacturerName": "Gravel",
+        "amount": 1,
+        "searchFilterId": "104251350"
+      },
+      {
+        "manufacturerId": "78435",
+        "manufacturerName": "Mitas",
+        "amount": 23,
+        "searchFilterId": "5751722"
+      },
+      {
+        "manufacturerId": "127407",
+        "manufacturerName": "Onza",
+        "amount": 2,
+        "searchFilterId": "1190232"
+      },
+      {
+        "manufacturerId": "128076",
+        "manufacturerName": "Chaoyang Long March Tire",
+        "amount": 20,
+        "searchFilterId": "4581134"
+      },
+      {
+        "manufacturerId": "25453",
+        "manufacturerName": "Prophete",
+        "amount": 6,
+        "searchFilterId": "2119314"
+      },
+      {
+        "manufacturerId": "12721",
+        "manufacturerName": "Profex",
+        "amount": 6,
+        "searchFilterId": "1761245"
+      },
+      {
+        "manufacturerId": "183778",
+        "manufacturerName": "Ecovelò",
+        "amount": 27,
+        "searchFilterId": "107152726"
+      },
+      {
+        "manufacturerId": "7023",
+        "manufacturerName": "Cube",
+        "amount": 1,
+        "searchFilterId": "2597548"
+      },
+      {
+        "manufacturerId": "47404",
+        "manufacturerName": "XLC",
+        "amount": 10,
+        "searchFilterId": "913099"
+      },
+      {
+        "manufacturerId": "17876",
+        "manufacturerName": "Ritchey",
+        "amount": 4,
+        "searchFilterId": "2149676"
+      },
+      {
+        "manufacturerId": "183731",
+        "manufacturerName": "Condura",
+        "amount": 7,
+        "searchFilterId": "107152725"
+      },
+      {
+        "manufacturerId": "160160",
+        "manufacturerName": "Tannus",
+        "amount": 2,
+        "searchFilterId": "101520482"
+      },
+      {
+        "manufacturerId": "114241",
+        "manufacturerName": "Impac",
+        "amount": 2,
+        "searchFilterId": "1877968"
+      },
+      {
+        "manufacturerId": "51064",
+        "manufacturerName": "Sequential",
+        "amount": 13,
+        "searchFilterId": "2608764"
+      },
+      {
+        "manufacturerId": "120944",
+        "manufacturerName": "Eleven Group",
+        "amount": 4,
+        "searchFilterId": "7784164"
+      },
+      {
+        "manufacturerId": "75518",
+        "manufacturerName": "Geax",
+        "amount": 6,
+        "searchFilterId": "1155764"
+      },
+      {
+        "manufacturerId": "114390",
+        "manufacturerName": "Lampa",
+        "amount": 6,
+        "searchFilterId": "7373270"
+      },
+      {
+        "manufacturerId": "124847",
+        "manufacturerName": "Massi",
+        "amount": 4,
+        "searchFilterId": "3066016"
+      },
+      {
+        "manufacturerId": "119251",
+        "manufacturerName": "45NRTH",
+        "amount": 3,
+        "searchFilterId": "2136949"
+      },
+      {
+        "manufacturerId": "150275",
+        "manufacturerName": "MSC Bikes",
+        "amount": 3,
+        "searchFilterId": "9374917"
+      },
+      {
+        "manufacturerId": "76352",
+        "manufacturerName": "Surly",
+        "amount": 3,
+        "searchFilterId": "1877970"
+      },
+      {
+        "manufacturerId": "56942",
+        "manufacturerName": "Vee Rubber",
+        "amount": 1,
+        "searchFilterId": "2601099"
+      },
+      {
+        "manufacturerId": "75595",
+        "manufacturerName": "Veloflex",
+        "amount": 1,
+        "searchFilterId": "1158798"
+      },
+      {
+        "manufacturerId": "75097",
+        "manufacturerName": "b'Twin",
+        "amount": 1,
+        "searchFilterId": "2136950"
+      },
+      {
+        "manufacturerId": "113997",
+        "manufacturerName": "Bike Original",
+        "amount": 1,
+        "searchFilterId": "5768070"
+      },
+      {
+        "manufacturerId": "140085",
+        "manufacturerName": "CFP",
+        "amount": 2,
+        "searchFilterId": "5169688"
+      },
+      {
+        "manufacturerId": "105650",
+        "manufacturerName": "Cult",
+        "amount": 1,
+        "searchFilterId": "2172721"
+      },
+      {
+        "manufacturerId": "143128",
+        "manufacturerName": "deli",
+        "amount": 2,
+        "searchFilterId": "7369856"
+      },
+      {
+        "manufacturerId": "111800",
+        "manufacturerName": "Deli Tire",
+        "amount": 6,
+        "searchFilterId": "3123543"
+      },
+      {
+        "manufacturerId": "33460",
+        "manufacturerName": "DMR",
+        "amount": 1,
+        "searchFilterId": "699264"
+      },
+      {
+        "manufacturerId": "161008",
+        "manufacturerName": "Elops",
+        "amount": 1,
+        "searchFilterId": "101755817"
+      },
+      {
+        "manufacturerId": "169495",
+        "manufacturerName": "Eltin",
+        "amount": 2,
+        "searchFilterId": "104248080"
+      },
+      {
+        "manufacturerId": "57301",
+        "manufacturerName": "Filmer",
+        "amount": 3,
+        "searchFilterId": "1659671"
+      },
+      {
+        "manufacturerId": "188607",
+        "manufacturerName": "Kujo",
+        "amount": 7,
+        "searchFilterId": "107614259"
+      },
+      {
+        "manufacturerId": "183744",
+        "manufacturerName": "ON Bike",
+        "amount": 1,
+        "searchFilterId": "107152727"
+      },
+      {
+        "manufacturerId": "32907",
+        "manufacturerName": "Tioga",
+        "amount": 3,
+        "searchFilterId": "699274"
+      }
+    ],
+    "availableFilters": [
+      {
+        "attributeId": "15583",
+        "name": "Produkttyp",
+        "filters": [
+          {
+            "filterId": "1580436",
+            "content": "E-Bike Reifen",
+            "amount": 145
+          },
+          {
+            "filterId": "1467890",
+            "content": "MTB-Reifen",
+            "amount": 434
+          },
+          {
+            "filterId": "3246605",
+            "content": "Trekking-Reifen",
+            "amount": 406
+          },
+          {
+            "filterId": "8437853",
+            "content": "Gravelbike-Reifen",
+            "amount": 16
+          },
+          {
+            "filterId": "1467892",
+            "content": "Rennrad-Reifen",
+            "amount": 71
+          },
+          {
+            "filterId": "4353830",
+            "content": "Cross Country Reifen",
+            "amount": 24
+          },
+          {
+            "filterId": "108463234",
+            "content": "Winter Fahrradreifen",
+            "amount": 2
+          },
+          {
+            "filterId": "2820992",
+            "content": "Fatbike-Reifen",
+            "amount": 45
+          },
+          {
+            "filterId": "1894552",
+            "content": "Enduro Bike Reifen",
+            "amount": 35
+          },
+          {
+            "filterId": "1996582",
+            "content": "Rollstuhl-Reifen",
+            "amount": 2
+          },
+          {
+            "filterId": "1580428",
+            "content": "All Mountain Reifen",
+            "amount": 71
+          },
+          {
+            "filterId": "1580435",
+            "content": "Downhill Reifen",
+            "amount": 29
+          },
+          {
+            "filterId": "1467888",
+            "content": "BMX-Reifen",
+            "amount": 5
+          },
+          {
+            "filterId": "1689473",
+            "content": "Hometrainer-Reifen",
+            "amount": 2
+          }
+        ]
+      },
+      {
+        "attributeId": "17923",
+        "name": "Einsatzgebiet",
+        "filters": [
+          {
+            "filterId": "1618297",
+            "content": "Winter",
+            "amount": 30
+          },
+          {
+            "filterId": "1580430",
+            "content": "Asphalt",
+            "amount": 148
+          },
+          {
+            "filterId": "1580431",
+            "content": "Allround",
+            "amount": 72
+          },
+          {
+            "filterId": "9548518",
+            "content": "Schotter",
+            "amount": 24
+          },
+          {
+            "filterId": "9548517",
+            "content": "Profi",
+            "amount": 9
+          },
+          {
+            "filterId": "9548513",
+            "content": "Eis",
+            "amount": 6
+          },
+          {
+            "filterId": "9548520",
+            "content": "Trocken",
+            "amount": 9
+          },
+          {
+            "filterId": "9548516",
+            "content": "Matsch",
+            "amount": 8
+          },
+          {
+            "filterId": "9548521",
+            "content": "Wettkampf",
+            "amount": 16
+          },
+          {
+            "filterId": "9548514",
+            "content": "Geröll",
+            "amount": 3
+          },
+          {
+            "filterId": "2184780",
+            "content": "Regen",
+            "amount": 2
+          },
+          {
+            "filterId": "9548519",
+            "content": "Style",
+            "amount": 7
+          },
+          {
+            "filterId": "9548515",
+            "content": "Hobby",
+            "amount": 6
+          },
+          {
+            "filterId": "9548512",
+            "content": "Einstieg",
+            "amount": 3
+          },
+          {
+            "filterId": "1588827",
+            "content": "Indoor",
+            "amount": 2
+          }
+        ]
+      },
+      {
+        "attributeId": "1014",
+        "name": "Gewicht",
+        "filters": [
+          {
+            "filterId": "107314376",
+            "content": "bis 250 g",
+            "amount": 87
+          },
+          {
+            "filterId": "101083824",
+            "content": "ab 895 g",
+            "amount": 75
+          },
+          {
+            "filterId": "107206984",
+            "content": "697 bis 895 g",
+            "amount": 85
+          },
+          {
+            "filterId": "108301082",
+            "content": "250 bis 485 g",
+            "amount": 20
+          },
+          {
+            "filterId": "108301083",
+            "content": "485 bis 697 g",
+            "amount": 68
+          }
+        ]
+      },
+      {
+        "attributeId": "16732",
+        "name": "Serie",
+        "filters": [
+          {
+            "filterId": "1469020",
+            "content": "Schwalbe Marathon",
+            "amount": 46
+          },
+          {
+            "filterId": "1469005",
+            "content": "Schwalbe Unplattbar",
+            "amount": 11
+          },
+          {
+            "filterId": "1469030",
+            "content": "Schwalbe Nobby Nic",
+            "amount": 11
+          },
+          {
+            "filterId": "100844076",
+            "content": "Schwalbe Pro One",
+            "amount": 2
+          },
+          {
+            "filterId": "102125130",
+            "content": "Schwalbe Marathon E-Plus",
+            "amount": 1
+          },
+          {
+            "filterId": "1469031",
+            "content": "Schwalbe Racing Ralph",
+            "amount": 2
+          },
+          {
+            "filterId": "100844037",
+            "content": "Continental Contact Urban",
+            "amount": 3
+          },
+          {
+            "filterId": "100844061",
+            "content": "Panaracer GravelKing",
+            "amount": 1
+          },
+          {
+            "filterId": "1468970",
+            "content": "Schwalbe Smart Sam Plus",
+            "amount": 1
+          },
+          {
+            "filterId": "1469035",
+            "content": "Schwalbe Smart Sam",
+            "amount": 33
+          },
+          {
+            "filterId": "1469011",
+            "content": "Schwalbe Ice Spiker",
+            "amount": 1
+          },
+          {
+            "filterId": "100844046",
+            "content": "Maxxis Minion DHR",
+            "amount": 6
+          },
+          {
+            "filterId": "1469048",
+            "content": "Continental Race King",
+            "amount": 7
+          },
+          {
+            "filterId": "100844038",
+            "content": "Continental Cross King",
+            "amount": 10
+          },
+          {
+            "filterId": "1469016",
+            "content": "Schwalbe Land Cruiser",
+            "amount": 5
+          },
+          {
+            "filterId": "1469034",
+            "content": "Schwalbe Rocket Ron",
+            "amount": 3
+          },
+          {
+            "filterId": "1469033",
+            "content": "Schwalbe Road Cruiser",
+            "amount": 8
+          },
+          {
+            "filterId": "100844066",
+            "content": "Pirelli P Zero",
+            "amount": 18
+          },
+          {
+            "filterId": "2177804",
+            "content": "Schwalbe Winter",
+            "amount": 1
+          },
+          {
+            "filterId": "1997018",
+            "content": "Schwalbe Rapid Rob",
+            "amount": 4
+          },
+          {
+            "filterId": "1468951",
+            "content": "Continental TopContact Winter",
+            "amount": 1
+          },
+          {
+            "filterId": "1735462",
+            "content": "Schwalbe Super Moto",
+            "amount": 1
+          },
+          {
+            "filterId": "2211032",
+            "content": "Schwalbe Big Ben",
+            "amount": 3
+          },
+          {
+            "filterId": "1468988",
+            "content": "Schwalbe Big Apple",
+            "amount": 11
+          },
+          {
+            "filterId": "1469010",
+            "content": "Schwalbe Hurricane",
+            "amount": 2
+          },
+          {
+            "filterId": "1815588",
+            "content": "Continental Contact",
+            "amount": 11
+          },
+          {
+            "filterId": "1469042",
+            "content": "Schwalbe Magic Mary",
+            "amount": 10
+          },
+          {
+            "filterId": "2434610",
+            "content": "Continental Gator",
+            "amount": 2
+          },
+          {
+            "filterId": "101377170",
+            "content": "Schwalbe Big Betty",
+            "amount": 1
+          },
+          {
+            "filterId": "101082787",
+            "content": "Vittoria Mezcal",
+            "amount": 1
+          },
+          {
+            "filterId": "1468931",
+            "content": "Continental City Ride",
+            "amount": 1
+          },
+          {
+            "filterId": "101527581",
+            "content": "Schwalbe Racing Ray",
+            "amount": 1
+          },
+          {
+            "filterId": "1469056",
+            "content": "Vittoria Rubino",
+            "amount": 1
+          },
+          {
+            "filterId": "100844070",
+            "content": "Schwalbe Energizer Plus",
+            "amount": 1
+          },
+          {
+            "filterId": "4581133",
+            "content": "Maxxis High Roller II",
+            "amount": 4
+          },
+          {
+            "filterId": "4296576",
+            "content": "Kenda Nevegal",
+            "amount": 4
+          },
+          {
+            "filterId": "1468952",
+            "content": "Continental Tour",
+            "amount": 5
+          },
+          {
+            "filterId": "1468981",
+            "content": "Maxxis Minion",
+            "amount": 15
+          },
+          {
+            "filterId": "1468957",
+            "content": "Continental Ultra Sport",
+            "amount": 1
+          },
+          {
+            "filterId": "2452775",
+            "content": "Schwalbe One",
+            "amount": 2
+          },
+          {
+            "filterId": "1468939",
+            "content": "Continental Double Fighter",
+            "amount": 2
+          },
+          {
+            "filterId": "1469028",
+            "content": "Schwalbe Hans Dampf",
+            "amount": 3
+          },
+          {
+            "filterId": "1468967",
+            "content": "Schwalbe ADDIX",
+            "amount": 9
+          },
+          {
+            "filterId": "2978731",
+            "content": "Continental Eco Contact Plus",
+            "amount": 1
+          },
+          {
+            "filterId": "1468997",
+            "content": "Schwalbe CX Comp",
+            "amount": 1
+          },
+          {
+            "filterId": "100844045",
+            "content": "Maxxis Minion DHF",
+            "amount": 9
+          },
+          {
+            "filterId": "1840619",
+            "content": "Schwalbe Little Joe",
+            "amount": 1
+          },
+          {
+            "filterId": "1468999",
+            "content": "Schwalbe Delta Cruiser",
+            "amount": 3
+          },
+          {
+            "filterId": "2893281",
+            "content": "Vittoria Corsa",
+            "amount": 2
+          },
+          {
+            "filterId": "1468944",
+            "content": "Continental Mountain King",
+            "amount": 4
+          },
+          {
+            "filterId": "1841391",
+            "content": "Continental TopContact",
+            "amount": 2
+          },
+          {
+            "filterId": "102167008",
+            "content": "Continental eRuban",
+            "amount": 1
+          },
+          {
+            "filterId": "1853705",
+            "content": "Michelin City",
+            "amount": 5
+          },
+          {
+            "filterId": "1469007",
+            "content": "Schwalbe Fat Frank",
+            "amount": 3
+          },
+          {
+            "filterId": "1469058",
+            "content": "Vittoria Zaffiro",
+            "amount": 1
+          },
+          {
+            "filterId": "100844044",
+            "content": "Maxxis Dissector",
+            "amount": 1
+          },
+          {
+            "filterId": "1898518",
+            "content": "Kenda Khan",
+            "amount": 2
+          },
+          {
+            "filterId": "100844064",
+            "content": "Panaracer Pasela ProTite",
+            "amount": 2
+          },
+          {
+            "filterId": "101296116",
+            "content": "Panaracer Pasela",
+            "amount": 1
+          },
+          {
+            "filterId": "1735464",
+            "content": "Maxxis Ikon",
+            "amount": 2
+          },
+          {
+            "filterId": "2977609",
+            "content": "Maxxis CrossMark",
+            "amount": 4
+          },
+          {
+            "filterId": "100844060",
+            "content": "Michelin Wild Enduro",
+            "amount": 1
+          },
+          {
+            "filterId": "3733786",
+            "content": "Michelin Protek Cross",
+            "amount": 2
+          },
+          {
+            "filterId": "1469015",
+            "content": "Schwalbe Kojak",
+            "amount": 5
+          },
+          {
+            "filterId": "1735461",
+            "content": "Schwalbe Silento",
+            "amount": 1
+          },
+          {
+            "filterId": "1469013",
+            "content": "Maxxis Ardent",
+            "amount": 4
+          },
+          {
+            "filterId": "102122890",
+            "content": "Michelin Pilot",
+            "amount": 1
+          },
+          {
+            "filterId": "101082786",
+            "content": "Vittoria Barzo",
+            "amount": 2
+          },
+          {
+            "filterId": "100972532",
+            "content": "Kenda Small Block",
+            "amount": 3
+          },
+          {
+            "filterId": "1468982",
+            "content": "Maxxis Overdrive",
+            "amount": 1
+          },
+          {
+            "filterId": "3733785",
+            "content": "Michelin Protek",
+            "amount": 2
+          },
+          {
+            "filterId": "107390547",
+            "content": "Kenda Klondike Wide",
+            "amount": 1
+          },
+          {
+            "filterId": "1487036",
+            "content": "Michelin WildRock'R",
+            "amount": 2
+          },
+          {
+            "filterId": "1468990",
+            "content": "Schwalbe Black Jack",
+            "amount": 4
+          },
+          {
+            "filterId": "1469057",
+            "content": "Vittoria Rubino Pro",
+            "amount": 3
+          },
+          {
+            "filterId": "1545989",
+            "content": "Continental Baron",
+            "amount": 1
+          },
+          {
+            "filterId": "3733787",
+            "content": "Michelin Protek Urban",
+            "amount": 1
+          },
+          {
+            "filterId": "100844059",
+            "content": "Michelin Wild AM",
+            "amount": 1
+          },
+          {
+            "filterId": "1795072",
+            "content": "Schwalbe Rightrun",
+            "amount": 3
+          },
+          {
+            "filterId": "1853707",
+            "content": "Specialized Butcher",
+            "amount": 1
+          },
+          {
+            "filterId": "101082790",
+            "content": "Vittoria Randonneur Tech",
+            "amount": 1
+          },
+          {
+            "filterId": "1468985",
+            "content": "RITCHEY Z Max",
+            "amount": 2
+          },
+          {
+            "filterId": "1698176",
+            "content": "Continental Traffic",
+            "amount": 1
+          },
+          {
+            "filterId": "1468965",
+            "content": "Hutchinson Fusion",
+            "amount": 1
+          },
+          {
+            "filterId": "100844049",
+            "content": "Michelin DH",
+            "amount": 1
+          },
+          {
+            "filterId": "3928064",
+            "content": "Michelin Magi-X",
+            "amount": 2
+          },
+          {
+            "filterId": "1469046",
+            "content": "Michelin WildRace'R",
+            "amount": 1
+          },
+          {
+            "filterId": "2169787",
+            "content": "Vredestein Perfect",
+            "amount": 3
+          },
+          {
+            "filterId": "1916150",
+            "content": "Continental Trail King",
+            "amount": 2
+          },
+          {
+            "filterId": "3848701",
+            "content": "Hutchinson Taipan",
+            "amount": 1
+          },
+          {
+            "filterId": "1984645",
+            "content": "Michelin Country",
+            "amount": 2
+          },
+          {
+            "filterId": "100844054",
+            "content": "Michelin Force XC",
+            "amount": 2
+          },
+          {
+            "filterId": "1487037",
+            "content": "Michelin WildGrip'R",
+            "amount": 1
+          },
+          {
+            "filterId": "1853709",
+            "content": "Michelin WildRun'R",
+            "amount": 2
+          },
+          {
+            "filterId": "1468994",
+            "content": "Schwalbe City",
+            "amount": 2
+          },
+          {
+            "filterId": "1911159",
+            "content": "Schwalbe Spicer",
+            "amount": 1
+          },
+          {
+            "filterId": "1468949",
+            "content": "Continental Sprinter",
+            "amount": 1
+          },
+          {
+            "filterId": "1468971",
+            "content": "Hutchinson Python",
+            "amount": 5
+          },
+          {
+            "filterId": "1468974",
+            "content": "Hutchinson Rock",
+            "amount": 2
+          },
+          {
+            "filterId": "1633332",
+            "content": "Hutchinson Urban",
+            "amount": 2
+          },
+          {
+            "filterId": "1468992",
+            "content": "Maxxis Detonator",
+            "amount": 2
+          },
+          {
+            "filterId": "1469049",
+            "content": "Michelin Country Race'R",
+            "amount": 1
+          },
+          {
+            "filterId": "100844053",
+            "content": "Michelin Force Enduro",
+            "amount": 1
+          },
+          {
+            "filterId": "2033745",
+            "content": "Schwalbe Big Apple Plus",
+            "amount": 1
+          },
+          {
+            "filterId": "2997139",
+            "content": "TUFO Elite",
+            "amount": 1
+          },
+          {
+            "filterId": "1469055",
+            "content": "Vittoria Radonneur",
+            "amount": 1
+          },
+          {
+            "filterId": "1469039",
+            "content": "Continental RetroRide",
+            "amount": 3
+          },
+          {
+            "filterId": "1659673",
+            "content": "CST Classic",
+            "amount": 1
+          },
+          {
+            "filterId": "1844144",
+            "content": "CST Tuscany",
+            "amount": 1
+          },
+          {
+            "filterId": "1468963",
+            "content": "Hutchinson Cobra",
+            "amount": 1
+          },
+          {
+            "filterId": "1468976",
+            "content": "Hutchinson Toro",
+            "amount": 2
+          },
+          {
+            "filterId": "1468940",
+            "content": "Maxxis Beaver",
+            "amount": 1
+          },
+          {
+            "filterId": "2183643",
+            "content": "Michelin Gum-X",
+            "amount": 1
+          },
+          {
+            "filterId": "1698174",
+            "content": "RITCHEY Tom Slick",
+            "amount": 1
+          },
+          {
+            "filterId": "1469012",
+            "content": "Schwalbe Impac",
+            "amount": 2
+          },
+          {
+            "filterId": "100844075",
+            "content": "Schwalbe Marathon Supreme",
+            "amount": 2
+          },
+          {
+            "filterId": "3848705",
+            "content": "Surly",
+            "amount": 1
+          }
+        ]
+      },
+      {
+        "attributeId": "27774",
+        "name": "besondere Eigenschaft",
+        "filters": [
+          {
+            "filterId": "757955",
+            "content": "mit Pannenschutz",
+            "amount": 194
+          },
+          {
+            "filterId": "9547962",
+            "content": "mit Spikes",
+            "amount": 7
+          },
+          {
+            "filterId": "9547925",
+            "content": "Unplattbar",
+            "amount": 31
+          },
+          {
+            "filterId": "1468923",
+            "content": "mit Reflexstreifen",
+            "amount": 165
+          },
+          {
+            "filterId": "9998435",
+            "content": "E-Bike Ready 25",
+            "amount": 45
+          },
+          {
+            "filterId": "9547961",
+            "content": "mit ECE-R75 Zulassung",
+            "amount": 35
+          },
+          {
+            "filterId": "2112210",
+            "content": "ohne Profil",
+            "amount": 38
+          },
+          {
+            "filterId": "9547960",
+            "content": "aus recycelten Rohstoff",
+            "amount": 7
+          }
+        ]
+      },
+      {
+        "attributeId": "1338",
+        "name": "Farbe",
+        "filters": [
+          {
+            "filterId": "102156901",
+            "content": "schwarz",
+            "amount": 589
+          },
+          {
+            "filterId": "102156892",
+            "content": "beige",
+            "amount": 8
+          },
+          {
+            "filterId": "102156894",
+            "content": "braun",
+            "amount": 15
+          },
+          {
+            "filterId": "102156903",
+            "content": "weiß",
+            "amount": 22
+          },
+          {
+            "filterId": "102403354",
+            "content": "creme",
+            "amount": 4
+          },
+          {
+            "filterId": "102156902",
+            "content": "silber",
+            "amount": 18
+          },
+          {
+            "filterId": "102156895",
+            "content": "gelb",
+            "amount": 3
+          },
+          {
+            "filterId": "102156899",
+            "content": "rosa",
+            "amount": 1
+          },
+          {
+            "filterId": "102156900",
+            "content": "rot",
+            "amount": 3
+          },
+          {
+            "filterId": "102156896",
+            "content": "grau",
+            "amount": 4
+          },
+          {
+            "filterId": "102156893",
+            "content": "blau",
+            "amount": 3
+          },
+          {
+            "filterId": "102156898",
+            "content": "orange",
+            "amount": 2
+          },
+          {
+            "filterId": "103171766",
+            "content": "lila",
+            "amount": 1
+          }
+        ]
+      },
+      {
+        "attributeId": "16312",
+        "name": "Größe",
+        "filters": [
+          {
+            "filterId": "759238",
+            "content": "29 x 2,60 Zoll",
+            "amount": 1
+          },
+          {
+            "filterId": "897662",
+            "content": "27,5 x 2,25 Zoll",
+            "amount": 1
+          },
+          {
+            "filterId": "751883",
+            "content": "28 x 2,00 Zoll",
+            "amount": 1
+          },
+          {
+            "filterId": "1837377",
+            "content": "29 x 2,25 Zoll",
+            "amount": 1
+          },
+          {
+            "filterId": "1127016",
+            "content": "27,5 x 2,35 Zoll",
+            "amount": 3
+          },
+          {
+            "filterId": "751869",
+            "content": "26 x 2,25 Zoll",
+            "amount": 93
+          },
+          {
+            "filterId": "1129708",
+            "content": "29 x 2,40 Zoll",
+            "amount": 4
+          },
+          {
+            "filterId": "751867",
+            "content": "26 x 2,00 Zoll",
+            "amount": 143
+          },
+          {
+            "filterId": "751865",
+            "content": "26 x 1,75 Zoll",
+            "amount": 88
+          },
+          {
+            "filterId": "751868",
+            "content": "26 x 2,10 Zoll",
+            "amount": 127
+          },
+          {
+            "filterId": "1752725",
+            "content": "28 x 2,15 Zoll",
+            "amount": 2
+          },
+          {
+            "filterId": "897660",
+            "content": "20 x 2,00 Zoll",
+            "amount": 3
+          },
+          {
+            "filterId": "1426465",
+            "content": "29 x 2,00 Zoll",
+            "amount": 2
+          },
+          {
+            "filterId": "1123574",
+            "content": "27,5 x 2,40 Zoll",
+            "amount": 2
+          },
+          {
+            "filterId": "1136693",
+            "content": "27,5 x 2,00 Zoll",
+            "amount": 1
+          },
+          {
+            "filterId": "1127014",
+            "content": "26 x 1,95 Zoll",
+            "amount": 94
+          },
+          {
+            "filterId": "1163010",
+            "content": "29 x 2,10 Zoll",
+            "amount": 1
+          },
+          {
+            "filterId": "753667",
+            "content": "26 x 2,40 Zoll",
+            "amount": 37
+          },
+          {
+            "filterId": "1127015",
+            "content": "27,5 x 2,10 Zoll",
+            "amount": 2
+          },
+          {
+            "filterId": "1139904",
+            "content": "24 x 1,95 Zoll",
+            "amount": 1
+          },
+          {
+            "filterId": "751879",
+            "content": "28 x 1,40 Zoll",
+            "amount": 2
+          },
+          {
+            "filterId": "1127017",
+            "content": "29 x 2,20 Zoll",
+            "amount": 2
+          },
+          {
+            "filterId": "1877974",
+            "content": "27,5 x 2,20 Zoll",
+            "amount": 1
+          },
+          {
+            "filterId": "104871880",
+            "content": "20 x 2,40 Zoll",
+            "amount": 1
+          },
+          {
+            "filterId": "751878",
+            "content": "28 x 1,25 Zoll",
+            "amount": 3
+          },
+          {
+            "filterId": "1120227",
+            "content": "26 x 2,20 Zoll",
+            "amount": 68
+          },
+          {
+            "filterId": "1139906",
+            "content": "26 x 2,15 Zoll",
+            "amount": 17
+          },
+          {
+            "filterId": "913100",
+            "content": "26 x 2,30 Zoll",
+            "amount": 33
+          },
+          {
+            "filterId": "759240",
+            "content": "24 x 2,00 Zoll",
+            "amount": 2
+          },
+          {
+            "filterId": "751866",
+            "content": "26 x 1,90 Zoll",
+            "amount": 55
+          },
+          {
+            "filterId": "751884",
+            "content": "28 x 2,35 Zoll",
+            "amount": 3
+          },
+          {
+            "filterId": "767618",
+            "content": "24 x 1,90 Zoll",
+            "amount": 2
+          },
+          {
+            "filterId": "753666",
+            "content": "26 x 2,35 Zoll",
+            "amount": 30
+          },
+          {
+            "filterId": "751857",
+            "content": "20 x 2,10 Zoll",
+            "amount": 1
+          },
+          {
+            "filterId": "751863",
+            "content": "26 x 1,50 Zoll",
+            "amount": 30
+          },
+          {
+            "filterId": "1163008",
+            "content": "26 x 2.10 Zoll",
+            "amount": 52
+          },
+          {
+            "filterId": "1128490",
+            "content": "26 x 1,10 Zoll",
+            "amount": 7
+          },
+          {
+            "filterId": "2181860",
+            "content": "27,5 x 3,00 Zoll",
+            "amount": 1
+          },
+          {
+            "filterId": "751876",
+            "content": "28 x 1,10 Zoll",
+            "amount": 6
+          },
+          {
+            "filterId": "1859498",
+            "content": "27,5 x 2,50 Zoll",
+            "amount": 2
+          },
+          {
+            "filterId": "1761246",
+            "content": "29 x 2,30 Zoll",
+            "amount": 1
+          },
+          {
+            "filterId": "1655209",
+            "content": "29 x 2,15 Zoll",
+            "amount": 2
+          },
+          {
+            "filterId": "1145528",
+            "content": "28 x 3/4 Zoll",
+            "amount": 3
+          },
+          {
+            "filterId": "1163007",
+            "content": "27,5 x 2,30 Zoll",
+            "amount": 1
+          },
+          {
+            "filterId": "897661",
+            "content": "26 x 2,125 Zoll",
+            "amount": 47
+          },
+          {
+            "filterId": "1886498",
+            "content": "26 x 4,00 Zoll",
+            "amount": 32
+          },
+          {
+            "filterId": "2181859",
+            "content": "26 x 4,80 Zoll",
+            "amount": 6
+          },
+          {
+            "filterId": "2181862",
+            "content": "26 x 1 3/8 Zoll",
+            "amount": 8
+          },
+          {
+            "filterId": "913101",
+            "content": "26 x 2,50 Zoll",
+            "amount": 7
+          },
+          {
+            "filterId": "1145522",
+            "content": "24 x 2,60 Zoll",
+            "amount": 1
+          },
+          {
+            "filterId": "1145518",
+            "content": "26 x 1,60 Zoll",
+            "amount": 5
+          },
+          {
+            "filterId": "2182674",
+            "content": "27,5 x 1,65 Zoll",
+            "amount": 1
+          },
+          {
+            "filterId": "1139905",
+            "content": "26 x 1,00 Zoll",
+            "amount": 7
+          },
+          {
+            "filterId": "2208077",
+            "content": "26 x 1,70 Zoll",
+            "amount": 4
+          },
+          {
+            "filterId": "2174033",
+            "content": "27,5 x 1,40 Zoll",
+            "amount": 1
+          },
+          {
+            "filterId": "1121988",
+            "content": "28 x 1 1/16 Zoll",
+            "amount": 3
+          },
+          {
+            "filterId": "104136913",
+            "content": "26 x 1.75 Zoll",
+            "amount": 32
+          },
+          {
+            "filterId": "1145520",
+            "content": "26 x 1,25 Zoll",
+            "amount": 11
+          },
+          {
+            "filterId": "1130552",
+            "content": "26 x 1,40 Zoll",
+            "amount": 6
+          },
+          {
+            "filterId": "751862",
+            "content": "26 x 1,35 Zoll",
+            "amount": 7
+          },
+          {
+            "filterId": "751870",
+            "content": "27 x 1 1/4 Zoll",
+            "amount": 1
+          },
+          {
+            "filterId": "1133285",
+            "content": "20 x 1,95 Zoll",
+            "amount": 1
+          },
+          {
+            "filterId": "100925334",
+            "content": "26 x 2,24 Zoll",
+            "amount": 1
+          },
+          {
+            "filterId": "2182675",
+            "content": "26 x 2,80 Zoll",
+            "amount": 1
+          },
+          {
+            "filterId": "1133282",
+            "content": "26 x 7⁄8 Zoll",
+            "amount": 7
+          },
+          {
+            "filterId": "751861",
+            "content": "26 x 1 3/8 x 1 1/2 Zoll",
+            "amount": 1
+          },
+          {
+            "filterId": "1165487",
+            "content": "26 x 1,20 Zoll",
+            "amount": 4
+          },
+          {
+            "filterId": "1427622",
+            "content": "26 x 1,85 Zoll",
+            "amount": 3
+          },
+          {
+            "filterId": "1887698",
+            "content": "26 x 4,40 Zoll",
+            "amount": 1
+          },
+          {
+            "filterId": "751872",
+            "content": "28 x 1 1/4 Zoll",
+            "amount": 1
+          },
+          {
+            "filterId": "1878886",
+            "content": "29 x 1,90 Zoll",
+            "amount": 1
+          },
+          {
+            "filterId": "1123576",
+            "content": "26 x 1 5/8 Zoll",
+            "amount": 1
+          },
+          {
+            "filterId": "927351",
+            "content": "26 x 1,30 Zoll",
+            "amount": 2
+          },
+          {
+            "filterId": "1121991",
+            "content": "27 x 1 1/2 Zoll",
+            "amount": 1
+          },
+          {
+            "filterId": "751873",
+            "content": "28 x 1 1/8 Zoll",
+            "amount": 1
+          },
+          {
+            "filterId": "1163009",
+            "content": "28 x 1,90 Zoll",
+            "amount": 2
+          },
+          {
+            "filterId": "903069",
+            "content": "24 x 2,25 Zoll",
+            "amount": 2
+          },
+          {
+            "filterId": "2008394",
+            "content": "26 x 1 1/2 Zoll",
+            "amount": 4
+          },
+          {
+            "filterId": "1133287",
+            "content": "26 x 1 5/8 x 1 1/2 Zoll",
+            "amount": 1
+          },
+          {
+            "filterId": "104871884",
+            "content": "26 x 1,375 Zoll",
+            "amount": 1
+          },
+          {
+            "filterId": "1123572",
+            "content": "26 x 1,5 Zoll",
+            "amount": 16
+          },
+          {
+            "filterId": "753665",
+            "content": "26 x 1,80 Zoll",
+            "amount": 1
+          },
+          {
+            "filterId": "1121990",
+            "content": "26 x 2,60 Zoll",
+            "amount": 3
+          },
+          {
+            "filterId": "1865379",
+            "content": "26 x 3,00 Zoll",
+            "amount": 6
+          },
+          {
+            "filterId": "1128489",
+            "content": "26 x 3,80 Zoll",
+            "amount": 1
+          },
+          {
+            "filterId": "104353250",
+            "content": "26 x 4,60 Zoll",
+            "amount": 2
+          }
+        ]
+      },
+      {
+        "attributeId": "16313",
+        "name": "Größe ETRTO",
+        "filters": [
+          {
+            "filterId": "751901",
+            "content": "42-622",
+            "amount": 4
+          },
+          {
+            "filterId": "751897",
+            "content": "40-622",
+            "amount": 2
+          },
+          {
+            "filterId": "751889",
+            "content": "32-622",
+            "amount": 5
+          },
+          {
+            "filterId": "751908",
+            "content": "50-622",
+            "amount": 2
+          },
+          {
+            "filterId": "751905",
+            "content": "47-622",
+            "amount": 3
+          },
+          {
+            "filterId": "751894",
+            "content": "37-622",
+            "amount": 5
+          },
+          {
+            "filterId": "751887",
+            "content": "28-622",
+            "amount": 8
+          },
+          {
+            "filterId": "753658",
+            "content": "35-622",
+            "amount": 1
+          },
+          {
+            "filterId": "1127008",
+            "content": "55-622",
+            "amount": 2
+          },
+          {
+            "filterId": "751907",
+            "content": "50-559",
+            "amount": 138
+          },
+          {
+            "filterId": "751909",
+            "content": "54-559",
+            "amount": 94
+          },
+          {
+            "filterId": "751912",
+            "content": "60-622",
+            "amount": 4
+          },
+          {
+            "filterId": "751904",
+            "content": "47-559",
+            "amount": 66
+          },
+          {
+            "filterId": "858702",
+            "content": "23-622",
+            "amount": 2
+          },
+          {
+            "filterId": "1130546",
+            "content": "50-584",
+            "amount": 1
+          },
+          {
+            "filterId": "751910",
+            "content": "57-559",
+            "amount": 86
+          },
+          {
+            "filterId": "2172725",
+            "content": "60-584",
+            "amount": 1
+          },
+          {
+            "filterId": "903068",
+            "content": "55-559",
+            "amount": 43
+          },
+          {
+            "filterId": "751906",
+            "content": "50-406",
+            "amount": 3
+          },
+          {
+            "filterId": "1149925",
+            "content": "26-622",
+            "amount": 13
+          },
+          {
+            "filterId": "759233",
+            "content": "50-507",
+            "amount": 2
+          },
+          {
+            "filterId": "2009251",
+            "content": "54-584",
+            "amount": 2
+          },
+          {
+            "filterId": "753660",
+            "content": "60-559",
+            "amount": 33
+          },
+          {
+            "filterId": "1004895",
+            "content": "20-622",
+            "amount": 3
+          },
+          {
+            "filterId": "753662",
+            "content": "62-559",
+            "amount": 7
+          },
+          {
+            "filterId": "1128485",
+            "content": "28-559",
+            "amount": 7
+          },
+          {
+            "filterId": "2063898",
+            "content": "20-559",
+            "amount": 1
+          },
+          {
+            "filterId": "2273072",
+            "content": "30-559",
+            "amount": 4
+          },
+          {
+            "filterId": "102922232",
+            "content": "61-406",
+            "amount": 1
+          },
+          {
+            "filterId": "1145505",
+            "content": "62-584",
+            "amount": 1
+          },
+          {
+            "filterId": "1127009",
+            "content": "58-559",
+            "amount": 16
+          },
+          {
+            "filterId": "3397600",
+            "content": "58-622",
+            "amount": 1
+          },
+          {
+            "filterId": "1127010",
+            "content": "58-584",
+            "amount": 1
+          },
+          {
+            "filterId": "1420747",
+            "content": "40-584",
+            "amount": 3
+          },
+          {
+            "filterId": "751893",
+            "content": "37-590",
+            "amount": 12
+          },
+          {
+            "filterId": "753661",
+            "content": "42-559",
+            "amount": 5
+          },
+          {
+            "filterId": "1133279",
+            "content": "52-622",
+            "amount": 1
+          },
+          {
+            "filterId": "2182671",
+            "content": "61-584",
+            "amount": 1
+          },
+          {
+            "filterId": "1142588",
+            "content": "63-584",
+            "amount": 1
+          },
+          {
+            "filterId": "1139897",
+            "content": "100-559",
+            "amount": 9
+          },
+          {
+            "filterId": "751896",
+            "content": "40-559",
+            "amount": 37
+          },
+          {
+            "filterId": "1136682",
+            "content": "64-584",
+            "amount": 1
+          },
+          {
+            "filterId": "1420750",
+            "content": "42-584",
+            "amount": 1
+          },
+          {
+            "filterId": "1142586",
+            "content": "44-584",
+            "amount": 1
+          },
+          {
+            "filterId": "751895",
+            "content": "23-571",
+            "amount": 7
+          },
+          {
+            "filterId": "1142585",
+            "content": "37-584",
+            "amount": 1
+          },
+          {
+            "filterId": "1136688",
+            "content": "44-559",
+            "amount": 6
+          },
+          {
+            "filterId": "1130548",
+            "content": "61-559",
+            "amount": 6
+          },
+          {
+            "filterId": "1139896",
+            "content": "25-559",
+            "amount": 5
+          },
+          {
+            "filterId": "1123565",
+            "content": "52-559",
+            "amount": 11
+          },
+          {
+            "filterId": "1163005",
+            "content": "25-590",
+            "amount": 7
+          },
+          {
+            "filterId": "927350",
+            "content": "32-559",
+            "amount": 9
+          },
+          {
+            "filterId": "751891",
+            "content": "35-559",
+            "amount": 8
+          },
+          {
+            "filterId": "759230",
+            "content": "54-406",
+            "amount": 1
+          },
+          {
+            "filterId": "1145504",
+            "content": "120-559",
+            "amount": 2
+          },
+          {
+            "filterId": "751890",
+            "content": "32-630",
+            "amount": 1
+          },
+          {
+            "filterId": "3214767",
+            "content": "20-540",
+            "amount": 1
+          },
+          {
+            "filterId": "1139899",
+            "content": "37-559",
+            "amount": 5
+          },
+          {
+            "filterId": "103651539",
+            "content": "98-559",
+            "amount": 1
+          },
+          {
+            "filterId": "751900",
+            "content": "42-590",
+            "amount": 1
+          },
+          {
+            "filterId": "1244078",
+            "content": "75-584",
+            "amount": 1
+          },
+          {
+            "filterId": "1121980",
+            "content": "40-609",
+            "amount": 1
+          },
+          {
+            "filterId": "1181205",
+            "content": "48-559",
+            "amount": 2
+          },
+          {
+            "filterId": "1181204",
+            "content": "22-559",
+            "amount": 1
+          },
+          {
+            "filterId": "1133277",
+            "content": "23-559",
+            "amount": 1
+          },
+          {
+            "filterId": "1121979",
+            "content": "31-559",
+            "amount": 1
+          },
+          {
+            "filterId": "1162126",
+            "content": "51-559",
+            "amount": 2
+          },
+          {
+            "filterId": "1186765",
+            "content": "53-559",
+            "amount": 4
+          },
+          {
+            "filterId": "1139901",
+            "content": "56-559",
+            "amount": 3
+          },
+          {
+            "filterId": "859503",
+            "content": "57-507",
+            "amount": 2
+          },
+          {
+            "filterId": "1123567",
+            "content": "59-559",
+            "amount": 1
+          },
+          {
+            "filterId": "102910070",
+            "content": "63-559",
+            "amount": 1
+          },
+          {
+            "filterId": "1121982",
+            "content": "65-559",
+            "amount": 2
+          },
+          {
+            "filterId": "103495919",
+            "content": "68-559",
+            "amount": 1
+          },
+          {
+            "filterId": "1134413",
+            "content": "75-559",
+            "amount": 3
+          },
+          {
+            "filterId": "2181855",
+            "content": "75-622",
+            "amount": 1
+          }
+        ]
+      },
+      {
+        "attributeId": "15642",
+        "name": "Durchmesser",
+        "filters": [
+          {
+            "filterId": "751996",
+            "content": "28 Zoll",
+            "amount": 28
+          },
+          {
+            "filterId": "751994",
+            "content": "26 Zoll",
+            "amount": 1026
+          },
+          {
+            "filterId": "1129704",
+            "content": "29 Zoll",
+            "amount": 7
+          },
+          {
+            "filterId": "2198808",
+            "content": "27,5 Zoll",
+            "amount": 9
+          },
+          {
+            "filterId": "751992",
+            "content": "20 Zoll",
+            "amount": 4
+          },
+          {
+            "filterId": "751993",
+            "content": "24 Zoll",
+            "amount": 4
+          },
+          {
+            "filterId": "751995",
+            "content": "27 Zoll",
+            "amount": 3
+          },
+          {
+            "filterId": "759227",
+            "content": "12 Zoll",
+            "amount": 1
+          },
+          {
+            "filterId": "903067",
+            "content": "22 Zoll",
+            "amount": 2
+          }
+        ]
+      },
+      {
+        "attributeId": "20222",
+        "name": "Bauart",
+        "filters": [
+          {
+            "filterId": "1471697",
+            "content": "Drahtreifen",
+            "amount": 276
+          },
+          {
+            "filterId": "5224051",
+            "content": "Tubeless Ready",
+            "amount": 91
+          },
+          {
+            "filterId": "1471698",
+            "content": "Faltreifen",
+            "amount": 209
+          },
+          {
+            "filterId": "1905207",
+            "content": "Schlauchreifen",
+            "amount": 3
+          }
+        ]
+      }
+    ],
+    "suggestedFilters": [
+      {
+        "id": "699272",
+        "type": "MANUFACTURER"
+      },
+      {
+        "id": "1580436",
+        "type": "SEARCH_FILTER"
+      },
+      {
+        "id": "1467890",
+        "type": "SEARCH_FILTER"
+      },
+      {
+        "id": "3246605",
+        "type": "SEARCH_FILTER"
+      },
+      {
+        "id": "8437853",
+        "type": "SEARCH_FILTER"
+      },
+      {
+        "id": "1467892",
+        "type": "SEARCH_FILTER"
+      },
+      {
+        "id": "751901",
+        "type": "SEARCH_FILTER"
+      },
+      {
+        "id": "751996",
+        "type": "SEARCH_FILTER"
+      },
+      {
+        "id": "1469020",
+        "type": "SEARCH_FILTER"
+      },
+      {
+        "id": "699262",
+        "type": "MANUFACTURER"
+      }
+    ],
+    "sizeAttributes": [],
+    "results": [
+      {
+        "productRef": "pr.v1.k1.NoJjRPoiXeXUcYGr5yGG_-ptqyOfij02PaIUDD0EOiJ1qO0",
+        "itemType": "PRODUCT",
+        "siteId": 1,
+        "name": "Schwalbe Land Cruiser (Active Line)",
+        "nameDelta": "26 x 2.00 (50-559)",
+        "price": "11,54 €",
+        "imageUrl": "https://cdn.idealo.com/folder/Product/4860/5/4860590/s1_produktbild_mobil/schwalbe-land-cruiser-26-x-2-00-50-559-active-line.jpg",
+        "url": "https://www.idealo.de/preisvergleich/OffersOfProduct/4860590_-land-cruiser-26-x-2-00-50-559-active-line-schwalbe.html",
+        "userReviewsSummary": {
+          "averageRating": 4,
+          "totalReviewCount": 2
+        },
+        "totalOfferCount": 12
+      },
+      {
+        "productRef": "pr.v1.k1.1-w5VBCcC3r7SziYpdrhMBmgC30rHNg3aA5j6fOih4liNew",
+        "itemType": "PRODUCT",
+        "siteId": 1,
+        "name": "Continental Double Fighter III",
+        "nameDelta": "26 x 1.9 (50-559)",
+        "price": "12,65 €",
+        "imageUrl": "https://cdn.idealo.com/folder/Product/4961/4/4961442/s1_produktbild_mobil/continental-double-fighter-iii-26-x-1-9-50-559.jpg",
+        "url": "https://www.idealo.de/preisvergleich/OffersOfProduct/4961442_-double-fighter-iii-26-x-1-9-50-559-continental.html",
+        "userReviewsSummary": {
+          "averageRating": 5,
+          "totalReviewCount": 1
+        },
+        "totalOfferCount": 15
+      },
+      {
+        "productRef": "pr.v1.k1.2FmLkBASD30wkfiMuYSuuM0FT58wVIRg5dpjXvga-Ag6NJHmcQ",
+        "itemType": "PRODUCT",
+        "siteId": 1,
+        "name": "Schwalbe Rapid Rob Active Drahtreifen 26 x 2,25 (57-559) K-Guard SBC schwarz",
+        "price": "10,99 €",
+        "imageUrl": "https://cdn.idealo.com/folder/Product/200531/6/200531693/s1_produktbild_mobil/schwalbe-rapid-rob-active-drahtreifen-26-x-2-25-57-559-k-guard-sbc-schwarz.jpg",
+        "url": "https://www.idealo.de/preisvergleich/OffersOfProduct/200531693_-rapid-rob-active-drahtreifen-26-x-2-25-57-559-k-guard-sbc-schwarz-schwalbe.html",
+        "totalOfferCount": 20
+      },
+      {
+        "productRef": "pr.v1.k1.XXoqYCpz6lYYoSKfOZpFD37MyXtRIKPMBRkXcHLjitVnnIk",
+        "itemType": "PRODUCT",
+        "siteId": 1,
+        "name": "Continental Race King Performance Clincher",
+        "nameDelta": "26 x 2.2 (55-559)",
+        "price": "13,86 €",
+        "imageUrl": "https://cdn.idealo.com/folder/Product/2544/5/2544502/s1_produktbild_mobil/continental-race-king-performance-26-x-2-2-55-559-clincher.jpg",
+        "url": "https://www.idealo.de/preisvergleich/OffersOfProduct/2544502_-race-king-performance-26-x-2-2-55-559-clincher-continental.html",
+        "userReviewsSummary": {
+          "averageRating": 5,
+          "totalReviewCount": 1
+        },
+        "testReportsSummary": {
+          "grade": "1,0"
+        },
+        "totalOfferCount": 13
+      },
+      {
+        "productRef": "pr.v1.k1.5_SdCtnpxETzgEM6kwMKxCKTwrtV3D3s-esijFMamFzMvV0",
+        "itemType": "PRODUCT",
+        "siteId": 1,
+        "name": "Prophete City Reifen",
+        "nameDelta": "26 x 1,75 (47-559)",
+        "price": "7,79 €",
+        "imageUrl": "https://cdn.idealo.com/folder/Product/3288/6/3288681/s1_produktbild_mobil/prophete-city-reifen-26-x-1-75-47-559.jpg",
+        "url": "https://www.idealo.de/preisvergleich/OffersOfProduct/3288681_-city-reifen-26-x-1-75-47-559-prophete.html",
+        "userReviewsSummary": {
+          "averageRating": 4.65,
+          "totalReviewCount": 131
+        },
+        "totalOfferCount": 7
+      },
+      {
+        "productRef": "pr.v1.k1.l_HSnlGE1dvkrUU_cvOQ4CIhL8RMRb1ePR-a95162SRKNTyq_g",
+        "itemType": "PRODUCT",
+        "siteId": 1,
+        "name": "Schwalbe Billy Bonkers",
+        "nameDelta": "Hs600 Foldable 26 x 2.10 bronze",
+        "price": "15,66 €",
+        "imageUrl": "https://cdn.idealo.com/folder/Product/202052/3/202052396/s1_produktbild_mobil/schwalbe-billy-bonkers-hs600-foldable-26-x-2-10-bronze.jpg",
+        "url": "https://www.idealo.de/preisvergleich/OffersOfProduct/202052396_-billy-bonkers-hs600-foldable-26-x-2-10-bronze-schwalbe.html",
+        "userReviewsSummary": {
+          "averageRating": 3.71,
+          "totalReviewCount": 7
+        },
+        "totalOfferCount": 9
+      },
+      {
+        "productRef": "pr.v1.k1.Ms4VBxjYNOAzEfu4prV29UlLb3vWyvMrUZuhk1W52RTg-0Q",
+        "itemType": "PRODUCT",
+        "siteId": 1,
+        "name": "Maxxis DTH",
+        "nameDelta": "26 x 2.30 (58-559)",
+        "price": "18,95 €",
+        "imageUrl": "https://cdn.idealo.com/folder/Product/5241/5/5241533/s1_produktbild_mobil/maxxis-dth-26-x-2-30-58-559.jpg",
+        "url": "https://www.idealo.de/preisvergleich/OffersOfProduct/5241533_-dth-26-x-2-30-58-559-maxxis.html",
+        "userReviewsSummary": {
+          "averageRating": 4.55,
+          "totalReviewCount": 71
+        },
+        "totalOfferCount": 22
+      },
+      {
+        "productRef": "pr.v1.k1.MCC2HkTczOVCxWDhMHBv4gnrOEHPYMPcfSmopA0GxRx6e38",
+        "itemType": "PRODUCT",
+        "siteId": 1,
+        "name": "Schwalbe Winter",
+        "nameDelta": "26 x 1.75 (47-622)",
+        "price": "22,99 €",
+        "imageUrl": "https://cdn.idealo.com/folder/Product/5925/6/5925662/s1_produktbild_mobil/schwalbe-winter-26-x-1-75-47-622.jpg",
+        "url": "https://www.idealo.de/preisvergleich/OffersOfProduct/5925662_-winter-26-x-1-75-47-622-schwalbe.html",
+        "totalOfferCount": 13
+      },
+      {
+        "productRef": "pr.v1.k1.T2R-MatojNKNE0xHb5WJ14m3Xrnk7cH6GXSKeFN5rXNSJw",
+        "itemType": "PRODUCT",
+        "siteId": 1,
+        "name": "Continental TourRide",
+        "nameDelta": "26 x 1.75 (47-559) schwarz reflex",
+        "price": "12,68 €",
+        "imageUrl": "https://cdn.idealo.com/folder/Product/455/7/455715/s1_produktbild_mobil/continental-tourride-26-x-1-75-47-559-schwarz-reflex.jpg",
+        "url": "https://www.idealo.de/preisvergleich/OffersOfProduct/455715_-tourride-26-x-1-75-47-559-schwarz-reflex-continental.html",
+        "userReviewsSummary": {
+          "averageRating": 4,
+          "totalReviewCount": 4
+        },
+        "totalOfferCount": 19
+      },
+      {
+        "productRef": "pr.v1.k1.snGNt9uFpZArMosilpvAq-qY-gqr1-mihLaryWP7mUjTTBY",
+        "itemType": "PRODUCT",
+        "siteId": 1,
+        "name": "Schwalbe Road Cruiser Green",
+        "nameDelta": "26 x 1.75 (47-559) gumwall",
+        "price": "11,39 €",
+        "imageUrl": "https://cdn.idealo.com/folder/Product/5975/8/5975866/s1_produktbild_mobil/schwalbe-road-cruiser-green-26-x-1-75-47-559-gumwall.jpg",
+        "url": "https://www.idealo.de/preisvergleich/OffersOfProduct/5975866_-road-cruiser-green-26-x-1-75-47-559-gumwall-schwalbe.html",
+        "userReviewsSummary": {
+          "averageRating": 5,
+          "totalReviewCount": 1
+        },
+        "totalOfferCount": 12
+      }
+    ]
+  },
+  "picked": {
+    "productRef": "pr.v1.k1.1-w5VBCcC3r7SziYpdrhMBmgC30rHNg3aA5j6fOih4liNew",
+    "itemType": "PRODUCT",
+    "siteId": 1,
+    "name": "Continental Double Fighter III",
+    "nameDelta": "26 x 1.9 (50-559)",
+    "price": "12,65 €",
+    "imageUrl": "https://cdn.idealo.com/folder/Product/4961/4/4961442/s1_produktbild_mobil/continental-double-fighter-iii-26-x-1-9-50-559.jpg",
+    "url": "https://www.idealo.de/preisvergleich/OffersOfProduct/4961442_-double-fighter-iii-26-x-1-9-50-559-continental.html",
+    "userReviewsSummary": {
+      "averageRating": 5,
+      "totalReviewCount": 1
+    },
+    "totalOfferCount": 15
+  },
+  "details": {
+    "productRef": "pr.v1.k1.1-w5VBCcC3r7SziYpdrhMBmgC30rHNg3aA5j6fOih4liNew",
+    "itemType": "PRODUCT",
+    "siteId": 1,
+    "url": "https://www.idealo.de/preisvergleich/OffersOfProduct/4961442_-double-fighter-iii-26-x-1-9-50-559-continental.html",
+    "name": "Continental Double Fighter III",
+    "nameDelta": "26 x 1.9 (50-559)",
+    "imageUrls": [
+      "https://cdn.idealo.com/folder/Product/4961/4/4961442/s1_produktbild_mobil/continental-double-fighter-iii-26-x-1-9-50-559.jpg"
+    ],
+    "nextOffset": 3,
+    "offers": [
+      {
+        "key": "335cc06acbf736a47464909d9635d1ea",
+        "price": "12,65 €",
+        "basePrice": null,
+        "shop": {
+          "shopId": "285697",
+          "merchantId": null,
+          "name": "reifen.com",
+          "merchantName": null,
+          "rating": {
+            "count": 4668,
+            "avg": 4.01
+          },
+          "isMarketplace": false
+        },
+        "payments": [
+          {
+            "costCode": "INV",
+            "name": "Rechnung"
+          },
+          {
+            "costCode": "PP",
+            "name": "PayPal"
+          },
+          {
+            "costCode": "DD",
+            "name": "Lastschrift"
+          },
+          {
+            "costCode": "SUW",
+            "name": "Sofort."
+          },
+          {
+            "costCode": "CBC",
+            "name": "Kreditkarte"
+          },
+          {
+            "costCode": "CIA",
+            "name": "Vorkasse"
+          },
+          {
+            "costCode": "AMZP",
+            "name": "Amazon Pay"
+          }
+        ],
+        "showPaymentDisclaimer": false,
+        "delivery": {
+          "deliveryText": "Di. 01.12.–Fr. 04.12.2026",
+          "deliveryStatus": "MEDIUM",
+          "earlyDeliveryDate": "2026-12-01",
+          "lateDeliveryDate": "2026-12-04"
+        },
+        "freeReturnDays": null,
+        "relocatorUrl": "https://www.idealo.de/relocator/relocate?offerKey=335cc06acbf736a47464909d9635d1ea&categoryId=9452&pos=1&price=12.65&productid=4961442&sid=285697&type=offer&media=ipc-public-mcp",
+        "minShippingCost": "5,99 €",
+        "hasAlwaysFreeShipping": false,
+        "cheapestTotalPriceOffer": false,
+        "freshness": "2026-11-27T15:48:50.313Z"
+      },
+      {
+        "key": "336aeaf225d3a9c6a27381588908408d",
+        "price": "14,95 €",
+        "basePrice": null,
+        "shop": {
+          "shopId": "332932",
+          "merchantId": null,
+          "name": "deporvillage.de",
+          "merchantName": null,
+          "rating": {
+            "count": 69,
+            "avg": 1.96
+          },
+          "isMarketplace": false
+        },
+        "payments": [
+          {
+            "costCode": "INV",
+            "name": "Rechnung"
+          },
+          {
+            "costCode": "PP",
+            "name": "PayPal"
+          },
+          {
+            "costCode": "SUW",
+            "name": "Sofort."
+          },
+          {
+            "costCode": "CBC",
+            "name": "Kreditkarte"
+          },
+          {
+            "costCode": "CIA",
+            "name": "Vorkasse"
+          }
+        ],
+        "showPaymentDisclaimer": false,
+        "delivery": {
+          "deliveryText": "Di. 01.12.–Mi. 02.12.2026",
+          "deliveryStatus": "SHORT",
+          "earlyDeliveryDate": "2026-12-01",
+          "lateDeliveryDate": "2026-12-02"
+        },
+        "freeReturnDays": null,
+        "relocatorUrl": "https://www.idealo.de/relocator/relocate?offerKey=336aeaf225d3a9c6a27381588908408d&categoryId=9452&pos=3&price=14.95&productid=4961442&sid=332932&type=offer&media=ipc-public-mcp",
+        "minShippingCost": "7,99 €",
+        "hasAlwaysFreeShipping": false,
+        "cheapestTotalPriceOffer": false,
+        "freshness": "2026-11-27T15:48:50.313Z"
+      }
+    ],
+    "prosCons": {
+      "pros": [
+        "geringer Rollwiderstand auf Asphalt",
+        "Grip auf unbefestigten Wegen",
+        "robuste Seitenwand"
+      ],
+      "cons": [
+        "nicht für anspruchsvolle Trails geeignet"
+      ]
+    },
+    "testReports": {
+      "summary": {
+        "ratingCount": 1
+      },
+      "list": [
+        {
+          "providerName": "BIKE-B.de",
+          "shortDescription": "Einzeltest Continental Double Fighter III",
+          "summaryText": "Es handelt sich um einen guten Reifen, der auch bei Matsch und Nässe überzeugte. Dank exponierter Außenstollen bietet er viel Grip auf Schotter- und Feldwegen.",
+          "ratingValue": "ohne Gesamtnote",
+          "language": "de",
+          "issue": "online",
+          "testedProductsCount": 1
+        }
+      ]
+    },
+    "productSpecification": {
+      "groups": [
+        {
+          "name": "Allgemeine Informationen",
+          "type": "DEFAULT",
+          "attributes": [
+            {
+              "name": "Gewicht",
+              "value": "800 g"
+            },
+            {
+              "name": "Serie",
+              "value": "Continental Double Fighter"
+            },
+            {
+              "name": "Farbe",
+              "value": "schwarz"
+            }
+          ]
+        },
+        {
+          "name": "Reifengröße",
+          "type": "DEFAULT",
+          "attributes": [
+            {
+              "name": "Größen",
+              "value": "26 x 1,90 Zoll, 26 x 2,00 Zoll"
+            },
+            {
+              "name": "Größe ETRTO",
+              "value": "50-559"
+            },
+            {
+              "name": "Durchmesser",
+              "value": "26 Zoll"
+            },
+            {
+              "name": "Kompatibilität",
+              "value": "Felgenmaulweite 17-27 mm"
+            }
+          ]
+        },
+        {
+          "name": "Materialeigenschaften",
+          "type": "DEFAULT",
+          "attributes": [
+            {
+              "name": "Bauart",
+              "value": "Drahtreifen"
+            },
+            {
+              "name": "min. Reifendruck",
+              "value": "3,5 bar"
+            },
+            {
+              "name": "max. Reifendruck",
+              "value": "4,5 bar"
+            },
+            {
+              "name": "TPI",
+              "value": "180"
+            }
+          ]
+        },
+        {
+          "name": "",
+          "type": "IMPORTANT",
+          "attributes": [
+            {
+              "name": "Gelistet seit",
+              "value": "Februar 2016"
+            },
+            {
+              "name": "Produkttyp",
+              "value": "MTB-Reifen"
+            }
+          ]
+        }
+      ]
+    },
+    "productOverview": [
+      "26 x 1,90 Zoll",
+      "50-559",
+      "Drahtreifen"
+    ],
+    "productDetailsUrl": "https://www.idealo.de/preisvergleich/OffersOfProduct/4961442_-double-fighter-iii-26-x-1-9-50-559-continental.html#datasheet",
+    "priceTrend": {
+      "history": [
+        {
+          "dateTime": 1793228399999,
+          "price": 1345
+        },
+        {
+          "dateTime": 1793314799999,
+          "price": 1345
+        },
+        {
+          "dateTime": 1793401199999,
+          "price": 1345
+        },
+        {
+          "dateTime": 1793487599999,
+          "price": 1345
+        },
+        {
+          "dateTime": 1793573999999,
+          "price": 1345
+        },
+        {
+          "dateTime": 1793660399999,
+          "price": 1345
+        },
+        {
+          "dateTime": 1793746799999,
+          "price": 1345
+        },
+        {
+          "dateTime": 1793833199999,
+          "price": 1345
+        },
+        {
+          "dateTime": 1793919599999,
+          "price": 1345
+        },
+        {
+          "dateTime": 1794005999999,
+          "price": 1345
+        },
+        {
+          "dateTime": 1794092399999,
+          "price": 1345
+        },
+        {
+          "dateTime": 1794178799999,
+          "price": 1345
+        },
+        {
+          "dateTime": 1794265199999,
+          "price": 1345
+        },
+        {
+          "dateTime": 1794351599999,
+          "price": 1344
+        },
+        {
+          "dateTime": 1794437999999,
+          "price": 1344
+        },
+        {
+          "dateTime": 1794524399999,
+          "price": 1312
+        },
+        {
+          "dateTime": 1794610799999,
+          "price": 1312
+        },
+        {
+          "dateTime": 1794697199999,
+          "price": 1312
+        },
+        {
+          "dateTime": 1794783599999,
+          "price": 1312
+        },
+        {
+          "dateTime": 1794869999999,
+          "price": 1312
+        },
+        {
+          "dateTime": 1794956399999,
+          "price": 1312
+        },
+        {
+          "dateTime": 1795042799999,
+          "price": 1283
+        },
+        {
+          "dateTime": 1795129199999,
+          "price": 1283
+        },
+        {
+          "dateTime": 1795215599999,
+          "price": 1283
+        },
+        {
+          "dateTime": 1795301999999,
+          "price": 1283
+        },
+        {
+          "dateTime": 1795388399999,
+          "price": 1283
+        },
+        {
+          "dateTime": 1795474799999,
+          "price": 1271
+        },
+        {
+          "dateTime": 1795561199999,
+          "price": 1271
+        },
+        {
+          "dateTime": 1795647599999,
+          "price": 1271
+        },
+        {
+          "dateTime": 1795733999999,
+          "price": 1265
+        },
+        {
+          "dateTime": 1795794530310,
+          "price": 1265
+        }
+      ]
+    }
+  },
+  "offers_pages": [
+    {
+      "nextOffset": 5,
+      "offers": [
+        {
+          "key": "335cc06acbf736a47464909d9635d1ea",
+          "price": "12,65 €",
+          "basePrice": null,
+          "shop": {
+            "shopId": "285697",
+            "merchantId": null,
+            "name": "reifen.com",
+            "merchantName": null,
+            "rating": {
+              "count": 4668,
+              "avg": 4.01
+            },
+            "isMarketplace": false
+          },
+          "payments": [
+            {
+              "costCode": "INV",
+              "name": "Rechnung"
+            },
+            {
+              "costCode": "PP",
+              "name": "PayPal"
+            },
+            {
+              "costCode": "DD",
+              "name": "Lastschrift"
+            },
+            {
+              "costCode": "SUW",
+              "name": "Sofort."
+            },
+            {
+              "costCode": "CBC",
+              "name": "Kreditkarte"
+            },
+            {
+              "costCode": "CIA",
+              "name": "Vorkasse"
+            },
+            {
+              "costCode": "AMZP",
+              "name": "Amazon Pay"
+            }
+          ],
+          "showPaymentDisclaimer": false,
+          "delivery": {
+            "deliveryText": "Di. 01.12.–Fr. 04.12.2026",
+            "deliveryStatus": "MEDIUM",
+            "earlyDeliveryDate": "2026-12-01",
+            "lateDeliveryDate": "2026-12-04"
+          },
+          "freeReturnDays": null,
+          "relocatorUrl": "https://www.idealo.de/relocator/relocate?offerKey=335cc06acbf736a47464909d9635d1ea&categoryId=9452&pos=1&price=12.65&productid=4961442&sid=285697&type=offer&media=ipc-public-mcp",
+          "minShippingCost": "5,99 €",
+          "hasAlwaysFreeShipping": false,
+          "cheapestTotalPriceOffer": false,
+          "freshness": "2026-11-27T15:48:50.723Z"
+        },
+        {
+          "key": "336aeaf225d3a9c6a27381588908408d",
+          "price": "14,95 €",
+          "basePrice": null,
+          "shop": {
+            "shopId": "332932",
+            "merchantId": null,
+            "name": "deporvillage.de",
+            "merchantName": null,
+            "rating": {
+              "count": 69,
+              "avg": 1.96
+            },
+            "isMarketplace": false
+          },
+          "payments": [
+            {
+              "costCode": "INV",
+              "name": "Rechnung"
+            },
+            {
+              "costCode": "PP",
+              "name": "PayPal"
+            },
+            {
+              "costCode": "SUW",
+              "name": "Sofort."
+            },
+            {
+              "costCode": "CBC",
+              "name": "Kreditkarte"
+            },
+            {
+              "costCode": "CIA",
+              "name": "Vorkasse"
+            }
+          ],
+          "showPaymentDisclaimer": false,
+          "delivery": {
+            "deliveryText": "Di. 01.12.–Mi. 02.12.2026",
+            "deliveryStatus": "SHORT",
+            "earlyDeliveryDate": "2026-12-01",
+            "lateDeliveryDate": "2026-12-02"
+          },
+          "freeReturnDays": null,
+          "relocatorUrl": "https://www.idealo.de/relocator/relocate?offerKey=336aeaf225d3a9c6a27381588908408d&categoryId=9452&pos=3&price=14.95&productid=4961442&sid=332932&type=offer&media=ipc-public-mcp",
+          "minShippingCost": "7,99 €",
+          "hasAlwaysFreeShipping": false,
+          "cheapestTotalPriceOffer": false,
+          "freshness": "2026-11-27T15:48:50.723Z"
+        },
+        {
+          "key": "b66bda693eebf3e857a07aff24916978",
+          "price": "17,99 €",
+          "basePrice": null,
+          "shop": {
+            "shopId": "23863",
+            "merchantId": null,
+            "name": "boc24.de",
+            "merchantName": null,
+            "rating": {
+              "count": 364,
+              "avg": 1.4
+            },
+            "isMarketplace": false
+          },
+          "payments": [
+            {
+              "costCode": "INV",
+              "name": "Rechnung"
+            },
+            {
+              "costCode": "PP",
+              "name": "PayPal"
+            },
+            {
+              "costCode": "SUW",
+              "name": "Sofort."
+            },
+            {
+              "costCode": "CBC",
+              "name": "Kreditkarte"
+            },
+            {
+              "costCode": "CIA",
+              "name": "Vorkasse"
+            }
+          ],
+          "showPaymentDisclaimer": false,
+          "delivery": {
+            "deliveryText": "Di. 01.12.–Mi. 02.12.2026",
+            "deliveryStatus": "SHORT",
+            "earlyDeliveryDate": "2026-12-01",
+            "lateDeliveryDate": "2026-12-02"
+          },
+          "freeReturnDays": 14,
+          "relocatorUrl": "https://www.idealo.de/relocator/relocate?offerKey=b66bda693eebf3e857a07aff24916978&categoryId=9452&pos=4&price=17.99&productid=4961442&sid=23863&type=offer&media=ipc-public-mcp",
+          "minShippingCost": "4,95 €",
+          "hasAlwaysFreeShipping": false,
+          "cheapestTotalPriceOffer": false,
+          "freshness": "2026-11-27T15:48:50.723Z"
+        },
+        {
+          "key": "71d847fbdde093a1b89bfb2d5c8b51ab",
+          "price": "18,04 €",
+          "basePrice": null,
+          "shop": {
+            "shopId": "283194",
+            "merchantId": null,
+            "name": "bikeinn.com (DE)",
+            "merchantName": null,
+            "rating": {
+              "count": 189,
+              "avg": 1.62
+            },
+            "isMarketplace": false
+          },
+          "payments": [
+            {
+              "costCode": "INV",
+              "name": "Rechnung"
+            },
+            {
+              "costCode": "PP",
+              "name": "PayPal"
+            },
+            {
+              "costCode": "SUW",
+              "name": "Sofort."
+            },
+            {
+              "costCode": "CBC",
+              "name": "Kreditkarte"
+            }
+          ],
+          "showPaymentDisclaimer": false,
+          "delivery": {
+            "deliveryText": "Di. 01.12.–Do. 03.12.2026",
+            "deliveryStatus": "MEDIUM",
+            "earlyDeliveryDate": "2026-12-01",
+            "lateDeliveryDate": "2026-12-03"
+          },
+          "freeReturnDays": null,
+          "relocatorUrl": "https://www.idealo.de/relocator/relocate?offerKey=71d847fbdde093a1b89bfb2d5c8b51ab&categoryId=9452&pos=5&price=18.04&productid=4961442&sid=283194&type=offer&media=ipc-public-mcp",
+          "minShippingCost": "3,99 €",
+          "hasAlwaysFreeShipping": false,
+          "cheapestTotalPriceOffer": false,
+          "freshness": "2026-11-27T15:48:50.723Z"
+        }
+      ]
+    },
+    {
+      "nextOffset": 0,
+      "offers": [
+        {
+          "key": "6e2c58352b23e21dd569f56b33ddcac0",
+          "price": "21,19 €",
+          "basePrice": null,
+          "shop": {
+            "shopId": "311322",
+            "merchantId": "EXTRAstore",
+            "name": "manomano.de",
+            "merchantName": "EXTRAstore",
+            "rating": {
+              "count": null,
+              "avg": null
+            },
+            "isMarketplace": true
+          },
+          "payments": [
+            {
+              "costCode": "INV",
+              "name": "Rechnung"
+            },
+            {
+              "costCode": "PP",
+              "name": "PayPal"
+            },
+            {
+              "costCode": "SUW",
+              "name": "Sofort."
+            },
+            {
+              "costCode": "CBC",
+              "name": "Kreditkarte"
+            },
+            {
+              "costCode": "CIA",
+              "name": "Vorkasse"
+            }
+          ],
+          "showPaymentDisclaimer": false,
+          "delivery": {
+            "deliveryText": "Di. 01.12.–Do. 03.12.2026",
+            "deliveryStatus": "MEDIUM",
+            "earlyDeliveryDate": "2026-12-01",
+            "lateDeliveryDate": "2026-12-03"
+          },
+          "freeReturnDays": null,
+          "relocatorUrl": "https://www.idealo.de/relocator/relocate?offerKey=6e2c58352b23e21dd569f56b33ddcac0&categoryId=9452&pos=7&price=21.19&productid=4961442&sid=311322&type=offer&media=ipc-public-mcp",
+          "minShippingCost": "8,50 €",
+          "hasAlwaysFreeShipping": false,
+          "cheapestTotalPriceOffer": false,
+          "freshness": "2026-11-27T15:48:51.369Z"
+        },
+        {
+          "key": "97129c3d26c153ef09caf40be8ff3aac",
+          "price": "21,90 €",
+          "basePrice": null,
+          "shop": {
+            "shopId": "316983",
+            "merchantId": null,
+            "name": "Hardloop.de",
+            "merchantName": null,
+            "rating": {
+              "count": 373,
+              "avg": 4.02
+            },
+            "isMarketplace": false
+          },
+          "payments": [
+            {
+              "costCode": "PP",
+              "name": "PayPal"
+            },
+            {
+              "costCode": "SUW",
+              "name": "Sofort."
+            },
+            {
+              "costCode": "CBC",
+              "name": "Kreditkarte"
+            },
+            {
+              "costCode": "APPLE_PAY",
+              "name": "Apple Pay"
+            },
+            {
+              "costCode": "CIA",
+              "name": "Vorkasse"
+            }
+          ],
+          "showPaymentDisclaimer": false,
+          "delivery": {
+            "deliveryText": "Di. 01.12.–Mi. 02.12.2026",
+            "deliveryStatus": "SHORT",
+            "earlyDeliveryDate": "2026-12-01",
+            "lateDeliveryDate": "2026-12-02"
+          },
+          "freeReturnDays": 100,
+          "relocatorUrl": "https://www.idealo.de/relocator/relocate?offerKey=97129c3d26c153ef09caf40be8ff3aac&categoryId=9452&pos=8&price=21.90&productid=4961442&sid=316983&type=offer&media=ipc-public-mcp",
+          "minShippingCost": "4,95 €",
+          "hasAlwaysFreeShipping": false,
+          "cheapestTotalPriceOffer": false,
+          "freshness": "2026-11-27T15:48:51.369Z"
+        },
+        {
+          "key": "e731bb0726d89893f75ed71a393b573a",
+          "price": "23,95 €",
+          "basePrice": null,
+          "shop": {
+            "shopId": "330830",
+            "merchantId": null,
+            "name": "bikespecht.com",
+            "merchantName": null,
+            "rating": {
+              "count": 2,
+              "avg": 5
+            },
+            "isMarketplace": false
+          },
+          "payments": [
+            {
+              "costCode": "PP",
+              "name": "PayPal"
+            },
+            {
+              "costCode": "CBC",
+              "name": "Kreditkarte"
+            }
+          ],
+          "showPaymentDisclaimer": false,
+          "delivery": {
+            "deliveryText": "Di. 01.12.–Sa. 05.12.2026",
+            "deliveryStatus": "MEDIUM",
+            "earlyDeliveryDate": "2026-12-01",
+            "lateDeliveryDate": "2026-12-05"
+          },
+          "freeReturnDays": null,
+          "relocatorUrl": "https://www.idealo.de/relocator/relocate?offerKey=e731bb0726d89893f75ed71a393b573a&categoryId=9452&pos=9&price=23.95&productid=4961442&sid=330830&type=offer&media=ipc-public-mcp",
+          "minShippingCost": "4,95 €",
+          "hasAlwaysFreeShipping": false,
+          "cheapestTotalPriceOffer": false,
+          "freshness": "2026-11-27T15:48:51.369Z"
+        },
+        {
+          "key": "4b3b0371891963e65587e4552fff7956",
+          "price": "24,69 €",
+          "basePrice": null,
+          "shop": {
+            "shopId": "282682",
+            "merchantId": null,
+            "name": "decathlon.de",
+            "merchantName": null,
+            "rating": {
+              "count": 67,
+              "avg": 1.1
+            },
+            "isMarketplace": false
+          },
+          "payments": [
+            {
+              "costCode": "INV",
+              "name": "Rechnung"
+            },
+            {
+              "costCode": "PP",
+              "name": "PayPal"
+            },
+            {
+              "costCode": "CBC",
+              "name": "Kreditkarte"
+            }
+          ],
+          "showPaymentDisclaimer": false,
+          "delivery": {
+            "deliveryText": "Di. 01.12.–Mo. 07.12.2026",
+            "deliveryStatus": "MEDIUM",
+            "earlyDeliveryDate": "2026-12-01",
+            "lateDeliveryDate": "2026-12-07"
+          },
+          "freeReturnDays": null,
+          "relocatorUrl": "https://www.idealo.de/relocator/relocate?offerKey=4b3b0371891963e65587e4552fff7956&categoryId=9452&pos=10&price=24.69&productid=4961442&sid=282682&type=offer&media=ipc-public-mcp",
+          "minShippingCost": "3,99 €",
+          "hasAlwaysFreeShipping": false,
+          "cheapestTotalPriceOffer": false,
+          "freshness": "2026-11-27T15:48:51.369Z"
+        }
+      ],
+      "message": "Trial tier limit reached: max 10 offers per product. Upgrade for full access."
+    }
+  ],
+  "offers": [
+    {
+      "key": "335cc06acbf736a47464909d9635d1ea",
+      "price": "12,65 €",
+      "basePrice": null,
+      "shop": {
+        "shopId": "285697",
+        "merchantId": null,
+        "name": "reifen.com",
+        "merchantName": null,
+        "rating": {
+          "count": 4668,
+          "avg": 4.01
+        },
+        "isMarketplace": false
+      },
+      "payments": [
+        {
+          "costCode": "INV",
+          "name": "Rechnung"
+        },
+        {
+          "costCode": "PP",
+          "name": "PayPal"
+        },
+        {
+          "costCode": "DD",
+          "name": "Lastschrift"
+        },
+        {
+          "costCode": "SUW",
+          "name": "Sofort."
+        },
+        {
+          "costCode": "CBC",
+          "name": "Kreditkarte"
+        },
+        {
+          "costCode": "CIA",
+          "name": "Vorkasse"
+        },
+        {
+          "costCode": "AMZP",
+          "name": "Amazon Pay"
+        }
+      ],
+      "showPaymentDisclaimer": false,
+      "delivery": {
+        "deliveryText": "Di. 01.12.–Fr. 04.12.2026",
+        "deliveryStatus": "MEDIUM",
+        "earlyDeliveryDate": "2026-12-01",
+        "lateDeliveryDate": "2026-12-04"
+      },
+      "freeReturnDays": null,
+      "relocatorUrl": "https://www.idealo.de/relocator/relocate?offerKey=335cc06acbf736a47464909d9635d1ea&categoryId=9452&pos=1&price=12.65&productid=4961442&sid=285697&type=offer&media=ipc-public-mcp",
+      "minShippingCost": "5,99 €",
+      "hasAlwaysFreeShipping": false,
+      "cheapestTotalPriceOffer": false,
+      "freshness": "2026-11-27T15:48:50.723Z"
+    },
+    {
+      "key": "336aeaf225d3a9c6a27381588908408d",
+      "price": "14,95 €",
+      "basePrice": null,
+      "shop": {
+        "shopId": "332932",
+        "merchantId": null,
+        "name": "deporvillage.de",
+        "merchantName": null,
+        "rating": {
+          "count": 69,
+          "avg": 1.96
+        },
+        "isMarketplace": false
+      },
+      "payments": [
+        {
+          "costCode": "INV",
+          "name": "Rechnung"
+        },
+        {
+          "costCode": "PP",
+          "name": "PayPal"
+        },
+        {
+          "costCode": "SUW",
+          "name": "Sofort."
+        },
+        {
+          "costCode": "CBC",
+          "name": "Kreditkarte"
+        },
+        {
+          "costCode": "CIA",
+          "name": "Vorkasse"
+        }
+      ],
+      "showPaymentDisclaimer": false,
+      "delivery": {
+        "deliveryText": "Di. 01.12.–Mi. 02.12.2026",
+        "deliveryStatus": "SHORT",
+        "earlyDeliveryDate": "2026-12-01",
+        "lateDeliveryDate": "2026-12-02"
+      },
+      "freeReturnDays": null,
+      "relocatorUrl": "https://www.idealo.de/relocator/relocate?offerKey=336aeaf225d3a9c6a27381588908408d&categoryId=9452&pos=3&price=14.95&productid=4961442&sid=332932&type=offer&media=ipc-public-mcp",
+      "minShippingCost": "7,99 €",
+      "hasAlwaysFreeShipping": false,
+      "cheapestTotalPriceOffer": false,
+      "freshness": "2026-11-27T15:48:50.723Z"
+    },
+    {
+      "key": "b66bda693eebf3e857a07aff24916978",
+      "price": "17,99 €",
+      "basePrice": null,
+      "shop": {
+        "shopId": "23863",
+        "merchantId": null,
+        "name": "boc24.de",
+        "merchantName": null,
+        "rating": {
+          "count": 364,
+          "avg": 1.4
+        },
+        "isMarketplace": false
+      },
+      "payments": [
+        {
+          "costCode": "INV",
+          "name": "Rechnung"
+        },
+        {
+          "costCode": "PP",
+          "name": "PayPal"
+        },
+        {
+          "costCode": "SUW",
+          "name": "Sofort."
+        },
+        {
+          "costCode": "CBC",
+          "name": "Kreditkarte"
+        },
+        {
+          "costCode": "CIA",
+          "name": "Vorkasse"
+        }
+      ],
+      "showPaymentDisclaimer": false,
+      "delivery": {
+        "deliveryText": "Di. 01.12.–Mi. 02.12.2026",
+        "deliveryStatus": "SHORT",
+        "earlyDeliveryDate": "2026-12-01",
+        "lateDeliveryDate": "2026-12-02"
+      },
+      "freeReturnDays": 14,
+      "relocatorUrl": "https://www.idealo.de/relocator/relocate?offerKey=b66bda693eebf3e857a07aff24916978&categoryId=9452&pos=4&price=17.99&productid=4961442&sid=23863&type=offer&media=ipc-public-mcp",
+      "minShippingCost": "4,95 €",
+      "hasAlwaysFreeShipping": false,
+      "cheapestTotalPriceOffer": false,
+      "freshness": "2026-11-27T15:48:50.723Z"
+    },
+    {
+      "key": "71d847fbdde093a1b89bfb2d5c8b51ab",
+      "price": "18,04 €",
+      "basePrice": null,
+      "shop": {
+        "shopId": "283194",
+        "merchantId": null,
+        "name": "bikeinn.com (DE)",
+        "merchantName": null,
+        "rating": {
+          "count": 189,
+          "avg": 1.62
+        },
+        "isMarketplace": false
+      },
+      "payments": [
+        {
+          "costCode": "INV",
+          "name": "Rechnung"
+        },
+        {
+          "costCode": "PP",
+          "name": "PayPal"
+        },
+        {
+          "costCode": "SUW",
+          "name": "Sofort."
+        },
+        {
+          "costCode": "CBC",
+          "name": "Kreditkarte"
+        }
+      ],
+      "showPaymentDisclaimer": false,
+      "delivery": {
+        "deliveryText": "Di. 01.12.–Do. 03.12.2026",
+        "deliveryStatus": "MEDIUM",
+        "earlyDeliveryDate": "2026-12-01",
+        "lateDeliveryDate": "2026-12-03"
+      },
+      "freeReturnDays": null,
+      "relocatorUrl": "https://www.idealo.de/relocator/relocate?offerKey=71d847fbdde093a1b89bfb2d5c8b51ab&categoryId=9452&pos=5&price=18.04&productid=4961442&sid=283194&type=offer&media=ipc-public-mcp",
+      "minShippingCost": "3,99 €",
+      "hasAlwaysFreeShipping": false,
+      "cheapestTotalPriceOffer": false,
+      "freshness": "2026-11-27T15:48:50.723Z"
+    },
+    {
+      "key": "6e2c58352b23e21dd569f56b33ddcac0",
+      "price": "21,19 €",
+      "basePrice": null,
+      "shop": {
+        "shopId": "311322",
+        "merchantId": "EXTRAstore",
+        "name": "manomano.de",
+        "merchantName": "EXTRAstore",
+        "rating": {
+          "count": null,
+          "avg": null
+        },
+        "isMarketplace": true
+      },
+      "payments": [
+        {
+          "costCode": "INV",
+          "name": "Rechnung"
+        },
+        {
+          "costCode": "PP",
+          "name": "PayPal"
+        },
+        {
+          "costCode": "SUW",
+          "name": "Sofort."
+        },
+        {
+          "costCode": "CBC",
+          "name": "Kreditkarte"
+        },
+        {
+          "costCode": "CIA",
+          "name": "Vorkasse"
+        }
+      ],
+      "showPaymentDisclaimer": false,
+      "delivery": {
+        "deliveryText": "Di. 01.12.–Do. 03.12.2026",
+        "deliveryStatus": "MEDIUM",
+        "earlyDeliveryDate": "2026-12-01",
+        "lateDeliveryDate": "2026-12-03"
+      },
+      "freeReturnDays": null,
+      "relocatorUrl": "https://www.idealo.de/relocator/relocate?offerKey=6e2c58352b23e21dd569f56b33ddcac0&categoryId=9452&pos=7&price=21.19&productid=4961442&sid=311322&type=offer&media=ipc-public-mcp",
+      "minShippingCost": "8,50 €",
+      "hasAlwaysFreeShipping": false,
+      "cheapestTotalPriceOffer": false,
+      "freshness": "2026-11-27T15:48:51.369Z"
+    },
+    {
+      "key": "97129c3d26c153ef09caf40be8ff3aac",
+      "price": "21,90 €",
+      "basePrice": null,
+      "shop": {
+        "shopId": "316983",
+        "merchantId": null,
+        "name": "Hardloop.de",
+        "merchantName": null,
+        "rating": {
+          "count": 373,
+          "avg": 4.02
+        },
+        "isMarketplace": false
+      },
+      "payments": [
+        {
+          "costCode": "PP",
+          "name": "PayPal"
+        },
+        {
+          "costCode": "SUW",
+          "name": "Sofort."
+        },
+        {
+          "costCode": "CBC",
+          "name": "Kreditkarte"
+        },
+        {
+          "costCode": "APPLE_PAY",
+          "name": "Apple Pay"
+        },
+        {
+          "costCode": "CIA",
+          "name": "Vorkasse"
+        }
+      ],
+      "showPaymentDisclaimer": false,
+      "delivery": {
+        "deliveryText": "Di. 01.12.–Mi. 02.12.2026",
+        "deliveryStatus": "SHORT",
+        "earlyDeliveryDate": "2026-12-01",
+        "lateDeliveryDate": "2026-12-02"
+      },
+      "freeReturnDays": 100,
+      "relocatorUrl": "https://www.idealo.de/relocator/relocate?offerKey=97129c3d26c153ef09caf40be8ff3aac&categoryId=9452&pos=8&price=21.90&productid=4961442&sid=316983&type=offer&media=ipc-public-mcp",
+      "minShippingCost": "4,95 €",
+      "hasAlwaysFreeShipping": false,
+      "cheapestTotalPriceOffer": false,
+      "freshness": "2026-11-27T15:48:51.369Z"
+    },
+    {
+      "key": "e731bb0726d89893f75ed71a393b573a",
+      "price": "23,95 €",
+      "basePrice": null,
+      "shop": {
+        "shopId": "330830",
+        "merchantId": null,
+        "name": "bikespecht.com",
+        "merchantName": null,
+        "rating": {
+          "count": 2,
+          "avg": 5
+        },
+        "isMarketplace": false
+      },
+      "payments": [
+        {
+          "costCode": "PP",
+          "name": "PayPal"
+        },
+        {
+          "costCode": "CBC",
+          "name": "Kreditkarte"
+        }
+      ],
+      "showPaymentDisclaimer": false,
+      "delivery": {
+        "deliveryText": "Di. 01.12.–Sa. 05.12.2026",
+        "deliveryStatus": "MEDIUM",
+        "earlyDeliveryDate": "2026-12-01",
+        "lateDeliveryDate": "2026-12-05"
+      },
+      "freeReturnDays": null,
+      "relocatorUrl": "https://www.idealo.de/relocator/relocate?offerKey=e731bb0726d89893f75ed71a393b573a&categoryId=9452&pos=9&price=23.95&productid=4961442&sid=330830&type=offer&media=ipc-public-mcp",
+      "minShippingCost": "4,95 €",
+      "hasAlwaysFreeShipping": false,
+      "cheapestTotalPriceOffer": false,
+      "freshness": "2026-11-27T15:48:51.369Z"
+    },
+    {
+      "key": "4b3b0371891963e65587e4552fff7956",
+      "price": "24,69 €",
+      "basePrice": null,
+      "shop": {
+        "shopId": "282682",
+        "merchantId": null,
+        "name": "decathlon.de",
+        "merchantName": null,
+        "rating": {
+          "count": 67,
+          "avg": 1.1
+        },
+        "isMarketplace": false
+      },
+      "payments": [
+        {
+          "costCode": "INV",
+          "name": "Rechnung"
+        },
+        {
+          "costCode": "PP",
+          "name": "PayPal"
+        },
+        {
+          "costCode": "CBC",
+          "name": "Kreditkarte"
+        }
+      ],
+      "showPaymentDisclaimer": false,
+      "delivery": {
+        "deliveryText": "Di. 01.12.–Mo. 07.12.2026",
+        "deliveryStatus": "MEDIUM",
+        "earlyDeliveryDate": "2026-12-01",
+        "lateDeliveryDate": "2026-12-07"
+      },
+      "freeReturnDays": null,
+      "relocatorUrl": "https://www.idealo.de/relocator/relocate?offerKey=4b3b0371891963e65587e4552fff7956&categoryId=9452&pos=10&price=24.69&productid=4961442&sid=282682&type=offer&media=ipc-public-mcp",
+      "minShippingCost": "3,99 €",
+      "hasAlwaysFreeShipping": false,
+      "cheapestTotalPriceOffer": false,
+      "freshness": "2026-11-27T15:48:51.369Z"
+    }
+  ],
+  "price_history": {
+    "priceTrend": {
+      "history": [
+        {
+          "dateTime": 1793228399999,
+          "price": "13,45 €",
+          "dateTimeISO": "2026-10-28T22:59:59.999Z"
+        },
+        {
+          "dateTime": 1793314799999,
+          "price": "13,45 €",
+          "dateTimeISO": "2026-10-29T22:59:59.999Z",
+          "priceChangePercent": 0
+        },
+        {
+          "dateTime": 1793401199999,
+          "price": "13,45 €",
+          "dateTimeISO": "2026-10-30T22:59:59.999Z",
+          "priceChangePercent": 0
+        },
+        {
+          "dateTime": 1793487599999,
+          "price": "13,45 €",
+          "dateTimeISO": "2026-10-31T22:59:59.999Z",
+          "priceChangePercent": 0
+        },
+        {
+          "dateTime": 1793573999999,
+          "price": "13,45 €",
+          "dateTimeISO": "2026-11-01T22:59:59.999Z",
+          "priceChangePercent": 0
+        },
+        {
+          "dateTime": 1793660399999,
+          "price": "13,45 €",
+          "dateTimeISO": "2026-11-02T22:59:59.999Z",
+          "priceChangePercent": 0
+        },
+        {
+          "dateTime": 1793746799999,
+          "price": "13,45 €",
+          "dateTimeISO": "2026-11-03T22:59:59.999Z",
+          "priceChangePercent": 0
+        },
+        {
+          "dateTime": 1793833199999,
+          "price": "13,45 €",
+          "dateTimeISO": "2026-11-04T22:59:59.999Z",
+          "priceChangePercent": 0
+        },
+        {
+          "dateTime": 1793919599999,
+          "price": "13,45 €",
+          "dateTimeISO": "2026-11-05T22:59:59.999Z",
+          "priceChangePercent": 0
+        },
+        {
+          "dateTime": 1794005999999,
+          "price": "13,45 €",
+          "dateTimeISO": "2026-11-06T22:59:59.999Z",
+          "priceChangePercent": 0
+        },
+        {
+          "dateTime": 1794092399999,
+          "price": "13,45 €",
+          "dateTimeISO": "2026-11-07T22:59:59.999Z",
+          "priceChangePercent": 0
+        },
+        {
+          "dateTime": 1794178799999,
+          "price": "13,45 €",
+          "dateTimeISO": "2026-11-08T22:59:59.999Z",
+          "priceChangePercent": 0
+        },
+        {
+          "dateTime": 1794265199999,
+          "price": "13,45 €",
+          "dateTimeISO": "2026-11-09T22:59:59.999Z",
+          "priceChangePercent": 0
+        },
+        {
+          "dateTime": 1794351599999,
+          "price": "13,44 €",
+          "dateTimeISO": "2026-11-10T22:59:59.999Z",
+          "priceChangePercent": -0.07434944237918216
+        },
+        {
+          "dateTime": 1794437999999,
+          "price": "13,44 €",
+          "dateTimeISO": "2026-11-11T22:59:59.999Z",
+          "priceChangePercent": 0
+        },
+        {
+          "dateTime": 1794524399999,
+          "price": "13,12 €",
+          "dateTimeISO": "2026-11-12T22:59:59.999Z",
+          "priceChangePercent": -2.380952380952381
+        },
+        {
+          "dateTime": 1794610799999,
+          "price": "13,12 €",
+          "dateTimeISO": "2026-11-13T22:59:59.999Z",
+          "priceChangePercent": 0
+        },
+        {
+          "dateTime": 1794697199999,
+          "price": "13,12 €",
+          "dateTimeISO": "2026-11-14T22:59:59.999Z",
+          "priceChangePercent": 0
+        },
+        {
+          "dateTime": 1794783599999,
+          "price": "13,12 €",
+          "dateTimeISO": "2026-11-15T22:59:59.999Z",
+          "priceChangePercent": 0
+        },
+        {
+          "dateTime": 1794869999999,
+          "price": "13,12 €",
+          "dateTimeISO": "2026-11-16T22:59:59.999Z",
+          "priceChangePercent": 0
+        },
+        {
+          "dateTime": 1794956399999,
+          "price": "13,12 €",
+          "dateTimeISO": "2026-11-17T22:59:59.999Z",
+          "priceChangePercent": 0
+        },
+        {
+          "dateTime": 1795042799999,
+          "price": "12,83 €",
+          "dateTimeISO": "2026-11-18T22:59:59.999Z",
+          "priceChangePercent": -2.2103658536585367
+        },
+        {
+          "dateTime": 1795129199999,
+          "price": "12,83 €",
+          "dateTimeISO": "2026-11-19T22:59:59.999Z",
+          "priceChangePercent": 0
+        },
+        {
+          "dateTime": 1795215599999,
+          "price": "12,83 €",
+          "dateTimeISO": "2026-11-20T22:59:59.999Z",
+          "priceChangePercent": 0
+        },
+        {
+          "dateTime": 1795301999999,
+          "price": "12,83 €",
+          "dateTimeISO": "2026-11-21T22:59:59.999Z",
+          "priceChangePercent": 0
+        },
+        {
+          "dateTime": 1795388399999,
+          "price": "12,83 €",
+          "dateTimeISO": "2026-11-22T22:59:59.999Z",
+          "priceChangePercent": 0
+        },
+        {
+          "dateTime": 1795474799999,
+          "price": "12,71 €",
+          "dateTimeISO": "2026-11-23T22:59:59.999Z",
+          "priceChangePercent": -0.9353078721745909
+        },
+        {
+          "dateTime": 1795561199999,
+          "price": "12,71 €",
+          "dateTimeISO": "2026-11-24T22:59:59.999Z",
+          "priceChangePercent": 0
+        },
+        {
+          "dateTime": 1795647599999,
+          "price": "12,71 €",
+          "dateTimeISO": "2026-11-25T22:59:59.999Z",
+          "priceChangePercent": 0
+        },
+        {
+          "dateTime": 1795733999999,
+          "price": "12,65 €",
+          "dateTimeISO": "2026-11-26T22:59:59.999Z",
+          "priceChangePercent": -0.47206923682140045
+        },
+        {
+          "dateTime": 1795794531939,
+          "price": "12,65 €",
+          "dateTimeISO": "2026-11-27T15:48:51.939Z",
+          "priceChangePercent": 0
+        }
+      ],
+      "statistics": {
+        "minPrice": "12,65 €",
+        "maxPrice": "13,45 €",
+        "avgPrice": "13,16 €",
+        "currentPrice": "12,65 €",
+        "priceChangePercent": -5.947955390334572,
+        "lowestPriceDate": "2026-11-26T22:59:59.999Z",
+        "highestPriceDate": "2026-10-28T22:59:59.999Z"
+      },
+      "samplingGranularity": "daily",
+      "dataSourceConfidence": 0.95,
+      "periodDays": 29.7,
+      "totalDataPoints": 31
+    }
+  }
+}

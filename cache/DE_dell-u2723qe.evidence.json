@@ -1,0 +1,40 @@
+{
+  "query": "Dell U2723QE",
+  "country": "DE",
+  "currency": "EUR",
+  "product_name": "Dell U2723QE",
+  "product_url": "https://www.idealo.de/preisvergleich/OffersOfProduct/201828189_-u2723qe-dell.html",
+  "total_offers_on_idealo": 1,
+  "user_rating": 4.03,
+  "user_review_count": 77,
+  "test_grade": "1,7",
+  "pros": [
+    "außergewöhnliche Farbgenauigkeit",
+    "starkes Kontrastverhältnis",
+    "messerscharfe 4K-Auflösung",
+    "schlankes, modernes Design",
+    "USB-C-Hub"
+  ],
+  "cons": [
+    "keine Webcam",
+    "geringe Bildwiederholfrequenz von 60 Hz",
+    "hoher Preis"
+  ],
+  "offers": [],
+  "offers_capped_by_trial_tier": false,
+  "price_history": {
+    "period_days": 29,
+    "current": 830.03,
+    "min": 830.03,
+    "max": 1095.4,
+    "avg": 962.72,
+    "change_percent": -24.22585356947234,
+    "lowest_price_date": "2026-11-27T15:05:35.334Z",
+    "highest_price_date": "2026-10-28T22:59:59.999Z",
+    "data_source_confidence": 0.95,
+    "total_data_points": 2
+  },
+  "gaps": [
+    "no offers returned"
+  ]
+}

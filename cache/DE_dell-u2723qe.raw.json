@@ -1,0 +1,1253 @@
+{
+  "query": "Dell U2723QE",
+  "country": "DE",
+  "search": {
+    "query": "Dell U2723QE",
+    "availableCategories": [
+      {
+        "categoryId": "3832",
+        "categoryName": "Monitore",
+        "amount": 0
+      }
+    ],
+    "availableManufacturers": [
+      {
+        "manufacturerId": "1138",
+        "manufacturerName": "Dell",
+        "amount": 47,
+        "searchFilterId": "471677"
+      }
+    ],
+    "availableFilters": [
+      {
+        "attributeId": "15583",
+        "name": "Produkttyp",
+        "filters": [
+          {
+            "filterId": "2938578",
+            "content": "4K Monitor",
+            "amount": 22
+          },
+          {
+            "filterId": "3090687",
+            "content": "Gaming Monitor",
+            "amount": 4
+          },
+          {
+            "filterId": "4550910",
+            "content": "Curved Monitor",
+            "amount": 4
+          },
+          {
+            "filterId": "9273208",
+            "content": "WQHD Monitor",
+            "amount": 15
+          },
+          {
+            "filterId": "5038001",
+            "content": "UltraWide Monitor",
+            "amount": 4
+          },
+          {
+            "filterId": "5038000",
+            "content": "5K Monitor",
+            "amount": 2
+          },
+          {
+            "filterId": "1486416",
+            "content": "Full HD Monitor",
+            "amount": 10
+          }
+        ]
+      },
+      {
+        "attributeId": "16732",
+        "name": "Serie",
+        "filters": [
+          {
+            "filterId": "1599872",
+            "content": "Dell UltraSharp",
+            "amount": 19
+          },
+          {
+            "filterId": "107307332",
+            "content": "Dell Pro",
+            "amount": 3
+          },
+          {
+            "filterId": "106699169",
+            "content": "Dell Pro Plus",
+            "amount": 2
+          },
+          {
+            "filterId": "1599895",
+            "content": "Dell Professional",
+            "amount": 1
+          }
+        ]
+      },
+      {
+        "attributeId": "18763",
+        "name": "Bildschirmgröße",
+        "filters": [
+          {
+            "filterId": "495791",
+            "content": "27 Zoll",
+            "amount": 26
+          },
+          {
+            "filterId": "2623586",
+            "content": "32 Zoll",
+            "amount": 7
+          },
+          {
+            "filterId": "4966894",
+            "content": "34 Zoll",
+            "amount": 2
+          },
+          {
+            "filterId": "755499",
+            "content": "24 Zoll",
+            "amount": 8
+          },
+          {
+            "filterId": "2623587",
+            "content": "40 Zoll",
+            "amount": 2
+          },
+          {
+            "filterId": "8579706",
+            "content": "43 Zoll",
+            "amount": 2
+          }
+        ]
+      },
+      {
+        "attributeId": "30184",
+        "name": "Auflösung",
+        "filters": [
+          {
+            "filterId": "3160280",
+            "content": "2.560 x 1.440 Pixel",
+            "amount": 13
+          },
+          {
+            "filterId": "3097785",
+            "content": "3.840 x 2.160 Pixel",
+            "amount": 20
+          },
+          {
+            "filterId": "4967966",
+            "content": "3.440 x 1.440 Pixel",
+            "amount": 2
+          },
+          {
+            "filterId": "10125242",
+            "content": "5.120 x 2.160 Pixel",
+            "amount": 2
+          },
+          {
+            "filterId": "1040703",
+            "content": "1.920 x 1.080 Pixel",
+            "amount": 8
+          },
+          {
+            "filterId": "1040705",
+            "content": "1.920 x 1.200 Pixel",
+            "amount": 2
+          }
+        ]
+      },
+      {
+        "attributeId": "12183",
+        "name": "Bildschirmformat",
+        "filters": [
+          {
+            "filterId": "992052",
+            "content": "16:9",
+            "amount": 41
+          },
+          {
+            "filterId": "2383562",
+            "content": "21:9",
+            "amount": 4
+          },
+          {
+            "filterId": "992053",
+            "content": "16:10",
+            "amount": 2
+          }
+        ]
+      },
+      {
+        "attributeId": "20256",
+        "name": "Bildwiederholungsrate",
+        "filters": [
+          {
+            "filterId": "5356919",
+            "content": "144 Hz",
+            "amount": 2
+          },
+          {
+            "filterId": "5356918",
+            "content": "120 Hz",
+            "amount": 11
+          },
+          {
+            "filterId": "5356917",
+            "content": "100 Hz",
+            "amount": 6
+          },
+          {
+            "filterId": "5360541",
+            "content": "60 Hz",
+            "amount": 24
+          },
+          {
+            "filterId": "5803343",
+            "content": "75 Hz",
+            "amount": 1
+          }
+        ]
+      },
+      {
+        "attributeId": "14926",
+        "name": "Reaktionszeit",
+        "filters": [
+          {
+            "filterId": "106987167",
+            "content": "bis 1 ms",
+            "amount": 1
+          },
+          {
+            "filterId": "106987169",
+            "content": "2,5 bis 4,5 ms",
+            "amount": 3
+          },
+          {
+            "filterId": "106717368",
+            "content": "4,5 bis 6 ms",
+            "amount": 7
+          },
+          {
+            "filterId": "106717369",
+            "content": "ab 6 ms",
+            "amount": 34
+          }
+        ]
+      },
+      {
+        "attributeId": "15206",
+        "name": "Helligkeit",
+        "filters": [
+          {
+            "filterId": "100797650",
+            "content": "ab 410 cd/m²",
+            "amount": 4
+          },
+          {
+            "filterId": "100797649",
+            "content": "360 bis 410 cd/m²",
+            "amount": 1
+          },
+          {
+            "filterId": "1128357",
+            "content": "310 bis 360 cd/m²",
+            "amount": 22
+          },
+          {
+            "filterId": "105750802",
+            "content": "253 bis 310 cd/m²",
+            "amount": 12
+          },
+          {
+            "filterId": "105418403",
+            "content": "bis 253 cd/m²",
+            "amount": 5
+          }
+        ]
+      },
+      {
+        "attributeId": "17868",
+        "name": "HDMI-Version",
+        "filters": [
+          {
+            "filterId": "102418095",
+            "content": "HDMI 2.1",
+            "amount": 14
+          },
+          {
+            "filterId": "102418089",
+            "content": "HDMI 1.4",
+            "amount": 9
+          }
+        ]
+      },
+      {
+        "attributeId": "29689",
+        "name": "DisplayPort Version",
+        "filters": [
+          {
+            "filterId": "107812322",
+            "content": "DisplayPort 1.4",
+            "amount": 31
+          },
+          {
+            "filterId": "107812319",
+            "content": "DisplayPort 1.2",
+            "amount": 6
+          }
+        ]
+      },
+      {
+        "attributeId": "24886",
+        "name": "Synchronisation",
+        "filters": [
+          {
+            "filterId": "5326952",
+            "content": "FreeSync",
+            "amount": 6
+          },
+          {
+            "filterId": "1725609",
+            "content": "G-Sync",
+            "amount": 2
+          }
+        ]
+      },
+      {
+        "attributeId": "31035",
+        "name": "DisplayHDR Standard",
+        "filters": [
+          {
+            "filterId": "106608008",
+            "content": "DisplayHDR True Black 500",
+            "amount": 1
+          },
+          {
+            "filterId": "106547453",
+            "content": "DisplayHDR 1000",
+            "amount": 1
+          },
+          {
+            "filterId": "106547457",
+            "content": "DisplayHDR 600",
+            "amount": 2
+          }
+        ]
+      },
+      {
+        "attributeId": "16036",
+        "name": "integrierte Geräte",
+        "filters": [
+          {
+            "filterId": "775857",
+            "content": "mit Lautsprecher",
+            "amount": 8
+          },
+          {
+            "filterId": "775860",
+            "content": "mit USB-Hub",
+            "amount": 40
+          },
+          {
+            "filterId": "9485787",
+            "content": "mit KVM-Switch",
+            "amount": 3
+          },
+          {
+            "filterId": "100807411",
+            "content": "mit Webcam",
+            "amount": 3
+          },
+          {
+            "filterId": "100807413",
+            "content": "mit Mikrofon",
+            "amount": 2
+          }
+        ]
+      },
+      {
+        "attributeId": "8806",
+        "name": "Ausstattung",
+        "filters": [
+          {
+            "filterId": "107359174",
+            "content": "Kensington Lock",
+            "amount": 2
+          }
+        ]
+      },
+      {
+        "attributeId": "15664",
+        "name": "geeignet für",
+        "filters": [
+          {
+            "filterId": "9376185",
+            "content": "Office",
+            "amount": 11
+          },
+          {
+            "filterId": "2034458",
+            "content": "Spiele",
+            "amount": 4
+          },
+          {
+            "filterId": "2034457",
+            "content": "Bildbearbeitung",
+            "amount": 4
+          },
+          {
+            "filterId": "9690941",
+            "content": "Multimedia",
+            "amount": 4
+          },
+          {
+            "filterId": "9760561",
+            "content": "Videokonferenz",
+            "amount": 3
+          },
+          {
+            "filterId": "2034460",
+            "content": "Videobearbeitung",
+            "amount": 4
+          },
+          {
+            "filterId": "2490538",
+            "content": "Präsentationen",
+            "amount": 1
+          }
+        ]
+      },
+      {
+        "attributeId": "30466",
+        "name": "Curved Radius",
+        "filters": [
+          {
+            "filterId": "10410722",
+            "content": "1900 R",
+            "amount": 1
+          },
+          {
+            "filterId": "101854101",
+            "content": "2500 R",
+            "amount": 2
+          }
+        ]
+      },
+      {
+        "attributeId": "18928",
+        "name": "VESA-Norm",
+        "filters": [
+          {
+            "filterId": "2410372",
+            "content": "100 x 100",
+            "amount": 41
+          },
+          {
+            "filterId": "2410375",
+            "content": "200 x 200",
+            "amount": 1
+          }
+        ]
+      },
+      {
+        "attributeId": "25674",
+        "name": "ergonomische Eigenschaft",
+        "filters": [
+          {
+            "filterId": "1135657",
+            "content": "höhenverstellbar",
+            "amount": 42
+          },
+          {
+            "filterId": "1135658",
+            "content": "Pivot-Funktion (drehbar)",
+            "amount": 24
+          },
+          {
+            "filterId": "1176202",
+            "content": "Tiltfunktion (neigbar)",
+            "amount": 40
+          },
+          {
+            "filterId": "1141682",
+            "content": "Swivelfunktion (schwenkbar)",
+            "amount": 40
+          }
+        ]
+      },
+      {
+        "attributeId": "18519",
+        "name": "Rahmenfarbe",
+        "filters": [
+          {
+            "filterId": "3688498",
+            "content": "weiß",
+            "amount": 2
+          },
+          {
+            "filterId": "3688496",
+            "content": "schwarz",
+            "amount": 41
+          },
+          {
+            "filterId": "3688497",
+            "content": "silber",
+            "amount": 5
+          },
+          {
+            "filterId": "3688495",
+            "content": "grau",
+            "amount": 1
+          }
+        ]
+      },
+      {
+        "attributeId": "23650",
+        "name": "Standfußfarbe",
+        "filters": [
+          {
+            "filterId": "102744420",
+            "content": "silber",
+            "amount": 35
+          },
+          {
+            "filterId": "102744419",
+            "content": "schwarz",
+            "amount": 7
+          },
+          {
+            "filterId": "102744417",
+            "content": "grau",
+            "amount": 1
+          }
+        ]
+      },
+      {
+        "attributeId": "30855",
+        "name": "Energieeffizienzklasse",
+        "filters": [
+          {
+            "filterId": "101858106",
+            "content": "D",
+            "amount": 6
+          },
+          {
+            "filterId": "101858107",
+            "content": "E",
+            "amount": 9
+          },
+          {
+            "filterId": "101858105",
+            "content": "C",
+            "amount": 3
+          },
+          {
+            "filterId": "101858108",
+            "content": "F",
+            "amount": 20
+          },
+          {
+            "filterId": "101858109",
+            "content": "G",
+            "amount": 7
+          }
+        ]
+      },
+      {
+        "attributeId": "29757",
+        "name": "Panel",
+        "filters": [
+          {
+            "filterId": "7721642",
+            "content": "OLED",
+            "amount": 1
+          },
+          {
+            "filterId": "1774167",
+            "content": "IPS",
+            "amount": 44
+          }
+        ]
+      },
+      {
+        "attributeId": "30735",
+        "name": "Videoeingang",
+        "filters": [
+          {
+            "filterId": "973759",
+            "content": "USB-C",
+            "amount": 23
+          },
+          {
+            "filterId": "1016934",
+            "content": "HDMI",
+            "amount": 42
+          },
+          {
+            "filterId": "832542",
+            "content": "DisplayPort",
+            "amount": 39
+          },
+          {
+            "filterId": "102147219",
+            "content": "Thunderbolt 4",
+            "amount": 6
+          },
+          {
+            "filterId": "973758",
+            "content": "Thunderbolt 3",
+            "amount": 2
+          },
+          {
+            "filterId": "5385292",
+            "content": "DVI",
+            "amount": 3
+          }
+        ]
+      },
+      {
+        "attributeId": "24901",
+        "name": "USB Anschlüsse",
+        "filters": [
+          {
+            "filterId": "10067786",
+            "content": "2 x USB 3.0",
+            "amount": 7
+          },
+          {
+            "filterId": "10067788",
+            "content": "3 x USB 3.0",
+            "amount": 13
+          },
+          {
+            "filterId": "10072030",
+            "content": "1 x USB 3.0",
+            "amount": 1
+          },
+          {
+            "filterId": "10067790",
+            "content": "4 x USB 3.0",
+            "amount": 19
+          },
+          {
+            "filterId": "10072031",
+            "content": "5 x USB 3.0",
+            "amount": 1
+          }
+        ]
+      },
+      {
+        "attributeId": "29611",
+        "name": "Funktion",
+        "filters": [
+          {
+            "filterId": "1410647",
+            "content": "HDR",
+            "amount": 4
+          },
+          {
+            "filterId": "5000837",
+            "content": "Low Blue Light",
+            "amount": 9
+          },
+          {
+            "filterId": "103999905",
+            "content": "Daisy Chain",
+            "amount": 6
+          },
+          {
+            "filterId": "1738634",
+            "content": "flimmerfreie",
+            "amount": 10
+          },
+          {
+            "filterId": "104294640",
+            "content": "VRR",
+            "amount": 2
+          }
+        ]
+      }
+    ],
+    "suggestedFilters": [
+      {
+        "id": "495791",
+        "type": "SEARCH_FILTER"
+      },
+      {
+        "id": "7721642",
+        "type": "SEARCH_FILTER"
+      },
+      {
+        "id": "2938578",
+        "type": "SEARCH_FILTER"
+      },
+      {
+        "id": "2623586",
+        "type": "SEARCH_FILTER"
+      },
+      {
+        "id": "3090687",
+        "type": "SEARCH_FILTER"
+      },
+      {
+        "id": "3160280",
+        "type": "SEARCH_FILTER"
+      },
+      {
+        "id": "4966894",
+        "type": "SEARCH_FILTER"
+      },
+      {
+        "id": "4550910",
+        "type": "SEARCH_FILTER"
+      },
+      {
+        "id": "9273208",
+        "type": "SEARCH_FILTER"
+      },
+      {
+        "id": "3097785",
+        "type": "SEARCH_FILTER"
+      }
+    ],
+    "sizeAttributes": [],
+    "results": [
+      {
+        "productRef": "pr.v1.k1.1pj4qzi5wNl-su-14qA2jAmOAg-sTdc5cKllaxA5rhCMwJlJbA",
+        "itemType": "PRODUCT",
+        "siteId": 1,
+        "name": "Dell U2723QE",
+        "imageUrl": "https://cdn.idealo.com/folder/Product/201828/1/201828189/s1_produktbild_mobil/dell-u2723qe.jpg",
+        "url": "https://www.idealo.de/preisvergleich/OffersOfProduct/201828189_-u2723qe-dell.html",
+        "userReviewsSummary": {
+          "averageRating": 4.03,
+          "totalReviewCount": 77
+        },
+        "testReportsSummary": {
+          "grade": "1,7"
+        },
+        "totalOfferCount": 1
+      },
+      {
+        "productRef": "pr.v1.k1.9W5jZZg9PqCWhDr6UguOF56YpbVeso5_WfyL07N-mJt92EXTnA",
+        "itemType": "PRODUCT",
+        "siteId": 1,
+        "name": "Dell U2725QE",
+        "price": "591,90 €",
+        "imageUrl": "https://cdn.idealo.com/folder/Product/206042/7/206042714/s1_produktbild_mobil/dell-u2725qe.jpg",
+        "url": "https://www.idealo.de/preisvergleich/OffersOfProduct/206042714_-u2725qe-dell.html",
+        "userReviewsSummary": {
+          "averageRating": 4.22,
+          "totalReviewCount": 9
+        },
+        "testReportsSummary": {
+          "grade": "1,7"
+        },
+        "totalOfferCount": 44
+      },
+      {
+        "productRef": "pr.v1.k1.o1tBR9aqwz6Q-EDDOfkYSY8xQEUdIyOyIEXenPminP0tPUWIOQ",
+        "itemType": "PRODUCT",
+        "siteId": 1,
+        "name": "Dell P2723QE",
+        "price": "324,30 €",
+        "imageUrl": "https://cdn.idealo.com/folder/Product/201862/7/201862788/s1_produktbild_mobil/dell-p2723qe.jpg",
+        "url": "https://www.idealo.de/preisvergleich/OffersOfProduct/201862788_-p2723qe-dell.html",
+        "userReviewsSummary": {
+          "averageRating": 4.11,
+          "totalReviewCount": 28
+        },
+        "testReportsSummary": {
+          "grade": "2,0"
+        },
+        "totalOfferCount": 35
+      },
+      {
+        "productRef": "pr.v1.k1.4kAfKdC4wA2c_PFSHu8D_vaqFb7lS2BiPLjN4NrzGXt6ZC5miQ",
+        "itemType": "PRODUCT",
+        "siteId": 1,
+        "name": "Dell Pro Plus P2725QE",
+        "price": "369,99 €",
+        "imageUrl": "https://cdn.idealo.com/folder/Product/206259/7/206259796/s1_produktbild_mobil/dell-pro-plus-p2725qe.jpg",
+        "url": "https://www.idealo.de/preisvergleich/OffersOfProduct/206259796_-pro-plus-p2725qe-dell.html",
+        "userReviewsSummary": {
+          "averageRating": 4.75,
+          "totalReviewCount": 4
+        },
+        "testReportsSummary": {
+          "grade": "1,5"
+        },
+        "totalOfferCount": 48
+      },
+      {
+        "productRef": "pr.v1.k1.1PcknMdYlM2HGuotWTsp0_r2eCXKBAUeIU5yX-OYgVgpQPI9TQ",
+        "itemType": "PRODUCT",
+        "siteId": 1,
+        "name": "Dell U4323QE",
+        "price": "812,98 €",
+        "imageUrl": "https://cdn.idealo.com/folder/Product/202356/2/202356203/s1_produktbild_mobil/dell-u4323qe.jpg",
+        "url": "https://www.idealo.de/preisvergleich/OffersOfProduct/202356203_-u4323qe-dell.html",
+        "userReviewsSummary": {
+          "averageRating": 4.56,
+          "totalReviewCount": 18
+        },
+        "testReportsSummary": {
+          "grade": "2,0"
+        },
+        "totalOfferCount": 49
+      },
+      {
+        "productRef": "pr.v1.k1.To1b_m_7hGvPKBu1Jb0RRLtNZ6x-cpTdHqyoiNQ_tfqY-ZJmvQ",
+        "itemType": "PRODUCT",
+        "siteId": 1,
+        "name": "Dell U3225QE",
+        "price": "745,91 €",
+        "imageUrl": "https://cdn.idealo.com/folder/Product/206007/0/206007049/s1_produktbild_mobil/dell-u3225qe.jpg",
+        "url": "https://www.idealo.de/preisvergleich/OffersOfProduct/206007049_-u3225qe-dell.html",
+        "userReviewsSummary": {
+          "averageRating": 4.56,
+          "totalReviewCount": 16
+        },
+        "testReportsSummary": {
+          "grade": "1,8"
+        },
+        "totalOfferCount": 42
+      },
+      {
+        "productRef": "pr.v1.k1.vKZWRVm1Gi0gH_Gi9upVDGx8pXPN9TxRkL1zJ_sce3ygDkRA7A",
+        "itemType": "PRODUCT",
+        "siteId": 1,
+        "name": "Dell U2724DE",
+        "price": "379,00 €",
+        "imageUrl": "https://cdn.idealo.com/folder/Product/203615/1/203615136/s1_produktbild_mobil/dell-u2724de.jpg",
+        "url": "https://www.idealo.de/preisvergleich/OffersOfProduct/203615136_-u2724de-dell.html",
+        "userReviewsSummary": {
+          "averageRating": 4.1,
+          "totalReviewCount": 21
+        },
+        "testReportsSummary": {
+          "grade": "1,4"
+        },
+        "totalOfferCount": 49
+      },
+      {
+        "productRef": "pr.v1.k1.3qNjv0fMxPynGYH5RujsL4rP3SE9At4bVDrfM3XfzG_EW333Ww",
+        "itemType": "PRODUCT",
+        "siteId": 1,
+        "name": "Dell P3223QE",
+        "price": "429,99 €",
+        "imageUrl": "https://cdn.idealo.com/folder/Product/202002/5/202002581/s1_produktbild_mobil/dell-p3223qe.jpg",
+        "url": "https://www.idealo.de/preisvergleich/OffersOfProduct/202002581_-p3223qe-dell.html",
+        "userReviewsSummary": {
+          "averageRating": 5,
+          "totalReviewCount": 6
+        },
+        "testReportsSummary": {
+          "grade": "2,0"
+        },
+        "totalOfferCount": 36
+      },
+      {
+        "productRef": "pr.v1.k1.AVS-zQWjj7diC2XKE_IH303BqWR78FonB4xtV4qt18aiZrQGBA",
+        "itemType": "PRODUCT",
+        "siteId": 1,
+        "name": "Dell U2724D",
+        "price": "299,00 €",
+        "imageUrl": "https://cdn.idealo.com/folder/Product/203609/2/203609232/s1_produktbild_mobil/dell-u2724d.jpg",
+        "url": "https://www.idealo.de/preisvergleich/OffersOfProduct/203609232_-u2724d-dell.html",
+        "userReviewsSummary": {
+          "averageRating": 4.58,
+          "totalReviewCount": 26
+        },
+        "totalOfferCount": 47
+      },
+      {
+        "productRef": "pr.v1.k1.4t2pWnqi2BMX_1NTNprk3YB49bXKgeYXIixxNzMRelU_0E0IPw",
+        "itemType": "PRODUCT",
+        "siteId": 1,
+        "name": "Dell U3223QE",
+        "price": "1.249,00 €",
+        "imageUrl": "https://cdn.idealo.com/folder/Product/201828/0/201828002/s1_produktbild_mobil/dell-u3223qe.jpg",
+        "url": "https://www.idealo.de/preisvergleich/OffersOfProduct/201828002_-u3223qe-dell.html",
+        "userReviewsSummary": {
+          "averageRating": 5,
+          "totalReviewCount": 1
+        },
+        "testReportsSummary": {
+          "grade": "2,0"
+        },
+        "totalOfferCount": 2
+      }
+    ]
+  },
+  "picked": {
+    "productRef": "pr.v1.k1.1pj4qzi5wNl-su-14qA2jAmOAg-sTdc5cKllaxA5rhCMwJlJbA",
+    "itemType": "PRODUCT",
+    "siteId": 1,
+    "name": "Dell U2723QE",
+    "imageUrl": "https://cdn.idealo.com/folder/Product/201828/1/201828189/s1_produktbild_mobil/dell-u2723qe.jpg",
+    "url": "https://www.idealo.de/preisvergleich/OffersOfProduct/201828189_-u2723qe-dell.html",
+    "userReviewsSummary": {
+      "averageRating": 4.03,
+      "totalReviewCount": 77
+    },
+    "testReportsSummary": {
+      "grade": "1,7"
+    },
+    "totalOfferCount": 1
+  },
+  "details": {
+    "productRef": "pr.v1.k1.1pj4qzi5wNl-su-14qA2jAmOAg-sTdc5cKllaxA5rhCMwJlJbA",
+    "itemType": "PRODUCT",
+    "siteId": 1,
+    "url": "https://www.idealo.de/preisvergleich/OffersOfProduct/201828189_-u2723qe-dell.html",
+    "name": "Dell U2723QE",
+    "imageUrls": [
+      "https://cdn.idealo.com/folder/Product/201828/1/201828189/s1_produktbild_mobil/dell-u2723qe.jpg"
+    ],
+    "nextOffset": -1,
+    "offers": [],
+    "prosCons": {
+      "pros": [
+        "außergewöhnliche Farbgenauigkeit",
+        "starkes Kontrastverhältnis",
+        "messerscharfe 4K-Auflösung",
+        "schlankes, modernes Design",
+        "USB-C-Hub"
+      ],
+      "cons": [
+        "keine Webcam",
+        "geringe Bildwiederholfrequenz von 60 Hz",
+        "hoher Preis"
+      ]
+    },
+    "testReports": {
+      "summary": {
+        "grade": "1,7",
+        "averageRating": 86.4,
+        "rating": "gut",
+        "ratingCount": 5
+      },
+      "list": [
+        {
+          "providerName": "DisplayNinja",
+          "shortDescription": "Einzeltest Dell U2723QE",
+          "summaryText": "Design: 4,7/5 | Display: 4,9/5 | Performance: 4,5/5 | Preis-Leistung: 4/5",
+          "ratingValue": "4,5/5",
+          "language": "de",
+          "issue": "online",
+          "testedProductsCount": 1
+        },
+        {
+          "providerName": "PCMag.com",
+          "shortDescription": "Einzeltest Dell U2723QE",
+          "summaryText": "Er ist nicht billig, doch der Dell U2723QE bietet eine Vielzahl von Anschluss- und Einstellungsmöglichkeiten, die ein besonders helles Panel mit großem Farbraum und hervorragendem Kontrast aufwerten.",
+          "ratingValue": "4,5/5",
+          "publishedAt": 1654077600000,
+          "language": "de",
+          "issue": "online",
+          "testedProductsCount": 1
+        },
+        {
+          "providerName": "ComputerBild",
+          "shortDescription": "Einzeltest Dell U2723QE",
+          "summaryText": "Der hochauflösende Monitor liefert bereits mit den Werkseinstellung ein einwandfreies Bild. Allerdings spiegelt die Bildschirmoberfläche. Die Ergonomie und die Konnektivität sind vorbildlich.",
+          "ratingValue": "gut (1,9)",
+          "publishedAt": 1704625200000,
+          "language": "de",
+          "issue": "online",
+          "testedProductsCount": 1
+        },
+        {
+          "providerName": "Techradar",
+          "shortDescription": "Einzeltest Dell U2723QE",
+          "summaryText": "Der Monitor verfügt über eine Low Blue Light-Ausgabe und bietet eine UHD-Auflösung mit 60 Hz, eine HDR-Unterstützung, mehrere Display-Anschlüsse und eine Fülle von extrem schnellen USB 3.2 Gen2 (10Gb/s)-Anschlüssen sowie einen RJ45-Netzwerkanschluss und einen Audio-Ausgang.",
+          "ratingValue": "4,5/5",
+          "publishedAt": 1678705200000,
+          "language": "de",
+          "issue": "online",
+          "testedProductsCount": 1
+        },
+        {
+          "providerName": "itpro.com",
+          "shortDescription": "Einzeltest Dell U2723QE",
+          "summaryText": "Das Design und die Verarbeitung sind gut. Es gibt eine hohe Farbgenauigkeit, zahlreiche Anschlussmöglichkeiten und jede Menge Funktionen. Die Hintergrundbeleuchtung könnte aber besser sein und die KVM-Funktionen bedürfen einer Verbesserung.",
+          "ratingValue": "4/5",
+          "publishedAt": 1725876000000,
+          "language": "de",
+          "issue": "online",
+          "testedProductsCount": 1
+        }
+      ]
+    },
+    "expertReview": {
+      "author": "Fachredaktion für PC-Hardware und Software",
+      "autogenerated": false,
+      "created": "2024-11-18T23:00",
+      "rating": 90,
+      "teaser": "Besonders für Personen, die hohe Ansprüche an die exakte Wiedergabe von Grafiken und Video haben, ist der Dell U2723QE eine gute Option.",
+      "text": "<h2>Dell U2723QE</h2>\n<ul>\n<li>27-Zoll-Display mit 4K-Auflösung</li>\n<li>umfangreiche Anschlussoptionen</li>\n<li>90 W PowerDelivery</li>\n</ul>\n<h2>Fast ausnahmslos überzeugende Bildqualität</h2>\n<p>Dells U2723QE richtet sich ganz offensichtlich an Grafiker:innen und andere, denen eine möglichst genaue Bildwiedergabe wichtig ist. Der Monitor bietet dafür eine sehr hohe Farbraumabdeckung, beispielsweise 100 % im sRGB-Bereich. Kombiniert mit seiner Diagonale von 27 Zoll und der 4K-Auflösung wird das Gerät so zur Konkurrenz für das Apple Studio Display – kostet aber nur etwa ein Drittel dessen. Laut computerbild.de (07.01.2024) ist es zudem blickwinkelstabil und kontraststark. Zudem sind die Werkseinstellungen hervorragend, sodass nicht groß kalibiert werden muss. Einzig die Helligkeit ist mit maximal 419 cd/m² ausbauufähig. Dadurch ist das Display für HDR-Inhalte nicht optimal geeignet. Zum Vergleich: Die Konkurrenz von Apple kommt auf 600 cd/m². Mit 60 Hz und 10 ms Input-Lag handelt es sich beim U2723QE zwar nicht um einen expliziten Gaming-Monitor, Spiele sehen aber dennoch flüssig aus, so die Tester von displayninja.com (13.05.2024).</p>\n<h2>USB-Hub und mehr</h2>\n<p>Auch in puncto Ergonomie und Ausstattung sammelt der Dell viele Pluspunkte. So ist er nicht nur neig- und schwenkbar, sondern kann auch in der Höhe verstellt oder ins Hochformat gedreht werden. Durchs On-Screen-Menü navigierst du per Joystick. Ein Highlight ist die Anschlussvielfalt: 3 USB-C-Eingänge sind vorhanden, davon einer mit DisplayPort und 90 W – hier kannst du etwa ein Notebook anschließen und spart dir das Netzteil. Hinzu kommen 5 USB-A-Ports, beispielsweise für Maus und Tastatur, HDMI sowie LAN und 3,5-mm-Klinke. Du kannst auch mehrere Monitore in Reihe schalten (Daisy-Chaining). Was fehlt, sind integrierte Lautsprecher und eine Webcam – Letzteres wurde von pcmag.com (01.06.2022) moniert.</p>"
+    },
+    "productSpecification": {
+      "groups": [
+        {
+          "name": "Bildeigenschaften",
+          "type": "DEFAULT",
+          "attributes": [
+            {
+              "name": "Bildschirmgröße",
+              "value": "27 Zoll"
+            },
+            {
+              "name": "Bildschirmdiagonale",
+              "value": "68,58 cm"
+            },
+            {
+              "name": "Panel-Technologie",
+              "value": "IPS"
+            },
+            {
+              "name": "Auflösung",
+              "value": "3.840 x 2.160 Pixel"
+            },
+            {
+              "name": "Bildschirmformat",
+              "value": "16:9"
+            },
+            {
+              "name": "Bildwiederholungsrate",
+              "value": "60 Hz"
+            },
+            {
+              "name": "Reaktionszeit",
+              "value": "8 ms"
+            },
+            {
+              "name": "Kontrastverhältnis (typisch)",
+              "value": "2.000:1"
+            },
+            {
+              "name": "Helligkeit",
+              "value": "400 cd/m²"
+            },
+            {
+              "name": "Farbtiefe",
+              "value": "10 Bit"
+            },
+            {
+              "name": "Darstellbare Farben",
+              "value": "1,07 Milliarden"
+            },
+            {
+              "name": "FOV",
+              "value": "178/178 °"
+            },
+            {
+              "name": "Hintergrundbeleuchtung",
+              "value": "LED Backlight"
+            },
+            {
+              "name": "Farbräume",
+              "value": "Rec. 709 100%, sRGB 100%, DCI-P3 98%"
+            },
+            {
+              "name": "Pixelabstand",
+              "value": "0,1554 mm"
+            },
+            {
+              "name": "Pixeldichte",
+              "value": "163,18 ppi"
+            }
+          ]
+        },
+        {
+          "name": "Anschlüsse",
+          "type": "DEFAULT",
+          "attributes": [
+            {
+              "name": "Anzahl HDMI",
+              "value": "1 x HDMI"
+            },
+            {
+              "name": "Anzahl DisplayPort",
+              "value": "1 x DisplayPort"
+            },
+            {
+              "name": "Anzahl USB 3.0 Anschlüsse",
+              "value": "4"
+            },
+            {
+              "name": "Audio-Anschlüsse",
+              "value": "Audio-Out (3,5mm Klinke)"
+            },
+            {
+              "name": "Ausgänge",
+              "value": "DisplayPort"
+            },
+            {
+              "name": "Monitor-Anschlüsse",
+              "value": "1 x USB 3.0 (Upstream), Netzwerk (LAN)"
+            }
+          ]
+        },
+        {
+          "name": "Ausstattung",
+          "type": "DEFAULT",
+          "attributes": [
+            {
+              "name": "integrierte Geräte",
+              "value": "USB-Hub"
+            },
+            {
+              "name": "Komforteigenschaften",
+              "value": "Wandmontage"
+            }
+          ]
+        },
+        {
+          "name": "Design",
+          "type": "DEFAULT",
+          "attributes": [
+            {
+              "name": "VESA-Norm",
+              "value": "100 x 100"
+            },
+            {
+              "name": "ergonomische Eigenschaften",
+              "value": "höhenverstellbar, Swivelfunktion (schwenkbar), Tiltfunktion (neigbar)"
+            },
+            {
+              "name": "Neigbereich",
+              "value": "-5 - 21 °"
+            },
+            {
+              "name": "Schwenkbereich",
+              "value": "+/-30 °"
+            },
+            {
+              "name": "Höhenverstellbarkeit",
+              "value": "150 mm"
+            },
+            {
+              "name": "Displayoberfläche",
+              "value": "matt"
+            },
+            {
+              "name": "Rahmenfarbe",
+              "value": "weiß"
+            },
+            {
+              "name": "Rahmenoberfläche",
+              "value": "matt"
+            },
+            {
+              "name": "Rahmeneigenschaft",
+              "value": "Ultraschlanker Rahmen"
+            },
+            {
+              "name": "Standfußfarbe",
+              "value": "silber"
+            },
+            {
+              "name": "Standfußform",
+              "value": "eckig"
+            }
+          ]
+        },
+        {
+          "name": "Energieverbrauch",
+          "type": "DEFAULT",
+          "attributes": [
+            {
+              "name": "Quellen",
+              "value": "*Ø Strompreis Eurostat (Stand 1. Halbjahr 2020), **Ø Nutzungsdauer nach Initiative EnergieEffizienz (Stand 2013)"
+            },
+            {
+              "name": "Hinweis",
+              "value": "Der tatsächliche Verbrauch hängt von Art und Häufigkeit der Nutzung des Geräts ab"
+            }
+          ]
+        },
+        {
+          "name": "",
+          "type": "IMPORTANT",
+          "attributes": [
+            {
+              "name": "Gelistet seit",
+              "value": "Februar 2022"
+            },
+            {
+              "name": "Produkttyp",
+              "value": "4K Monitor"
+            }
+          ]
+        }
+      ]
+    },
+    "productOverview": [
+      "27 Zoll",
+      "3.840 x 2.160 Pixel",
+      "60 Hz",
+      "IPS",
+      "16:9",
+      "Reaktionszeit 8 ms",
+      "2.000:1",
+      "Pixeldichte 163,18 ppi",
+      "Helligkeit 400 cd/m²",
+      "1 x HDMI",
+      "1 x DisplayPort"
+    ],
+    "productDetailsUrl": "https://www.idealo.de/preisvergleich/OffersOfProduct/201828189_-u2723qe-dell.html#datasheet",
+    "priceTrend": {
+      "history": [
+        {
+          "dateTime": 1793228399999,
+          "price": 109540
+        },
+        {
+          "dateTime": 1795791934545,
+          "price": 83003
+        }
+      ]
+    }
+  },
+  "offers_pages": [
+    {
+      "nextOffset": -1,
+      "offers": []
+    }
+  ],
+  "offers": [],
+  "price_history": {
+    "priceTrend": {
+      "history": [
+        {
+          "dateTime": 1793228399999,
+          "price": "1.095,40 €",
+          "dateTimeISO": "2026-10-28T22:59:59.999Z"
+        },
+        {
+          "dateTime": 1795791935334,
+          "price": "830,03 €",
+          "dateTimeISO": "2026-11-27T15:05:35.334Z",
+          "priceChangePercent": -24.22585356947234
+        }
+      ],
+      "statistics": {
+        "minPrice": "830,03 €",
+        "maxPrice": "1.095,40 €",
+        "avgPrice": "962,72 €",
+        "currentPrice": "830,03 €",
+        "priceChangePercent": -24.22585356947234,
+        "lowestPriceDate": "2026-11-27T15:05:35.334Z",
+        "highestPriceDate": "2026-10-28T22:59:59.999Z"
+      },
+      "samplingGranularity": "monthly",
+      "dataSourceConfidence": 0.95,
+      "periodDays": 29.7,
+      "totalDataPoints": 2
+    }
+  }
+}

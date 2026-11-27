@@ -1,0 +1,223 @@
+{
+  "query": "26 zoll fahrradreifen",
+  "country": "DE",
+  "currency": "EUR",
+  "product_name": "Continental Double Fighter III",
+  "product_url": "https://www.idealo.de/preisvergleich/OffersOfProduct/4961442_-double-fighter-iii-26-x-1-9-50-559-continental.html",
+  "list_price": 12.65,
+  "total_offers_on_idealo": 15,
+  "user_rating": 5.0,
+  "user_review_count": 1,
+  "pros": [
+    "geringer Rollwiderstand auf Asphalt",
+    "Grip auf unbefestigten Wegen",
+    "robuste Seitenwand"
+  ],
+  "cons": [
+    "nicht für anspruchsvolle Trails geeignet"
+  ],
+  "offers": [
+    {
+      "shop": "reifen.com",
+      "is_marketplace": false,
+      "price": 12.65,
+      "shipping": 5.99,
+      "total_price": 18.64,
+      "shipping_known": true,
+      "shop_rating": 4.01,
+      "shop_rating_count": 4668,
+      "delivery_text": "Di. 01.12.–Fr. 04.12.2026",
+      "delivery_status": "MEDIUM",
+      "delivery_earliest": "2026-12-01",
+      "delivery_latest": "2026-12-04",
+      "payment_methods": [
+        "Rechnung",
+        "PayPal",
+        "Lastschrift",
+        "Sofort.",
+        "Kreditkarte",
+        "Vorkasse",
+        "Amazon Pay"
+      ],
+      "freshness": "2026-11-27T15:48:50.723Z",
+      "url": "https://www.idealo.de/relocator/relocate?offerKey=335cc06acbf736a47464909d9635d1ea&categoryId=9452&pos=1&price=12.65&productid=4961442&sid=285697&type=offer&media=ipc-public-mcp"
+    },
+    {
+      "shop": "deporvillage.de",
+      "is_marketplace": false,
+      "price": 14.95,
+      "shipping": 7.99,
+      "total_price": 22.94,
+      "shipping_known": true,
+      "shop_rating": 1.96,
+      "shop_rating_count": 69,
+      "delivery_text": "Di. 01.12.–Mi. 02.12.2026",
+      "delivery_status": "SHORT",
+      "delivery_earliest": "2026-12-01",
+      "delivery_latest": "2026-12-02",
+      "payment_methods": [
+        "Rechnung",
+        "PayPal",
+        "Sofort.",
+        "Kreditkarte",
+        "Vorkasse"
+      ],
+      "freshness": "2026-11-27T15:48:50.723Z",
+      "url": "https://www.idealo.de/relocator/relocate?offerKey=336aeaf225d3a9c6a27381588908408d&categoryId=9452&pos=3&price=14.95&productid=4961442&sid=332932&type=offer&media=ipc-public-mcp"
+    },
+    {
+      "shop": "boc24.de",
+      "is_marketplace": false,
+      "price": 17.99,
+      "shipping": 4.95,
+      "total_price": 22.94,
+      "shipping_known": true,
+      "shop_rating": 1.4,
+      "shop_rating_count": 364,
+      "delivery_text": "Di. 01.12.–Mi. 02.12.2026",
+      "delivery_status": "SHORT",
+      "delivery_earliest": "2026-12-01",
+      "delivery_latest": "2026-12-02",
+      "free_return_days": 14,
+      "payment_methods": [
+        "Rechnung",
+        "PayPal",
+        "Sofort.",
+        "Kreditkarte",
+        "Vorkasse"
+      ],
+      "freshness": "2026-11-27T15:48:50.723Z",
+      "url": "https://www.idealo.de/relocator/relocate?offerKey=b66bda693eebf3e857a07aff24916978&categoryId=9452&pos=4&price=17.99&productid=4961442&sid=23863&type=offer&media=ipc-public-mcp"
+    },
+    {
+      "shop": "bikeinn.com (DE)",
+      "is_marketplace": false,
+      "price": 18.04,
+      "shipping": 3.99,
+      "total_price": 22.03,
+      "shipping_known": true,
+      "shop_rating": 1.62,
+      "shop_rating_count": 189,
+      "delivery_text": "Di. 01.12.–Do. 03.12.2026",
+      "delivery_status": "MEDIUM",
+      "delivery_earliest": "2026-12-01",
+      "delivery_latest": "2026-12-03",
+      "payment_methods": [
+        "Rechnung",
+        "PayPal",
+        "Sofort.",
+        "Kreditkarte"
+      ],
+      "freshness": "2026-11-27T15:48:50.723Z",
+      "url": "https://www.idealo.de/relocator/relocate?offerKey=71d847fbdde093a1b89bfb2d5c8b51ab&categoryId=9452&pos=5&price=18.04&productid=4961442&sid=283194&type=offer&media=ipc-public-mcp"
+    },
+    {
+      "shop": "manomano.de",
+      "is_marketplace": true,
+      "price": 21.19,
+      "shipping": 8.5,
+      "total_price": 29.69,
+      "shipping_known": true,
+      "delivery_text": "Di. 01.12.–Do. 03.12.2026",
+      "delivery_status": "MEDIUM",
+      "delivery_earliest": "2026-12-01",
+      "delivery_latest": "2026-12-03",
+      "payment_methods": [
+        "Rechnung",
+        "PayPal",
+        "Sofort.",
+        "Kreditkarte",
+        "Vorkasse"
+      ],
+      "freshness": "2026-11-27T15:48:51.369Z",
+      "url": "https://www.idealo.de/relocator/relocate?offerKey=6e2c58352b23e21dd569f56b33ddcac0&categoryId=9452&pos=7&price=21.19&productid=4961442&sid=311322&type=offer&media=ipc-public-mcp"
+    },
+    {
+      "shop": "Hardloop.de",
+      "is_marketplace": false,
+      "price": 21.9,
+      "shipping": 4.95,
+      "total_price": 26.85,
+      "shipping_known": true,
+      "shop_rating": 4.02,
+      "shop_rating_count": 373,
+      "delivery_text": "Di. 01.12.–Mi. 02.12.2026",
+      "delivery_status": "SHORT",
+      "delivery_earliest": "2026-12-01",
+      "delivery_latest": "2026-12-02",
+      "free_return_days": 100,
+      "payment_methods": [
+        "PayPal",
+        "Sofort.",
+        "Kreditkarte",
+        "Apple Pay",
+        "Vorkasse"
+      ],
+      "freshness": "2026-11-27T15:48:51.369Z",
+      "url": "https://www.idealo.de/relocator/relocate?offerKey=97129c3d26c153ef09caf40be8ff3aac&categoryId=9452&pos=8&price=21.90&productid=4961442&sid=316983&type=offer&media=ipc-public-mcp"
+    },
+    {
+      "shop": "bikespecht.com",
+      "is_marketplace": false,
+      "price": 23.95,
+      "shipping": 4.95,
+      "total_price": 28.9,
+      "shipping_known": true,
+      "shop_rating": 5.0,
+      "shop_rating_count": 2,
+      "delivery_text": "Di. 01.12.–Sa. 05.12.2026",
+      "delivery_status": "MEDIUM",
+      "delivery_earliest": "2026-12-01",
+      "delivery_latest": "2026-12-05",
+      "payment_methods": [
+        "PayPal",
+        "Kreditkarte"
+      ],
+      "freshness": "2026-11-27T15:48:51.369Z",
+      "url": "https://www.idealo.de/relocator/relocate?offerKey=e731bb0726d89893f75ed71a393b573a&categoryId=9452&pos=9&price=23.95&productid=4961442&sid=330830&type=offer&media=ipc-public-mcp"
+    },
+    {
+      "shop": "decathlon.de",
+      "is_marketplace": false,
+      "price": 24.69,
+      "shipping": 3.99,
+      "total_price": 28.68,
+      "shipping_known": true,
+      "shop_rating": 1.1,
+      "shop_rating_count": 67,
+      "delivery_text": "Di. 01.12.–Mo. 07.12.2026",
+      "delivery_status": "MEDIUM",
+      "delivery_earliest": "2026-12-01",
+      "delivery_latest": "2026-12-07",
+      "payment_methods": [
+        "Rechnung",
+        "PayPal",
+        "Kreditkarte"
+      ],
+      "freshness": "2026-11-27T15:48:51.369Z",
+      "url": "https://www.idealo.de/relocator/relocate?offerKey=4b3b0371891963e65587e4552fff7956&categoryId=9452&pos=10&price=24.69&productid=4961442&sid=282682&type=offer&media=ipc-public-mcp"
+    }
+  ],
+  "offers_capped_by_trial_tier": true,
+  "price_history": {
+    "period_days": 29,
+    "current": 12.65,
+    "min": 12.65,
+    "max": 13.45,
+    "avg": 13.16,
+    "change_percent": -5.947955390334572,
+    "lowest_price_date": "2026-11-26T22:59:59.999Z",
+    "highest_price_date": "2026-10-28T22:59:59.999Z",
+    "data_source_confidence": 0.95,
+    "total_data_points": 31
+  },
+  "market_stats": {
+    "offer_count": 8,
+    "min_total": 18.64,
+    "median_total": 24.895000000000003,
+    "max_total": 29.69
+  },
+  "gaps": [
+    "offer list truncated by API tier: Trial tier limit reached: max 10 offers per product. Upgrade for full access."
+  ]
+}

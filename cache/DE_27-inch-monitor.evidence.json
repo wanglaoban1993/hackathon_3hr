@@ -1,0 +1,256 @@
+{
+  "query": "27 inch monitor",
+  "country": "DE",
+  "currency": "EUR",
+  "product_name": "GigaByte M27UP Ice",
+  "product_url": "https://www.idealo.de/preisvergleich/OffersOfProduct/208071355_-m27up-ice-gigabyte.html",
+  "list_price": 259.0,
+  "total_offers_on_idealo": 18,
+  "user_rating": 5.0,
+  "user_review_count": 5,
+  "pros": [
+    "4K-Auflösung bei 160 Hz Bildwiederholrate",
+    "schnelle Reaktionszeit von 1 ms GTG",
+    "umfangreiche Ergonomie mit Pivot, Höhen- und Neigefunktion",
+    "vielseitige Anschlüsse inkl. HDMI 2.1 und USB-C"
+  ],
+  "cons": [
+    "hoher Stromverbrauch im HDR-Modus (50 kWh/1000h)",
+    "mittlere Helligkeit von 350 cd/m²",
+    "USB-C liefert nur 18W Power Delivery"
+  ],
+  "offers": [
+    {
+      "shop": "joybuy.de",
+      "is_marketplace": false,
+      "price": 259.0,
+      "shipping": 0.0,
+      "total_price": 259.0,
+      "shipping_known": true,
+      "shop_rating": 2.32,
+      "shop_rating_count": 171,
+      "delivery_text": "bis Mo. 30.11.2026",
+      "delivery_status": "SHORT",
+      "delivery_latest": "2026-11-30",
+      "free_return_days": 30,
+      "payment_methods": [
+        "PayPal",
+        "Sofort.",
+        "Kreditkarte"
+      ],
+      "freshness": "2026-11-27T14:59:31.371Z",
+      "url": "https://www.idealo.de/relocator/relocate?offerKey=ddf5d658ad40c74769d1262d39b9525f&categoryId=3832&pos=1&price=259.00&productid=208071355&sid=335764&type=offer&media=ipc-public-mcp"
+    },
+    {
+      "shop": "coolblue.de",
+      "is_marketplace": false,
+      "price": 279.0,
+      "shipping": 0.0,
+      "total_price": 279.0,
+      "shipping_known": true,
+      "shop_rating": 4.64,
+      "shop_rating_count": 9871,
+      "delivery_text": "bis Sa. 28.11.2026",
+      "delivery_status": "SHORT",
+      "delivery_latest": "2026-11-28",
+      "free_return_days": 30,
+      "payment_methods": [
+        "Rechnung",
+        "PayPal",
+        "Sofort.",
+        "Kreditkarte",
+        "Vorkasse"
+      ],
+      "freshness": "2026-11-27T14:59:31.372Z",
+      "url": "https://www.idealo.de/relocator/relocate?offerKey=0a3653a54a2382c6ea7ae3bc4cd32225&categoryId=3832&pos=2&price=279.00&productid=208071355&sid=322253&type=offer&media=ipc-public-mcp"
+    },
+    {
+      "shop": "computeruniverse.net",
+      "is_marketplace": false,
+      "price": 290.51,
+      "shipping": 6.99,
+      "total_price": 297.5,
+      "shipping_known": true,
+      "shop_rating": 3.78,
+      "shop_rating_count": 29704,
+      "delivery_text": "voraussichtlich verfügbar ab 09.12.2026",
+      "delivery_status": "UNKNOWN",
+      "free_return_days": 30,
+      "payment_methods": [
+        "Rechnung",
+        "PayPal",
+        "Sofort.",
+        "Kreditkarte",
+        "Apple Pay",
+        "Vorkasse",
+        "Amazon Pay"
+      ],
+      "freshness": "2026-11-27T14:59:31.372Z",
+      "url": "https://www.idealo.de/relocator/relocate?offerKey=b1dd016b3a7500b6b956cb922460f162&categoryId=3832&pos=3&price=290.51&productid=208071355&sid=1140&type=offer&media=ipc-public-mcp"
+    },
+    {
+      "shop": "cyberport.de",
+      "is_marketplace": false,
+      "price": 290.51,
+      "shipping": 6.99,
+      "total_price": 297.5,
+      "shipping_known": true,
+      "shop_rating": 3.34,
+      "shop_rating_count": 26248,
+      "delivery_text": "voraussichtlich verfügbar ab 09.12.2026",
+      "delivery_status": "UNKNOWN",
+      "free_return_days": 30,
+      "payment_methods": [
+        "Rechnung",
+        "PayPal",
+        "Sofort.",
+        "Kreditkarte",
+        "Vorkasse",
+        "Amazon Pay"
+      ],
+      "freshness": "2026-11-27T14:59:31.372Z",
+      "url": "https://www.idealo.de/relocator/relocate?offerKey=75ba04f0710f54ac3d5910dd75a3d789&categoryId=3832&pos=4&price=290.51&productid=208071355&sid=2400&type=offer&media=ipc-public-mcp"
+    },
+    {
+      "shop": "proshop.de",
+      "is_marketplace": false,
+      "price": 299.0,
+      "shipping": 4.99,
+      "total_price": 303.99,
+      "shipping_known": true,
+      "shop_rating": 4.76,
+      "shop_rating_count": 11612,
+      "delivery_text": "Mo. 30.11.–Mi. 02.12.2026",
+      "delivery_status": "MEDIUM",
+      "delivery_earliest": "2026-11-30",
+      "delivery_latest": "2026-12-02",
+      "payment_methods": [
+        "Rechnung",
+        "PayPal",
+        "Sofort.",
+        "Kreditkarte",
+        "Vorkasse"
+      ],
+      "freshness": "2026-11-27T14:59:31.372Z",
+      "url": "https://www.idealo.de/relocator/relocate?offerKey=880b68b1e9aae75396f9e5c7207bd277&categoryId=3832&pos=5&price=299.00&productid=208071355&sid=302342&type=offer&media=ipc-public-mcp"
+    },
+    {
+      "shop": "playox.de",
+      "is_marketplace": false,
+      "price": 316.29,
+      "shipping": 5.99,
+      "total_price": 322.28,
+      "shipping_known": true,
+      "shop_rating": 3.8,
+      "shop_rating_count": 1352,
+      "delivery_text": "bis Di. 01.12.2026",
+      "delivery_status": "SHORT",
+      "delivery_latest": "2026-12-01",
+      "free_return_days": 30,
+      "payment_methods": [
+        "Rechnung",
+        "PayPal",
+        "Sofort.",
+        "Kreditkarte",
+        "Vorkasse",
+        "Amazon Pay"
+      ],
+      "freshness": "2026-11-27T14:59:32.012Z",
+      "url": "https://www.idealo.de/relocator/relocate?offerKey=51928a53cb59d110bf9e168f0aba454c&categoryId=3832&pos=6&price=316.29&productid=208071355&sid=243147&type=offer&media=ipc-public-mcp"
+    },
+    {
+      "shop": "office-partner.de",
+      "is_marketplace": false,
+      "price": 316.3,
+      "shipping": 5.99,
+      "total_price": 322.29,
+      "shipping_known": true,
+      "shop_rating": 4.38,
+      "shop_rating_count": 3231,
+      "delivery_text": "bis Di. 01.12.2026",
+      "delivery_status": "SHORT",
+      "delivery_latest": "2026-12-01",
+      "free_return_days": 30,
+      "payment_methods": [
+        "Rechnung",
+        "PayPal",
+        "Sofort.",
+        "Kreditkarte",
+        "Vorkasse",
+        "Amazon Pay"
+      ],
+      "freshness": "2026-11-27T14:59:32.013Z",
+      "url": "https://www.idealo.de/relocator/relocate?offerKey=2b75aeca620da7c4a3c98316a8e3bc92&categoryId=3832&pos=7&price=316.30&productid=208071355&sid=27566&type=offer&media=ipc-public-mcp"
+    },
+    {
+      "shop": "jb-computer.de",
+      "is_marketplace": false,
+      "price": 328.07,
+      "shipping": 0.0,
+      "total_price": 328.07,
+      "shipping_known": true,
+      "shop_rating": 3.8,
+      "shop_rating_count": 458,
+      "delivery_text": "bis Di. 01.12.2026",
+      "delivery_status": "SHORT",
+      "delivery_latest": "2026-12-01",
+      "free_return_days": 30,
+      "payment_methods": [
+        "Rechnung",
+        "PayPal",
+        "Lastschrift",
+        "Sofort.",
+        "Kreditkarte",
+        "Vorkasse",
+        "Amazon Pay"
+      ],
+      "freshness": "2026-11-27T14:59:32.013Z",
+      "url": "https://www.idealo.de/relocator/relocate?offerKey=adfd84276b99bc09877af3a320d7ddac&categoryId=3832&pos=8&price=328.07&productid=208071355&sid=316826&type=offer&media=ipc-public-mcp"
+    },
+    {
+      "shop": "jacob.de",
+      "is_marketplace": false,
+      "price": 331.12,
+      "shipping": 2.99,
+      "total_price": 334.11,
+      "shipping_known": true,
+      "shop_rating": 3.77,
+      "shop_rating_count": 12801,
+      "delivery_text": "Di. 01.12.–Mi. 02.12.2026",
+      "delivery_status": "SHORT",
+      "delivery_earliest": "2026-12-01",
+      "delivery_latest": "2026-12-02",
+      "payment_methods": [
+        "Rechnung",
+        "PayPal",
+        "Sofort.",
+        "Kreditkarte",
+        "Amazon Pay"
+      ],
+      "freshness": "2026-11-27T14:59:32.013Z",
+      "url": "https://www.idealo.de/relocator/relocate?offerKey=d9bcfb1f192405a2243ec25e9a817b81&categoryId=3832&pos=9&price=331.12&productid=208071355&sid=5300&type=offer&media=ipc-public-mcp"
+    }
+  ],
+  "offers_capped_by_trial_tier": true,
+  "price_history": {
+    "period_days": 29,
+    "current": 259.0,
+    "min": 258.99,
+    "max": 299.89,
+    "avg": 280.56,
+    "change_percent": -13.0580731789191,
+    "lowest_price_date": "2026-11-23T22:59:59.999Z",
+    "highest_price_date": "2026-11-09T22:59:59.999Z",
+    "data_source_confidence": 0.95,
+    "total_data_points": 31
+  },
+  "market_stats": {
+    "offer_count": 9,
+    "min_total": 259.0,
+    "median_total": 303.99,
+    "max_total": 334.11
+  },
+  "gaps": [
+    "offer list truncated by API tier: Trial tier limit reached: max 10 offers per product. Upgrade for full access."
+  ]
+}

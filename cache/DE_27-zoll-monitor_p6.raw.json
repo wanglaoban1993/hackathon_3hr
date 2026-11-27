@@ -1,0 +1,4452 @@
+{
+  "query": "27 zoll monitor",
+  "country": "DE",
+  "search": {
+    "query": "27 zoll monitor",
+    "availableCategories": [
+      {
+        "categoryId": "3832",
+        "categoryName": "Monitore",
+        "amount": 0
+      }
+    ],
+    "availableManufacturers": [
+      {
+        "manufacturerId": "1038",
+        "manufacturerName": "ASUS",
+        "amount": 176,
+        "searchFilterId": "471667"
+      },
+      {
+        "manufacturerId": "1049",
+        "manufacturerName": "Samsung",
+        "amount": 142,
+        "searchFilterId": "471718"
+      },
+      {
+        "manufacturerId": "3140",
+        "manufacturerName": "LG",
+        "amount": 111,
+        "searchFilterId": "471702"
+      },
+      {
+        "manufacturerId": "1138",
+        "manufacturerName": "Dell",
+        "amount": 72,
+        "searchFilterId": "471677"
+      },
+      {
+        "manufacturerId": "1039",
+        "manufacturerName": "MSI",
+        "amount": 121,
+        "searchFilterId": "7058574"
+      },
+      {
+        "manufacturerId": "1540",
+        "manufacturerName": "AOC",
+        "amount": 102,
+        "searchFilterId": "471664"
+      },
+      {
+        "manufacturerId": "1041",
+        "manufacturerName": "GigaByte",
+        "amount": 42,
+        "searchFilterId": "9872809"
+      },
+      {
+        "manufacturerId": "11880",
+        "manufacturerName": "Apple",
+        "amount": 20,
+        "searchFilterId": "471666"
+      },
+      {
+        "manufacturerId": "14780",
+        "manufacturerName": "Lenovo",
+        "amount": 92,
+        "searchFilterId": "471701"
+      },
+      {
+        "manufacturerId": "1986",
+        "manufacturerName": "Acer",
+        "amount": 164,
+        "searchFilterId": "471660"
+      },
+      {
+        "manufacturerId": "1128",
+        "manufacturerName": "iiyama",
+        "amount": 98,
+        "searchFilterId": "471698"
+      },
+      {
+        "manufacturerId": "1072",
+        "manufacturerName": "Philips",
+        "amount": 99,
+        "searchFilterId": "471714"
+      },
+      {
+        "manufacturerId": "1494",
+        "manufacturerName": "BenQ",
+        "amount": 66,
+        "searchFilterId": "471671"
+      },
+      {
+        "manufacturerId": "1027",
+        "manufacturerName": "HP",
+        "amount": 97,
+        "searchFilterId": "471693"
+      },
+      {
+        "manufacturerId": "19420",
+        "manufacturerName": "Alienware",
+        "amount": 9,
+        "searchFilterId": "1332331"
+      },
+      {
+        "manufacturerId": "1135",
+        "manufacturerName": "EIZO",
+        "amount": 18,
+        "searchFilterId": "471680"
+      },
+      {
+        "manufacturerId": "75986",
+        "manufacturerName": "TCL",
+        "amount": 7,
+        "searchFilterId": "105729917"
+      },
+      {
+        "manufacturerId": "128641",
+        "manufacturerName": "Xiaomi",
+        "amount": 12,
+        "searchFilterId": "101195677"
+      },
+      {
+        "manufacturerId": "1131",
+        "manufacturerName": "Viewsonic",
+        "amount": 58,
+        "searchFilterId": "471731"
+      },
+      {
+        "manufacturerId": "86187",
+        "manufacturerName": "Zowie",
+        "amount": 2,
+        "searchFilterId": "9756246"
+      },
+      {
+        "manufacturerId": "1301",
+        "manufacturerName": "Fujitsu",
+        "amount": 3,
+        "searchFilterId": "1224236"
+      },
+      {
+        "manufacturerId": "1040",
+        "manufacturerName": "ASRock",
+        "amount": 25,
+        "searchFilterId": "104006202"
+      },
+      {
+        "manufacturerId": "173356",
+        "manufacturerName": "Arzopa",
+        "amount": 2,
+        "searchFilterId": "104384610"
+      },
+      {
+        "manufacturerId": "11308",
+        "manufacturerName": "LC Power",
+        "amount": 13,
+        "searchFilterId": "10403269"
+      },
+      {
+        "manufacturerId": "72566",
+        "manufacturerName": "KTC",
+        "amount": 16,
+        "searchFilterId": "1025476"
+      },
+      {
+        "manufacturerId": "5960",
+        "manufacturerName": "Corsair",
+        "amount": 1,
+        "searchFilterId": "102262361"
+      },
+      {
+        "manufacturerId": "168908",
+        "manufacturerName": "Koorui",
+        "amount": 25,
+        "searchFilterId": "103762273"
+      },
+      {
+        "manufacturerId": "177214",
+        "manufacturerName": "Gawfolk",
+        "amount": 4,
+        "searchFilterId": "105861242"
+      },
+      {
+        "manufacturerId": "1013",
+        "manufacturerName": "Sony",
+        "amount": 4,
+        "searchFilterId": "471722"
+      },
+      {
+        "manufacturerId": "179100",
+        "manufacturerName": "TITAN ARMY",
+        "amount": 5,
+        "searchFilterId": "106229015"
+      },
+      {
+        "manufacturerId": "116276",
+        "manufacturerName": "Peaq",
+        "amount": 3,
+        "searchFilterId": "10251478"
+      },
+      {
+        "manufacturerId": "174818",
+        "manufacturerName": "Z-Edge",
+        "amount": 18,
+        "searchFilterId": "104844434"
+      },
+      {
+        "manufacturerId": "175864",
+        "manufacturerName": "Japannext",
+        "amount": 19,
+        "searchFilterId": "105998291"
+      },
+      {
+        "manufacturerId": "1630",
+        "manufacturerName": "Medion",
+        "amount": 2,
+        "searchFilterId": "471706"
+      },
+      {
+        "manufacturerId": "126263",
+        "manufacturerName": "NEC",
+        "amount": 9,
+        "searchFilterId": "471709"
+      },
+      {
+        "manufacturerId": "1544",
+        "manufacturerName": "AG Neovo",
+        "amount": 12,
+        "searchFilterId": "1129667"
+      },
+      {
+        "manufacturerId": "112159",
+        "manufacturerName": "Wortmann",
+        "amount": 17,
+        "searchFilterId": "471734"
+      },
+      {
+        "manufacturerId": "174318",
+        "manufacturerName": "YEYIAN",
+        "amount": 1,
+        "searchFilterId": "104739092"
+      },
+      {
+        "manufacturerId": "176841",
+        "manufacturerName": "Twisted Minds",
+        "amount": 5,
+        "searchFilterId": "105605439"
+      },
+      {
+        "manufacturerId": "159571",
+        "manufacturerName": "Alogic",
+        "amount": 5,
+        "searchFilterId": "104135126"
+      },
+      {
+        "manufacturerId": "31944",
+        "manufacturerName": "HANNspree",
+        "amount": 2,
+        "searchFilterId": "576031"
+      },
+      {
+        "manufacturerId": "37066",
+        "manufacturerName": "Elo Touchsystems",
+        "amount": 5,
+        "searchFilterId": "785092"
+      },
+      {
+        "manufacturerId": "153994",
+        "manufacturerName": "HyperX",
+        "amount": 1,
+        "searchFilterId": "103708339"
+      },
+      {
+        "manufacturerId": "22665",
+        "manufacturerName": "ABUS",
+        "amount": 1,
+        "searchFilterId": "5332083"
+      },
+      {
+        "manufacturerId": "185486",
+        "manufacturerName": "Crua",
+        "amount": 2,
+        "searchFilterId": "107087079"
+      },
+      {
+        "manufacturerId": "136822",
+        "manufacturerName": "Arozzi",
+        "amount": 10,
+        "searchFilterId": "107066058"
+      },
+      {
+        "manufacturerId": "18220",
+        "manufacturerName": "Odys",
+        "amount": 9,
+        "searchFilterId": "101541870"
+      },
+      {
+        "manufacturerId": "67560",
+        "manufacturerName": "HKC",
+        "amount": 26,
+        "searchFilterId": "934429"
+      },
+      {
+        "manufacturerId": "136060",
+        "manufacturerName": "keep out",
+        "amount": 11,
+        "searchFilterId": "9227775"
+      },
+      {
+        "manufacturerId": "142205",
+        "manufacturerName": "CHiQ",
+        "amount": 2,
+        "searchFilterId": "103814274"
+      },
+      {
+        "manufacturerId": "173147",
+        "manufacturerName": "Aryond",
+        "amount": 1,
+        "searchFilterId": "104365134"
+      },
+      {
+        "manufacturerId": "181899",
+        "manufacturerName": "GamePower",
+        "amount": 3,
+        "searchFilterId": "107126868"
+      },
+      {
+        "manufacturerId": "116652",
+        "manufacturerName": "Itek",
+        "amount": 1,
+        "searchFilterId": "10125246"
+      },
+      {
+        "manufacturerId": "113007",
+        "manufacturerName": "Newline",
+        "amount": 1,
+        "searchFilterId": "7058581"
+      },
+      {
+        "manufacturerId": "1180",
+        "manufacturerName": "AOpen",
+        "amount": 1,
+        "searchFilterId": "9658710"
+      },
+      {
+        "manufacturerId": "152899",
+        "manufacturerName": "Krom Gaming",
+        "amount": 1,
+        "searchFilterId": "104690029"
+      },
+      {
+        "manufacturerId": "123321",
+        "manufacturerName": "Konix",
+        "amount": 1,
+        "searchFilterId": "107150882"
+      },
+      {
+        "manufacturerId": "2787",
+        "manufacturerName": "Thermaltake",
+        "amount": 2,
+        "searchFilterId": "104646738"
+      },
+      {
+        "manufacturerId": "110100",
+        "manufacturerName": "Nilox",
+        "amount": 29,
+        "searchFilterId": "9229772"
+      },
+      {
+        "manufacturerId": "1162",
+        "manufacturerName": "Thomson",
+        "amount": 5,
+        "searchFilterId": "101902441"
+      },
+      {
+        "manufacturerId": "149364",
+        "manufacturerName": "Dahua",
+        "amount": 33,
+        "searchFilterId": "104259348"
+      },
+      {
+        "manufacturerId": "163628",
+        "manufacturerName": "Mobile Pixels",
+        "amount": 1,
+        "searchFilterId": "102108291"
+      },
+      {
+        "manufacturerId": "1006",
+        "manufacturerName": "Sharp",
+        "amount": 7,
+        "searchFilterId": "1606554"
+      },
+      {
+        "manufacturerId": "2103",
+        "manufacturerName": "Cooler Master",
+        "amount": 6,
+        "searchFilterId": "101865909"
+      },
+      {
+        "manufacturerId": "127132",
+        "manufacturerName": "SPC",
+        "amount": 1,
+        "searchFilterId": "104241020"
+      },
+      {
+        "manufacturerId": "187603",
+        "manufacturerName": "GEESUU",
+        "amount": 1,
+        "searchFilterId": "107363666"
+      },
+      {
+        "manufacturerId": "149197",
+        "manufacturerName": "iggual",
+        "amount": 4,
+        "searchFilterId": "103721233"
+      },
+      {
+        "manufacturerId": "144399",
+        "manufacturerName": "Mars Gaming",
+        "amount": 1,
+        "searchFilterId": "106334118"
+      },
+      {
+        "manufacturerId": "173407",
+        "manufacturerName": "Dough",
+        "amount": 1,
+        "searchFilterId": "104391306"
+      },
+      {
+        "manufacturerId": "124484",
+        "manufacturerName": "Ernitec",
+        "amount": 1,
+        "searchFilterId": "108327986"
+      },
+      {
+        "manufacturerId": "86990",
+        "manufacturerName": "Faytech",
+        "amount": 2,
+        "searchFilterId": "2902567"
+      },
+      {
+        "manufacturerId": "166502",
+        "manufacturerName": "Eve Devices",
+        "amount": 1,
+        "searchFilterId": "103209209"
+      },
+      {
+        "manufacturerId": "139359",
+        "manufacturerName": "Hikvision",
+        "amount": 5,
+        "searchFilterId": "101641537"
+      },
+      {
+        "manufacturerId": "7903",
+        "manufacturerName": "Kendo",
+        "amount": 1,
+        "searchFilterId": "107604473"
+      },
+      {
+        "manufacturerId": "38501",
+        "manufacturerName": "Misura",
+        "amount": 3,
+        "searchFilterId": "106388933"
+      },
+      {
+        "manufacturerId": "41141",
+        "manufacturerName": "Renkforce",
+        "amount": 1,
+        "searchFilterId": "2436274"
+      },
+      {
+        "manufacturerId": "174769",
+        "manufacturerName": "PcCom",
+        "amount": 1,
+        "searchFilterId": "104903178"
+      },
+      {
+        "manufacturerId": "41440",
+        "manufacturerName": "Phoenix Technologies",
+        "amount": 2,
+        "searchFilterId": "105820293"
+      },
+      {
+        "manufacturerId": "117505",
+        "manufacturerName": "Yashi",
+        "amount": 8,
+        "searchFilterId": "5179705"
+      },
+      {
+        "manufacturerId": "113883",
+        "manufacturerName": "Hamlet",
+        "amount": 2,
+        "searchFilterId": "108448857"
+      },
+      {
+        "manufacturerId": "93647",
+        "manufacturerName": "OZONE",
+        "amount": 1,
+        "searchFilterId": "9921859"
+      }
+    ],
+    "availableFilters": [
+      {
+        "attributeId": "15583",
+        "name": "Produkttyp",
+        "filters": [
+          {
+            "filterId": "2938578",
+            "content": "4K Monitor",
+            "amount": 301
+          },
+          {
+            "filterId": "3090687",
+            "content": "Gaming Monitor",
+            "amount": 975
+          },
+          {
+            "filterId": "4550910",
+            "content": "Curved Monitor",
+            "amount": 156
+          },
+          {
+            "filterId": "9273208",
+            "content": "WQHD Monitor",
+            "amount": 809
+          },
+          {
+            "filterId": "5038001",
+            "content": "UltraWide Monitor",
+            "amount": 2
+          },
+          {
+            "filterId": "5038000",
+            "content": "5K Monitor",
+            "amount": 37
+          },
+          {
+            "filterId": "1486416",
+            "content": "Full HD Monitor",
+            "amount": 816
+          },
+          {
+            "filterId": "1486262",
+            "content": "Touchscreen Monitor",
+            "amount": 14
+          },
+          {
+            "filterId": "1768964",
+            "content": "TV Monitor",
+            "amount": 9
+          },
+          {
+            "filterId": "1273215",
+            "content": "3D Monitor",
+            "amount": 5
+          }
+        ]
+      },
+      {
+        "attributeId": "16732",
+        "name": "Serie",
+        "filters": [
+          {
+            "filterId": "106328073",
+            "content": "ASUS ROG Strix",
+            "amount": 39
+          },
+          {
+            "filterId": "1661642",
+            "content": "ASUS ProArt",
+            "amount": 18
+          },
+          {
+            "filterId": "106046476",
+            "content": "Samsung Odyssey G5",
+            "amount": 14
+          },
+          {
+            "filterId": "106046480",
+            "content": "Samsung Odyssey G9",
+            "amount": 1
+          },
+          {
+            "filterId": "106746476",
+            "content": "Samsung Odyssey OLED G8",
+            "amount": 3
+          },
+          {
+            "filterId": "1599872",
+            "content": "Dell UltraSharp",
+            "amount": 7
+          },
+          {
+            "filterId": "106046478",
+            "content": "Samsung Odyssey G7",
+            "amount": 3
+          },
+          {
+            "filterId": "106046472",
+            "content": "Samsung Odyssey",
+            "amount": 27
+          },
+          {
+            "filterId": "2483589",
+            "content": "LG UltraGear",
+            "amount": 32
+          },
+          {
+            "filterId": "2276259",
+            "content": "ASUS ROG Swift",
+            "amount": 9
+          },
+          {
+            "filterId": "3354354",
+            "content": "Acer Predator",
+            "amount": 10
+          },
+          {
+            "filterId": "1728461",
+            "content": "ASUS TUF Gaming",
+            "amount": 49
+          },
+          {
+            "filterId": "106046448",
+            "content": "MSI MAG",
+            "amount": 35
+          },
+          {
+            "filterId": "107091242",
+            "content": "Samsung Odyssey G6",
+            "amount": 3
+          },
+          {
+            "filterId": "106046459",
+            "content": "Philips Evnia",
+            "amount": 10
+          },
+          {
+            "filterId": "5990377",
+            "content": "LG UltraFine",
+            "amount": 10
+          },
+          {
+            "filterId": "107234249",
+            "content": "BenQ MA",
+            "amount": 3
+          },
+          {
+            "filterId": "106046434",
+            "content": "BenQ MOBIUZ",
+            "amount": 13
+          },
+          {
+            "filterId": "1599879",
+            "content": "iiyama ProLite",
+            "amount": 65
+          },
+          {
+            "filterId": "106873698",
+            "content": "HP Series 5 Pro",
+            "amount": 5
+          },
+          {
+            "filterId": "106046467",
+            "content": "Samsung M5",
+            "amount": 4
+          },
+          {
+            "filterId": "5943379",
+            "content": "Lenovo Legion",
+            "amount": 25
+          },
+          {
+            "filterId": "7959538",
+            "content": "ASUS ZenScreen",
+            "amount": 2
+          },
+          {
+            "filterId": "1609408",
+            "content": "Acer Nitro",
+            "amount": 32
+          },
+          {
+            "filterId": "106046490",
+            "content": "Samsung ViewFinity S8",
+            "amount": 4
+          },
+          {
+            "filterId": "1816774",
+            "content": "EIZO ColorEdge",
+            "amount": 4
+          },
+          {
+            "filterId": "106219672",
+            "content": "Sony INZONE",
+            "amount": 4
+          },
+          {
+            "filterId": "106046437",
+            "content": "Corsair Xeneon",
+            "amount": 1
+          },
+          {
+            "filterId": "106046442",
+            "content": "HP Series 7 Pro",
+            "amount": 19
+          },
+          {
+            "filterId": "106046473",
+            "content": "Samsung Odyssey G3",
+            "amount": 4
+          },
+          {
+            "filterId": "106072743",
+            "content": "AOC G4",
+            "amount": 17
+          },
+          {
+            "filterId": "1599873",
+            "content": "EIZO FlexScan",
+            "amount": 13
+          },
+          {
+            "filterId": "2439862",
+            "content": "Acer Nitro VG0",
+            "amount": 6
+          },
+          {
+            "filterId": "1599875",
+            "content": "GigaByte Aorus",
+            "amount": 3
+          },
+          {
+            "filterId": "106143475",
+            "content": "Samsung Odyssey G8",
+            "amount": 2
+          },
+          {
+            "filterId": "107936650",
+            "content": "LG Smart Monitor",
+            "amount": 2
+          },
+          {
+            "filterId": "1599880",
+            "content": "Lenovo ThinkVision",
+            "amount": 38
+          },
+          {
+            "filterId": "107307332",
+            "content": "Dell Pro",
+            "amount": 13
+          },
+          {
+            "filterId": "106046488",
+            "content": "Samsung ViewFinity S60UD",
+            "amount": 2
+          },
+          {
+            "filterId": "106046444",
+            "content": "iiyama Red Eagle",
+            "amount": 13
+          },
+          {
+            "filterId": "106046450",
+            "content": "MSI MPG",
+            "amount": 4
+          },
+          {
+            "filterId": "106046452",
+            "content": "MSI Pro",
+            "amount": 15
+          },
+          {
+            "filterId": "106046487",
+            "content": "Samsung ViewFinity S6",
+            "amount": 2
+          },
+          {
+            "filterId": "7933651",
+            "content": "HP OMEN",
+            "amount": 7
+          },
+          {
+            "filterId": "106717813",
+            "content": "Samsung ViewFinity S80UD",
+            "amount": 1
+          },
+          {
+            "filterId": "106046457",
+            "content": "Philips 5000",
+            "amount": 6
+          },
+          {
+            "filterId": "5959099",
+            "content": "iiyama G-Master",
+            "amount": 32
+          },
+          {
+            "filterId": "106699169",
+            "content": "Dell Pro Plus",
+            "amount": 3
+          },
+          {
+            "filterId": "107122415",
+            "content": "Dell Plus",
+            "amount": 3
+          },
+          {
+            "filterId": "106046461",
+            "content": "Philips Evnia 5000",
+            "amount": 6
+          },
+          {
+            "filterId": "106717812",
+            "content": "Samsung Essential S3",
+            "amount": 5
+          },
+          {
+            "filterId": "106046443",
+            "content": "iiyama Gold Phoenix",
+            "amount": 3
+          },
+          {
+            "filterId": "106698042",
+            "content": "BenQ PD",
+            "amount": 3
+          },
+          {
+            "filterId": "106046446",
+            "content": "LG My View",
+            "amount": 1
+          },
+          {
+            "filterId": "107246924",
+            "content": "GigaByte MO",
+            "amount": 4
+          },
+          {
+            "filterId": "107246923",
+            "content": "GigaByte G",
+            "amount": 5
+          },
+          {
+            "filterId": "107825692",
+            "content": "LG UltraGear G6",
+            "amount": 2
+          },
+          {
+            "filterId": "1609401",
+            "content": "Acer Predator XB3",
+            "amount": 4
+          },
+          {
+            "filterId": "2048613",
+            "content": "Acer Predator X",
+            "amount": 1
+          },
+          {
+            "filterId": "10212919",
+            "content": "Viewsonic VA",
+            "amount": 11
+          },
+          {
+            "filterId": "3396193",
+            "content": "BenQ GW",
+            "amount": 9
+          },
+          {
+            "filterId": "7526560",
+            "content": "iiyama Black Hawk",
+            "amount": 8
+          },
+          {
+            "filterId": "107419012",
+            "content": "Samsung Odyssey G4",
+            "amount": 2
+          },
+          {
+            "filterId": "106046418",
+            "content": "Acer Vero B7",
+            "amount": 16
+          },
+          {
+            "filterId": "107122414",
+            "content": "Acer Nitro XV0",
+            "amount": 4
+          },
+          {
+            "filterId": "107781247",
+            "content": "BenQ SW",
+            "amount": 2
+          },
+          {
+            "filterId": "106046454",
+            "content": "PEAQ PMO",
+            "amount": 2
+          },
+          {
+            "filterId": "107825690",
+            "content": "Acer CE0",
+            "amount": 3
+          },
+          {
+            "filterId": "106046484",
+            "content": "Samsung S8",
+            "amount": 1
+          },
+          {
+            "filterId": "106046413",
+            "content": "Acer Nitro KG2",
+            "amount": 3
+          },
+          {
+            "filterId": "106046423",
+            "content": "Alogic Clarity",
+            "amount": 2
+          },
+          {
+            "filterId": "2568984",
+            "content": "ASUS VG",
+            "amount": 7
+          },
+          {
+            "filterId": "106046455",
+            "content": "Philips 1000",
+            "amount": 13
+          },
+          {
+            "filterId": "5931515",
+            "content": "AOC AGON",
+            "amount": 11
+          },
+          {
+            "filterId": "107757039",
+            "content": "LG UltraGear evo",
+            "amount": 1
+          },
+          {
+            "filterId": "107898193",
+            "content": "MSI Pro MAX",
+            "amount": 4
+          },
+          {
+            "filterId": "1826810",
+            "content": "Philips E-line",
+            "amount": 5
+          },
+          {
+            "filterId": "106046449",
+            "content": "MSI Modern",
+            "amount": 2
+          },
+          {
+            "filterId": "106046432",
+            "content": "ASRock Phantom Gaming",
+            "amount": 20
+          },
+          {
+            "filterId": "106046456",
+            "content": "Philips 3000",
+            "amount": 7
+          },
+          {
+            "filterId": "106046438",
+            "content": "GigaByte GS",
+            "amount": 8
+          },
+          {
+            "filterId": "106046465",
+            "content": "Samsung Essential",
+            "amount": 2
+          },
+          {
+            "filterId": "7364988",
+            "content": "BenQ DesignVue",
+            "amount": 3
+          },
+          {
+            "filterId": "3206489",
+            "content": "ASUS VA",
+            "amount": 19
+          },
+          {
+            "filterId": "3735957",
+            "content": "BenQ EW",
+            "amount": 3
+          },
+          {
+            "filterId": "107091241",
+            "content": "AOC E4",
+            "amount": 4
+          },
+          {
+            "filterId": "2048626",
+            "content": "Philips B-line",
+            "amount": 10
+          },
+          {
+            "filterId": "1661644",
+            "content": "AOC G2",
+            "amount": 2
+          },
+          {
+            "filterId": "106328074",
+            "content": "ASUS VY",
+            "amount": 7
+          },
+          {
+            "filterId": "108288169",
+            "content": "Philips 2000",
+            "amount": 2
+          },
+          {
+            "filterId": "106046460",
+            "content": "Philips Evnia 3000",
+            "amount": 4
+          },
+          {
+            "filterId": "10212923",
+            "content": "Viewsonic VX",
+            "amount": 13
+          },
+          {
+            "filterId": "106046441",
+            "content": "HP Series 5",
+            "amount": 13
+          },
+          {
+            "filterId": "107372617",
+            "content": "BenQ RD",
+            "amount": 1
+          },
+          {
+            "filterId": "7966046",
+            "content": "Lenovo ThinkCentre",
+            "amount": 2
+          },
+          {
+            "filterId": "10212920",
+            "content": "Viewsonic VG",
+            "amount": 14
+          },
+          {
+            "filterId": "106046411",
+            "content": "Acer CB2",
+            "amount": 2
+          },
+          {
+            "filterId": "106574797",
+            "content": "Philips Evnia 8000",
+            "amount": 1
+          },
+          {
+            "filterId": "106046420",
+            "content": "Acer Vero CB3",
+            "amount": 3
+          },
+          {
+            "filterId": "1651090",
+            "content": "ASUS BE",
+            "amount": 6
+          },
+          {
+            "filterId": "1599878",
+            "content": "Dell SE",
+            "amount": 2
+          },
+          {
+            "filterId": "10212922",
+            "content": "Viewsonic VP",
+            "amount": 7
+          },
+          {
+            "filterId": "106046428",
+            "content": "AOC P3",
+            "amount": 2
+          },
+          {
+            "filterId": "107192249",
+            "content": "Acer Vero CB2",
+            "amount": 3
+          },
+          {
+            "filterId": "107065689",
+            "content": "Arozzi Nova",
+            "amount": 5
+          },
+          {
+            "filterId": "107200071",
+            "content": "Acer Nitro ED0",
+            "amount": 2
+          },
+          {
+            "filterId": "100585350",
+            "content": "MSI Optix MAG",
+            "amount": 1
+          },
+          {
+            "filterId": "107757038",
+            "content": "Acer PE0",
+            "amount": 2
+          },
+          {
+            "filterId": "1599885",
+            "content": "Acer Nitro QG1",
+            "amount": 3
+          },
+          {
+            "filterId": "10405308",
+            "content": "Acer B",
+            "amount": 4
+          },
+          {
+            "filterId": "106062674",
+            "content": "Acer SA2",
+            "amount": 1
+          },
+          {
+            "filterId": "1745267",
+            "content": "Philips V-line",
+            "amount": 6
+          },
+          {
+            "filterId": "106244395",
+            "content": "ASUS VU",
+            "amount": 5
+          },
+          {
+            "filterId": "107031072",
+            "content": "Philips 4000",
+            "amount": 3
+          },
+          {
+            "filterId": "1822479",
+            "content": "Philips P-line",
+            "amount": 1
+          },
+          {
+            "filterId": "106587504",
+            "content": "Acer KA2",
+            "amount": 4
+          },
+          {
+            "filterId": "106046493",
+            "content": "Zowie XL-K",
+            "amount": 1
+          },
+          {
+            "filterId": "1599887",
+            "content": "Acer Nitro XV2",
+            "amount": 1
+          },
+          {
+            "filterId": "101189311",
+            "content": "AOC P2",
+            "amount": 4
+          },
+          {
+            "filterId": "2048632",
+            "content": "Philips S-line",
+            "amount": 4
+          },
+          {
+            "filterId": "1599895",
+            "content": "Dell Professional",
+            "amount": 1
+          },
+          {
+            "filterId": "10212918",
+            "content": "Viewsonic TD",
+            "amount": 1
+          },
+          {
+            "filterId": "2048614",
+            "content": "Acer V",
+            "amount": 8
+          },
+          {
+            "filterId": "5360552",
+            "content": "Viewsonic XG",
+            "amount": 5
+          },
+          {
+            "filterId": "106046447",
+            "content": "MSI G",
+            "amount": 6
+          },
+          {
+            "filterId": "1609410",
+            "content": "Fujitsu B Line",
+            "amount": 1
+          },
+          {
+            "filterId": "106937959",
+            "content": "Acer Vero",
+            "amount": 2
+          },
+          {
+            "filterId": "1647651",
+            "content": "ASUS VP",
+            "amount": 2
+          },
+          {
+            "filterId": "4224946",
+            "content": "BenQ BL",
+            "amount": 5
+          },
+          {
+            "filterId": "7565197",
+            "content": "ASUS VZ",
+            "amount": 4
+          },
+          {
+            "filterId": "106046482",
+            "content": "Samsung S36C",
+            "amount": 2
+          },
+          {
+            "filterId": "5056488",
+            "content": "AOC Pro-line",
+            "amount": 1
+          },
+          {
+            "filterId": "107008501",
+            "content": "ASRock Challenger",
+            "amount": 3
+          },
+          {
+            "filterId": "106474996",
+            "content": "Sharp MultiSync EA",
+            "amount": 3
+          },
+          {
+            "filterId": "107070259",
+            "content": "Acer EK1",
+            "amount": 1
+          },
+          {
+            "filterId": "106207014",
+            "content": "HANNspree HT",
+            "amount": 1
+          },
+          {
+            "filterId": "5365996",
+            "content": "Acer V7",
+            "amount": 1
+          },
+          {
+            "filterId": "100707372",
+            "content": "MSI Optix G",
+            "amount": 1
+          },
+          {
+            "filterId": "106560485",
+            "content": "Acer B8",
+            "amount": 1
+          },
+          {
+            "filterId": "106046415",
+            "content": "Acer Nitro XV5",
+            "amount": 2
+          },
+          {
+            "filterId": "7315035",
+            "content": "Acer B7",
+            "amount": 3
+          },
+          {
+            "filterId": "106046477",
+            "content": "Samsung Odyssey G5A",
+            "amount": 2
+          },
+          {
+            "filterId": "106847056",
+            "content": "Acer R2",
+            "amount": 1
+          },
+          {
+            "filterId": "2455428",
+            "content": "NEC MultiSync EA",
+            "amount": 4
+          },
+          {
+            "filterId": "106046464",
+            "content": "Philips Momentum 5000",
+            "amount": 4
+          },
+          {
+            "filterId": "107494583",
+            "content": "Acer Nitro XF0",
+            "amount": 2
+          },
+          {
+            "filterId": "107475541",
+            "content": "Acer Vero B8",
+            "amount": 1
+          },
+          {
+            "filterId": "107825691",
+            "content": "ASUS VB",
+            "amount": 2
+          },
+          {
+            "filterId": "1768966",
+            "content": "NEC MultiSync E",
+            "amount": 2
+          },
+          {
+            "filterId": "106046483",
+            "content": "Samsung S70A",
+            "amount": 2
+          },
+          {
+            "filterId": "5656547",
+            "content": "Acer CB",
+            "amount": 1
+          },
+          {
+            "filterId": "106046475",
+            "content": "Samsung Odyssey G3A",
+            "amount": 3
+          },
+          {
+            "filterId": "4998146",
+            "content": "HP Z Display",
+            "amount": 1
+          },
+          {
+            "filterId": "106046451",
+            "content": "MSI MPG ARTYMIS",
+            "amount": 1
+          },
+          {
+            "filterId": "107250177",
+            "content": "Samsung Essential S4",
+            "amount": 1
+          },
+          {
+            "filterId": "106046466",
+            "content": "Samsung FT45",
+            "amount": 1
+          },
+          {
+            "filterId": "106046481",
+            "content": "Samsung S31C",
+            "amount": 1
+          },
+          {
+            "filterId": "106046422",
+            "content": "Acer Vero V7",
+            "amount": 2
+          },
+          {
+            "filterId": "106046425",
+            "content": "AOC B2",
+            "amount": 1
+          },
+          {
+            "filterId": "106046492",
+            "content": "Viewsonic Omni",
+            "amount": 1
+          },
+          {
+            "filterId": "8140985",
+            "content": "Acer B6",
+            "amount": 1
+          }
+        ]
+      },
+      {
+        "attributeId": "18763",
+        "name": "Bildschirmgröße",
+        "filters": [
+          {
+            "filterId": "495791",
+            "content": "27 Zoll",
+            "amount": 1983
+          },
+          {
+            "filterId": "2623586",
+            "content": "32 Zoll",
+            "amount": 52
+          },
+          {
+            "filterId": "4966894",
+            "content": "34 Zoll",
+            "amount": 15
+          },
+          {
+            "filterId": "755499",
+            "content": "24 Zoll",
+            "amount": 146
+          },
+          {
+            "filterId": "9633846",
+            "content": "49 Zoll",
+            "amount": 12
+          },
+          {
+            "filterId": "2623587",
+            "content": "40 Zoll",
+            "amount": 2
+          },
+          {
+            "filterId": "106143608",
+            "content": "45 Zoll",
+            "amount": 2
+          },
+          {
+            "filterId": "4348196",
+            "content": "28 Zoll",
+            "amount": 5
+          },
+          {
+            "filterId": "4966892",
+            "content": "25 Zoll",
+            "amount": 13
+          },
+          {
+            "filterId": "495777",
+            "content": "22 Zoll",
+            "amount": 6
+          },
+          {
+            "filterId": "106905804",
+            "content": "16 Zoll",
+            "amount": 4
+          },
+          {
+            "filterId": "495784",
+            "content": "19 Zoll",
+            "amount": 12
+          },
+          {
+            "filterId": "495773",
+            "content": "bis 14 Zoll",
+            "amount": 4
+          },
+          {
+            "filterId": "495788",
+            "content": "23 Zoll",
+            "amount": 1
+          },
+          {
+            "filterId": "106905802",
+            "content": "17 Zoll",
+            "amount": 1
+          },
+          {
+            "filterId": "495786",
+            "content": "21 Zoll",
+            "amount": 2
+          },
+          {
+            "filterId": "495785",
+            "content": "20 Zoll",
+            "amount": 2
+          }
+        ]
+      },
+      {
+        "attributeId": "30184",
+        "name": "Auflösung",
+        "filters": [
+          {
+            "filterId": "3160280",
+            "content": "2.560 x 1.440 Pixel",
+            "amount": 776
+          },
+          {
+            "filterId": "3097785",
+            "content": "3.840 x 2.160 Pixel",
+            "amount": 303
+          },
+          {
+            "filterId": "4967966",
+            "content": "3.440 x 1.440 Pixel",
+            "amount": 1
+          },
+          {
+            "filterId": "1040703",
+            "content": "1.920 x 1.080 Pixel",
+            "amount": 767
+          },
+          {
+            "filterId": "10125243",
+            "content": "5.120 x 2.880 Pixel",
+            "amount": 36
+          }
+        ]
+      },
+      {
+        "attributeId": "32320",
+        "name": "Multi Mode",
+        "filters": [
+          {
+            "filterId": "106082674",
+            "content": "Dual Mode",
+            "amount": 42
+          },
+          {
+            "filterId": "107886861",
+            "content": "Triple Mode",
+            "amount": 2
+          }
+        ]
+      },
+      {
+        "attributeId": "12183",
+        "name": "Bildschirmformat",
+        "filters": [
+          {
+            "filterId": "992052",
+            "content": "16:9",
+            "amount": 1751
+          },
+          {
+            "filterId": "2383562",
+            "content": "21:9",
+            "amount": 1
+          }
+        ]
+      },
+      {
+        "attributeId": "20256",
+        "name": "Bildwiederholungsrate",
+        "filters": [
+          {
+            "filterId": "8084715",
+            "content": "240 Hz",
+            "amount": 205
+          },
+          {
+            "filterId": "5356919",
+            "content": "144 Hz",
+            "amount": 156
+          },
+          {
+            "filterId": "5356918",
+            "content": "120 Hz",
+            "amount": 159
+          },
+          {
+            "filterId": "9211495",
+            "content": "180 Hz",
+            "amount": 157
+          },
+          {
+            "filterId": "6294379",
+            "content": "165 Hz",
+            "amount": 93
+          },
+          {
+            "filterId": "103212474",
+            "content": "160 Hz",
+            "amount": 42
+          },
+          {
+            "filterId": "7612643",
+            "content": "200 Hz",
+            "amount": 80
+          },
+          {
+            "filterId": "101448147",
+            "content": "360 Hz",
+            "amount": 23
+          },
+          {
+            "filterId": "105820214",
+            "content": "280 Hz",
+            "amount": 29
+          },
+          {
+            "filterId": "5356917",
+            "content": "100 Hz",
+            "amount": 248
+          },
+          {
+            "filterId": "103010812",
+            "content": "300 Hz",
+            "amount": 13
+          },
+          {
+            "filterId": "106861979",
+            "content": "320 Hz",
+            "amount": 10
+          },
+          {
+            "filterId": "10219557",
+            "content": "170 Hz",
+            "amount": 9
+          },
+          {
+            "filterId": "107305171",
+            "content": "260 Hz",
+            "amount": 9
+          },
+          {
+            "filterId": "104713296",
+            "content": "540 Hz",
+            "amount": 6
+          },
+          {
+            "filterId": "106858289",
+            "content": "500 Hz",
+            "amount": 9
+          },
+          {
+            "filterId": "106891545",
+            "content": "210 Hz",
+            "amount": 4
+          },
+          {
+            "filterId": "104642251",
+            "content": "480 Hz",
+            "amount": 5
+          },
+          {
+            "filterId": "107388326",
+            "content": "162 Hz",
+            "amount": 2
+          },
+          {
+            "filterId": "106328246",
+            "content": "185 Hz",
+            "amount": 1
+          },
+          {
+            "filterId": "106744790",
+            "content": "220 Hz",
+            "amount": 2
+          },
+          {
+            "filterId": "107054143",
+            "content": "350 Hz",
+            "amount": 2
+          },
+          {
+            "filterId": "103902425",
+            "content": "270 Hz",
+            "amount": 1
+          },
+          {
+            "filterId": "106087263",
+            "content": "400 Hz",
+            "amount": 1
+          },
+          {
+            "filterId": "5360541",
+            "content": "60 Hz",
+            "amount": 305
+          },
+          {
+            "filterId": "5803343",
+            "content": "75 Hz",
+            "amount": 188
+          },
+          {
+            "filterId": "106576463",
+            "content": "520 Hz",
+            "amount": 4
+          },
+          {
+            "filterId": "107312571",
+            "content": "80 Hz",
+            "amount": 2
+          },
+          {
+            "filterId": "103399505",
+            "content": "72 Hz",
+            "amount": 2
+          },
+          {
+            "filterId": "8084714",
+            "content": "70 Hz",
+            "amount": 2
+          },
+          {
+            "filterId": "102421476",
+            "content": "48 Hz",
+            "amount": 3
+          }
+        ]
+      },
+      {
+        "attributeId": "14926",
+        "name": "Reaktionszeit",
+        "filters": [
+          {
+            "filterId": "106987167",
+            "content": "bis 1 ms",
+            "amount": 232
+          },
+          {
+            "filterId": "106987168",
+            "content": "1 bis 2,5 ms",
+            "amount": 570
+          },
+          {
+            "filterId": "106987169",
+            "content": "2,5 bis 4,5 ms",
+            "amount": 363
+          },
+          {
+            "filterId": "106717368",
+            "content": "4,5 bis 6 ms",
+            "amount": 430
+          },
+          {
+            "filterId": "106717369",
+            "content": "ab 6 ms",
+            "amount": 146
+          }
+        ]
+      },
+      {
+        "attributeId": "15206",
+        "name": "Helligkeit",
+        "filters": [
+          {
+            "filterId": "100797650",
+            "content": "ab 410 cd/m²",
+            "amount": 73
+          },
+          {
+            "filterId": "100797649",
+            "content": "360 bis 410 cd/m²",
+            "amount": 192
+          },
+          {
+            "filterId": "1128357",
+            "content": "310 bis 360 cd/m²",
+            "amount": 403
+          },
+          {
+            "filterId": "105750802",
+            "content": "253 bis 310 cd/m²",
+            "amount": 387
+          },
+          {
+            "filterId": "105418403",
+            "content": "bis 253 cd/m²",
+            "amount": 486
+          }
+        ]
+      },
+      {
+        "attributeId": "17868",
+        "name": "HDMI-Version",
+        "filters": [
+          {
+            "filterId": "102418095",
+            "content": "HDMI 2.1",
+            "amount": 336
+          },
+          {
+            "filterId": "102418092",
+            "content": "HDMI 2.0",
+            "amount": 518
+          },
+          {
+            "filterId": "102418089",
+            "content": "HDMI 1.4",
+            "amount": 393
+          },
+          {
+            "filterId": "107134994",
+            "content": "HDMI 2.2",
+            "amount": 2
+          },
+          {
+            "filterId": "102418094",
+            "content": "HDMI 2.0b",
+            "amount": 55
+          },
+          {
+            "filterId": "102418091",
+            "content": "HDMI 1.4b",
+            "amount": 10
+          },
+          {
+            "filterId": "102418093",
+            "content": "HDMI 2.0a",
+            "amount": 1
+          }
+        ]
+      },
+      {
+        "attributeId": "29689",
+        "name": "DisplayPort Version",
+        "filters": [
+          {
+            "filterId": "107812322",
+            "content": "DisplayPort 1.4",
+            "amount": 651
+          },
+          {
+            "filterId": "107812326",
+            "content": "DisplayPort 2.1",
+            "amount": 20
+          },
+          {
+            "filterId": "107812319",
+            "content": "DisplayPort 1.2",
+            "amount": 373
+          },
+          {
+            "filterId": "107812323",
+            "content": "DisplayPort 1.4a",
+            "amount": 46
+          },
+          {
+            "filterId": "107812320",
+            "content": "DisplayPort 1.2a",
+            "amount": 49
+          },
+          {
+            "filterId": "107812325",
+            "content": "DisplayPort 2.0",
+            "amount": 2
+          },
+          {
+            "filterId": "107812318",
+            "content": "DisplayPort 1.1a",
+            "amount": 1
+          },
+          {
+            "filterId": "107812324",
+            "content": "DisplayPort 1.4b",
+            "amount": 1
+          }
+        ]
+      },
+      {
+        "attributeId": "24886",
+        "name": "Synchronisation",
+        "filters": [
+          {
+            "filterId": "5326952",
+            "content": "FreeSync",
+            "amount": 808
+          },
+          {
+            "filterId": "5370424",
+            "content": "G-Sync Compatible",
+            "amount": 220
+          },
+          {
+            "filterId": "1725609",
+            "content": "G-Sync",
+            "amount": 92
+          },
+          {
+            "filterId": "5281404",
+            "content": "Adaptive Sync",
+            "amount": 576
+          }
+        ]
+      },
+      {
+        "attributeId": "31035",
+        "name": "DisplayHDR Standard",
+        "filters": [
+          {
+            "filterId": "106608008",
+            "content": "DisplayHDR True Black 500",
+            "amount": 14
+          },
+          {
+            "filterId": "106547453",
+            "content": "DisplayHDR 1000",
+            "amount": 21
+          },
+          {
+            "filterId": "106547458",
+            "content": "DisplayHDR True Black 400",
+            "amount": 61
+          },
+          {
+            "filterId": "106547455",
+            "content": "DisplayHDR 400",
+            "amount": 217
+          },
+          {
+            "filterId": "106547457",
+            "content": "DisplayHDR 600",
+            "amount": 19
+          },
+          {
+            "filterId": "106547454",
+            "content": "DisplayHDR 1400",
+            "amount": 5
+          },
+          {
+            "filterId": "106547456",
+            "content": "DisplayHDR 500",
+            "amount": 6
+          }
+        ]
+      },
+      {
+        "attributeId": "16036",
+        "name": "integrierte Geräte",
+        "filters": [
+          {
+            "filterId": "775857",
+            "content": "mit Lautsprecher",
+            "amount": 860
+          },
+          {
+            "filterId": "775860",
+            "content": "mit USB-Hub",
+            "amount": 621
+          },
+          {
+            "filterId": "9485787",
+            "content": "mit KVM-Switch",
+            "amount": 90
+          },
+          {
+            "filterId": "100807411",
+            "content": "mit Webcam",
+            "amount": 98
+          },
+          {
+            "filterId": "1791629",
+            "content": "mit TV Tuner",
+            "amount": 8
+          },
+          {
+            "filterId": "100807413",
+            "content": "mit Mikrofon",
+            "amount": 49
+          }
+        ]
+      },
+      {
+        "attributeId": "8806",
+        "name": "Ausstattung",
+        "filters": [
+          {
+            "filterId": "107359172",
+            "content": "Fernbedienung",
+            "amount": 4
+          },
+          {
+            "filterId": "107359174",
+            "content": "Kensington Lock",
+            "amount": 329
+          },
+          {
+            "filterId": "107359173",
+            "content": "Handyhalter",
+            "amount": 18
+          },
+          {
+            "filterId": "107359171",
+            "content": "5-Wege OSD-Navigationstaste",
+            "amount": 14
+          },
+          {
+            "filterId": "107359175",
+            "content": "Kopfhörerhalter",
+            "amount": 12
+          },
+          {
+            "filterId": "107359178",
+            "content": "Stativanschluss",
+            "amount": 7
+          },
+          {
+            "filterId": "107359176",
+            "content": "Lichtschutzblenden",
+            "amount": 5
+          },
+          {
+            "filterId": "107359177",
+            "content": "Sensortasten",
+            "amount": 4
+          }
+        ]
+      },
+      {
+        "attributeId": "15664",
+        "name": "geeignet für",
+        "filters": [
+          {
+            "filterId": "9376185",
+            "content": "Office",
+            "amount": 966
+          },
+          {
+            "filterId": "2034458",
+            "content": "Spiele",
+            "amount": 811
+          },
+          {
+            "filterId": "2034457",
+            "content": "Bildbearbeitung",
+            "amount": 15
+          },
+          {
+            "filterId": "9690941",
+            "content": "Multimedia",
+            "amount": 205
+          },
+          {
+            "filterId": "9760561",
+            "content": "Videokonferenz",
+            "amount": 83
+          },
+          {
+            "filterId": "2034460",
+            "content": "Videobearbeitung",
+            "amount": 14
+          },
+          {
+            "filterId": "101974258",
+            "content": "Homeschooling",
+            "amount": 28
+          },
+          {
+            "filterId": "2490538",
+            "content": "Präsentationen",
+            "amount": 5
+          },
+          {
+            "filterId": "4976981",
+            "content": "medizinische Anwendungen",
+            "amount": 2
+          }
+        ]
+      },
+      {
+        "attributeId": "30466",
+        "name": "Curved Radius",
+        "filters": [
+          {
+            "filterId": "10410720",
+            "content": "1500 R",
+            "amount": 102
+          },
+          {
+            "filterId": "101025850",
+            "content": "1000 R",
+            "amount": 17
+          },
+          {
+            "filterId": "10410721",
+            "content": "1800 R",
+            "amount": 24
+          },
+          {
+            "filterId": "104011068",
+            "content": "2900 R",
+            "amount": 1
+          },
+          {
+            "filterId": "10410727",
+            "content": "4000 R",
+            "amount": 1
+          },
+          {
+            "filterId": "104739288",
+            "content": "1650 R",
+            "amount": 1
+          }
+        ]
+      },
+      {
+        "attributeId": "18928",
+        "name": "VESA-Norm",
+        "filters": [
+          {
+            "filterId": "2410372",
+            "content": "100 x 100",
+            "amount": 1235
+          },
+          {
+            "filterId": "2410371",
+            "content": "75 x 75",
+            "amount": 147
+          }
+        ]
+      },
+      {
+        "attributeId": "25674",
+        "name": "ergonomische Eigenschaft",
+        "filters": [
+          {
+            "filterId": "1135657",
+            "content": "höhenverstellbar",
+            "amount": 938
+          },
+          {
+            "filterId": "1135658",
+            "content": "Pivot-Funktion (drehbar)",
+            "amount": 711
+          },
+          {
+            "filterId": "1176202",
+            "content": "Tiltfunktion (neigbar)",
+            "amount": 1366
+          },
+          {
+            "filterId": "1141682",
+            "content": "Swivelfunktion (schwenkbar)",
+            "amount": 771
+          }
+        ]
+      },
+      {
+        "attributeId": "18519",
+        "name": "Rahmenfarbe",
+        "filters": [
+          {
+            "filterId": "3688498",
+            "content": "weiß",
+            "amount": 139
+          },
+          {
+            "filterId": "3688496",
+            "content": "schwarz",
+            "amount": 1422
+          },
+          {
+            "filterId": "3688497",
+            "content": "silber",
+            "amount": 70
+          },
+          {
+            "filterId": "3688495",
+            "content": "grau",
+            "amount": 48
+          },
+          {
+            "filterId": "5360538",
+            "content": "blau",
+            "amount": 2
+          },
+          {
+            "filterId": "103287740",
+            "content": "pink",
+            "amount": 3
+          },
+          {
+            "filterId": "107065980",
+            "content": "lila",
+            "amount": 2
+          },
+          {
+            "filterId": "102754340",
+            "content": "rot",
+            "amount": 5
+          },
+          {
+            "filterId": "106242746",
+            "content": "gold",
+            "amount": 2
+          },
+          {
+            "filterId": "103287739",
+            "content": "grün",
+            "amount": 3
+          }
+        ]
+      },
+      {
+        "attributeId": "23650",
+        "name": "Standfußfarbe",
+        "filters": [
+          {
+            "filterId": "102744421",
+            "content": "weiß",
+            "amount": 99
+          },
+          {
+            "filterId": "102744420",
+            "content": "silber",
+            "amount": 116
+          },
+          {
+            "filterId": "102744419",
+            "content": "schwarz",
+            "amount": 1008
+          },
+          {
+            "filterId": "102744417",
+            "content": "grau",
+            "amount": 38
+          },
+          {
+            "filterId": "106244394",
+            "content": "pink",
+            "amount": 3
+          },
+          {
+            "filterId": "107065687",
+            "content": "lila",
+            "amount": 2
+          },
+          {
+            "filterId": "105926090",
+            "content": "grün",
+            "amount": 5
+          },
+          {
+            "filterId": "102744418",
+            "content": "rot",
+            "amount": 3
+          },
+          {
+            "filterId": "106244393",
+            "content": "gold",
+            "amount": 1
+          }
+        ]
+      },
+      {
+        "attributeId": "30855",
+        "name": "Energieeffizienzklasse",
+        "filters": [
+          {
+            "filterId": "101858106",
+            "content": "D",
+            "amount": 169
+          },
+          {
+            "filterId": "101858107",
+            "content": "E",
+            "amount": 535
+          },
+          {
+            "filterId": "101858105",
+            "content": "C",
+            "amount": 80
+          },
+          {
+            "filterId": "101858104",
+            "content": "B",
+            "amount": 16
+          },
+          {
+            "filterId": "101858108",
+            "content": "F",
+            "amount": 588
+          },
+          {
+            "filterId": "101858109",
+            "content": "G",
+            "amount": 161
+          }
+        ]
+      },
+      {
+        "attributeId": "29757",
+        "name": "Panel",
+        "filters": [
+          {
+            "filterId": "7721642",
+            "content": "OLED",
+            "amount": 125
+          },
+          {
+            "filterId": "1774167",
+            "content": "IPS",
+            "amount": 1149
+          },
+          {
+            "filterId": "1170183",
+            "content": "QLED",
+            "amount": 1
+          },
+          {
+            "filterId": "4364505",
+            "content": "VA",
+            "amount": 233
+          },
+          {
+            "filterId": "1238770",
+            "content": "LED",
+            "amount": 10
+          },
+          {
+            "filterId": "1780233",
+            "content": "LCD",
+            "amount": 9
+          },
+          {
+            "filterId": "880136",
+            "content": "MVA",
+            "amount": 2
+          },
+          {
+            "filterId": "4364506",
+            "content": "TN",
+            "amount": 8
+          },
+          {
+            "filterId": "911720",
+            "content": "ADS",
+            "amount": 1
+          }
+        ]
+      },
+      {
+        "attributeId": "30735",
+        "name": "Videoeingang",
+        "filters": [
+          {
+            "filterId": "973759",
+            "content": "USB-C",
+            "amount": 238
+          },
+          {
+            "filterId": "1016934",
+            "content": "HDMI",
+            "amount": 1444
+          },
+          {
+            "filterId": "832542",
+            "content": "DisplayPort",
+            "amount": 1230
+          },
+          {
+            "filterId": "102147219",
+            "content": "Thunderbolt 4",
+            "amount": 18
+          },
+          {
+            "filterId": "107085797",
+            "content": "Thunderbolt 5",
+            "amount": 10
+          },
+          {
+            "filterId": "973758",
+            "content": "Thunderbolt 3",
+            "amount": 8
+          },
+          {
+            "filterId": "5385292",
+            "content": "DVI",
+            "amount": 35
+          },
+          {
+            "filterId": "101509927",
+            "content": "VGA",
+            "amount": 9
+          }
+        ]
+      },
+      {
+        "attributeId": "24901",
+        "name": "USB Anschlüsse",
+        "filters": [
+          {
+            "filterId": "10067786",
+            "content": "2 x USB 3.0",
+            "amount": 220
+          },
+          {
+            "filterId": "10067788",
+            "content": "3 x USB 3.0",
+            "amount": 133
+          },
+          {
+            "filterId": "10072030",
+            "content": "1 x USB 3.0",
+            "amount": 16
+          },
+          {
+            "filterId": "10067790",
+            "content": "4 x USB 3.0",
+            "amount": 148
+          },
+          {
+            "filterId": "10067785",
+            "content": "2 x USB 2.0",
+            "amount": 67
+          },
+          {
+            "filterId": "10067784",
+            "content": "1 x USB 2.0",
+            "amount": 30
+          },
+          {
+            "filterId": "10072031",
+            "content": "5 x USB 3.0",
+            "amount": 3
+          },
+          {
+            "filterId": "10067789",
+            "content": "4 x USB 2.0",
+            "amount": 2
+          },
+          {
+            "filterId": "10067787",
+            "content": "3 x USB 2.0",
+            "amount": 3
+          },
+          {
+            "filterId": "10067791",
+            "content": "5 x USB 2.0",
+            "amount": 2
+          }
+        ]
+      },
+      {
+        "attributeId": "29611",
+        "name": "Funktion",
+        "filters": [
+          {
+            "filterId": "1410647",
+            "content": "HDR",
+            "amount": 585
+          },
+          {
+            "filterId": "5000837",
+            "content": "Low Blue Light",
+            "amount": 845
+          },
+          {
+            "filterId": "103999905",
+            "content": "Daisy Chain",
+            "amount": 43
+          },
+          {
+            "filterId": "1738634",
+            "content": "flimmerfreie",
+            "amount": 879
+          },
+          {
+            "filterId": "104294640",
+            "content": "VRR",
+            "amount": 178
+          },
+          {
+            "filterId": "1725608",
+            "content": "HDCP 2.2",
+            "amount": 128
+          },
+          {
+            "filterId": "101316978",
+            "content": "Wi-Fi Direct connect",
+            "amount": 1
+          }
+        ]
+      }
+    ],
+    "suggestedFilters": [
+      {
+        "id": "495791",
+        "type": "SEARCH_FILTER"
+      },
+      {
+        "id": "7721642",
+        "type": "SEARCH_FILTER"
+      },
+      {
+        "id": "2938578",
+        "type": "SEARCH_FILTER"
+      },
+      {
+        "id": "2623586",
+        "type": "SEARCH_FILTER"
+      },
+      {
+        "id": "3090687",
+        "type": "SEARCH_FILTER"
+      },
+      {
+        "id": "3160280",
+        "type": "SEARCH_FILTER"
+      },
+      {
+        "id": "4966894",
+        "type": "SEARCH_FILTER"
+      },
+      {
+        "id": "4550910",
+        "type": "SEARCH_FILTER"
+      },
+      {
+        "id": "9273208",
+        "type": "SEARCH_FILTER"
+      },
+      {
+        "id": "3097785",
+        "type": "SEARCH_FILTER"
+      }
+    ],
+    "sizeAttributes": [],
+    "results": [
+      {
+        "productRef": "pr.v1.k1.T0JCS4AjmtLfuXwUgdzgjmcbbdI6eFoqT0iGsvYpj0xqE3XAsw",
+        "itemType": "PRODUCT",
+        "siteId": 1,
+        "name": "Lenovo L27-4e",
+        "price": "67,99 €",
+        "imageUrl": "https://cdn.idealo.com/folder/Product/208119/4/208119487/s1_produktbild_mobil/lenovo-l27-4e.jpg",
+        "url": "https://www.idealo.de/preisvergleich/OffersOfProduct/208119487_-l27-4e-lenovo.html",
+        "totalOfferCount": 36
+      },
+      {
+        "productRef": "pr.v1.k1.TTPz2le2xF7KWlY2LqRfE04_k9Bslx_KMWiuN6kYHOvIB8F1lQ",
+        "itemType": "PRODUCT",
+        "siteId": 1,
+        "name": "Samsung Essential S3 LS27D304GAUXEN",
+        "price": "89,99 €",
+        "imageUrl": "https://cdn.idealo.com/folder/Product/206190/9/206190962/s1_produktbild_mobil/samsung-essential-s3-ls27d304gauxen.jpg",
+        "url": "https://www.idealo.de/preisvergleich/OffersOfProduct/206190962_-essential-s3-ls27d304gauxen-samsung.html",
+        "userReviewsSummary": {
+          "averageRating": 4.92,
+          "totalReviewCount": 12
+        },
+        "totalOfferCount": 35
+      },
+      {
+        "productRef": "pr.v1.k1.CtmO2Ez14P-EyG4b_lhqbOfqUa_qXLcwIJ9YP0Df1nzXieXtZA",
+        "itemType": "PRODUCT",
+        "siteId": 1,
+        "name": "AOC Q27B35E",
+        "price": "89,29 €",
+        "imageUrl": "https://cdn.idealo.com/folder/Product/207195/1/207195137/s1_produktbild_mobil/aoc-q27b35e.jpg",
+        "url": "https://www.idealo.de/preisvergleich/OffersOfProduct/207195137_-q27b35e-aoc.html",
+        "userReviewsSummary": {
+          "averageRating": 4.63,
+          "totalReviewCount": 8
+        },
+        "totalOfferCount": 19
+      },
+      {
+        "productRef": "pr.v1.k1.gZk7S3dHxZA-Koz1nLt4SoulEpGti1vdqAPRbvV6Kjqkf8ZD2Q",
+        "itemType": "PRODUCT",
+        "siteId": 1,
+        "name": "Samsung Odyssey G50F (S27FG502EU)",
+        "price": "132,65 €",
+        "imageUrl": "https://cdn.idealo.com/folder/Product/208648/6/208648621/s1_produktbild_mobil/samsung-odyssey-g50f-s27fg502eu.jpg",
+        "url": "https://www.idealo.de/preisvergleich/OffersOfProduct/208648621_-odyssey-g50f-s27fg502eu-samsung.html",
+        "userReviewsSummary": {
+          "averageRating": 4.83,
+          "totalReviewCount": 6
+        },
+        "totalOfferCount": 43
+      },
+      {
+        "productRef": "pr.v1.k1.0U-u7rGzhgfsMoVktoJTjsuQZhURTLvN6S48cZGOVybFiQ9ghw",
+        "itemType": "PRODUCT",
+        "siteId": 1,
+        "name": "Philips 27E2N2500",
+        "price": "118,00 €",
+        "imageUrl": "https://cdn.idealo.com/folder/Product/207240/1/207240151/s1_produktbild_mobil/philips-27e2n2500.jpg",
+        "url": "https://www.idealo.de/preisvergleich/OffersOfProduct/207240151_-27e2n2500-philips.html",
+        "userReviewsSummary": {
+          "averageRating": 5,
+          "totalReviewCount": 7
+        },
+        "totalOfferCount": 28
+      },
+      {
+        "productRef": "pr.v1.k1.aOdCOxHy1jlp81Qq3LDwH2Ilgz4bdhhzV0RHB8BpOrcJSWJf8A",
+        "itemType": "PRODUCT",
+        "siteId": 1,
+        "name": "Samsung Odyssey G55C S27CG554EU",
+        "price": "132,93 €",
+        "imageUrl": "https://cdn.idealo.com/folder/Product/203845/8/203845883/s1_produktbild_mobil/samsung-odyssey-g55c-s27cg554eu.jpg",
+        "url": "https://www.idealo.de/preisvergleich/OffersOfProduct/203845883_-odyssey-g55c-s27cg554eu-samsung.html",
+        "userReviewsSummary": {
+          "averageRating": 4.33,
+          "totalReviewCount": 6
+        },
+        "totalOfferCount": 29
+      },
+      {
+        "productRef": "pr.v1.k1.Mcc2LttLxx4jPvNVXMC7B4yxeD4VQUEOggyJCnRssTCQ06qAmg",
+        "itemType": "PRODUCT",
+        "siteId": 1,
+        "name": "LG UltraGear 27G610A-B",
+        "price": "149,00 €",
+        "imageUrl": "https://cdn.idealo.com/folder/Product/208345/4/208345450/s1_produktbild_mobil/lg-ultragear-27g610a-b.jpg",
+        "url": "https://www.idealo.de/preisvergleich/OffersOfProduct/208345450_-ultragear-27g610a-b-lg-electronics.html",
+        "totalOfferCount": 42
+      },
+      {
+        "productRef": "pr.v1.k1.Y51nY908vQQLBbeHAwV8Hnm69oXJ8LpxtA_cn_Q7kqTBEf0Evw",
+        "itemType": "PRODUCT",
+        "siteId": 1,
+        "name": "GigaByte G27Q20T",
+        "price": "119,00 €",
+        "imageUrl": "https://cdn.idealo.com/folder/Product/212600/7/212600774/s1_produktbild_mobil/gigabyte-g27q20t.jpg",
+        "url": "https://www.idealo.de/preisvergleich/OffersOfProduct/212600774_-g27q20t-gigabyte.html",
+        "totalOfferCount": 23
+      },
+      {
+        "productRef": "pr.v1.k1.zoXhHwyx-6_tNpevmt0_SasaIWLYh744un1tZfoAMhYSQ3ZkYg",
+        "itemType": "PRODUCT",
+        "siteId": 1,
+        "name": "Philips 27E2N1110",
+        "price": "77,26 €",
+        "imageUrl": "https://cdn.idealo.com/folder/Product/206923/8/206923872/s1_produktbild_mobil/philips-27e2n1110.jpg",
+        "url": "https://www.idealo.de/preisvergleich/OffersOfProduct/206923872_-27e2n1110-philips.html",
+        "userReviewsSummary": {
+          "averageRating": 4.7,
+          "totalReviewCount": 10
+        },
+        "totalOfferCount": 30
+      },
+      {
+        "productRef": "pr.v1.k1.3iSVjVXyGeQNJeP8xjzmKYUNjuwz754h5O6do0JyYwelgOPNjA",
+        "itemType": "PRODUCT",
+        "siteId": 1,
+        "name": "Lenovo Legion 27Q-11",
+        "price": "232,62 €",
+        "imageUrl": "https://cdn.idealo.com/folder/Product/208376/7/208376740/s1_produktbild_mobil/lenovo-legion-27q-11.jpg",
+        "url": "https://www.idealo.de/preisvergleich/OffersOfProduct/208376740_-legion-27q-11-lenovo.html",
+        "userReviewsSummary": {
+          "averageRating": 5,
+          "totalReviewCount": 2
+        },
+        "totalOfferCount": 6
+      }
+    ]
+  },
+  "picked": {
+    "productRef": "pr.v1.k1.Mcc2LttLxx4jPvNVXMC7B4yxeD4VQUEOggyJCnRssTCQ06qAmg",
+    "itemType": "PRODUCT",
+    "siteId": 1,
+    "name": "LG UltraGear 27G610A-B",
+    "price": "149,00 €",
+    "imageUrl": "https://cdn.idealo.com/folder/Product/208345/4/208345450/s1_produktbild_mobil/lg-ultragear-27g610a-b.jpg",
+    "url": "https://www.idealo.de/preisvergleich/OffersOfProduct/208345450_-ultragear-27g610a-b-lg-electronics.html",
+    "totalOfferCount": 42
+  },
+  "details": {
+    "productRef": "pr.v1.k1.Mcc2LttLxx4jPvNVXMC7B4yxeD4VQUEOggyJCnRssTCQ06qAmg",
+    "itemType": "PRODUCT",
+    "siteId": 1,
+    "url": "https://www.idealo.de/preisvergleich/OffersOfProduct/208345450_-ultragear-27g610a-b-lg-electronics.html",
+    "name": "LG UltraGear 27G610A-B",
+    "imageUrls": [
+      "https://cdn.idealo.com/folder/Product/208345/4/208345450/s1_produktbild_mobil/lg-ultragear-27g610a-b.jpg"
+    ],
+    "nextOffset": 3,
+    "offers": [
+      {
+        "key": "31964193f7a294e425288a74ae56c1da",
+        "price": "147,74 €",
+        "basePrice": null,
+        "shop": {
+          "shopId": "302342",
+          "merchantId": null,
+          "name": "proshop.de",
+          "merchantName": null,
+          "rating": {
+            "count": 11612,
+            "avg": 4.76
+          },
+          "isMarketplace": false
+        },
+        "payments": [
+          {
+            "costCode": "INV",
+            "name": "Rechnung"
+          },
+          {
+            "costCode": "PP",
+            "name": "PayPal"
+          },
+          {
+            "costCode": "SUW",
+            "name": "Sofort."
+          },
+          {
+            "costCode": "CBC",
+            "name": "Kreditkarte"
+          },
+          {
+            "costCode": "CIA",
+            "name": "Vorkasse"
+          }
+        ],
+        "showPaymentDisclaimer": false,
+        "delivery": {
+          "deliveryText": "Do. 03.12.–Mo. 07.12.2026",
+          "deliveryStatus": "LONG",
+          "earlyDeliveryDate": "2026-12-03",
+          "lateDeliveryDate": "2026-12-07"
+        },
+        "freeReturnDays": null,
+        "relocatorUrl": "https://www.idealo.de/relocator/relocate?offerKey=31964193f7a294e425288a74ae56c1da&categoryId=3832&pos=1&price=147.74&productid=208345450&sid=302342&type=offer&media=ipc-public-mcp",
+        "minShippingCost": "4,99 €",
+        "hasAlwaysFreeShipping": false,
+        "cheapestTotalPriceOffer": false,
+        "freshness": "2026-11-27T15:06:16.297Z"
+      },
+      {
+        "key": "8a304ebaf63cfcbf0e5a28ba79faae63",
+        "price": "149,00 €",
+        "basePrice": null,
+        "shop": {
+          "shopId": "2380",
+          "merchantId": null,
+          "name": "technikdirekt.de",
+          "merchantName": null,
+          "rating": {
+            "count": 4165,
+            "avg": 5
+          },
+          "isMarketplace": false
+        },
+        "payments": [
+          {
+            "costCode": "PP",
+            "name": "PayPal"
+          },
+          {
+            "costCode": "CBC",
+            "name": "Kreditkarte"
+          },
+          {
+            "costCode": "CIA",
+            "name": "Vorkasse"
+          }
+        ],
+        "showPaymentDisclaimer": false,
+        "delivery": {
+          "deliveryText": "Di. 01.12.–Mi. 02.12.2026",
+          "deliveryStatus": "SHORT",
+          "earlyDeliveryDate": "2026-12-01",
+          "lateDeliveryDate": "2026-12-02"
+        },
+        "freeReturnDays": null,
+        "relocatorUrl": "https://www.idealo.de/relocator/relocate?offerKey=8a304ebaf63cfcbf0e5a28ba79faae63&categoryId=3832&pos=2&price=149.00&productid=208345450&sid=2380&type=offer&media=ipc-public-mcp",
+        "minShippingCost": "5,99 €",
+        "hasAlwaysFreeShipping": false,
+        "cheapestTotalPriceOffer": false,
+        "freshness": "2026-11-27T15:06:16.297Z"
+      },
+      {
+        "key": "54d5e3750fb14b8778c876d11af18b00",
+        "price": "152,49 €",
+        "basePrice": null,
+        "shop": {
+          "shopId": "20490",
+          "merchantId": null,
+          "name": "visunext.de",
+          "merchantName": null,
+          "rating": {
+            "count": 1886,
+            "avg": 4.71
+          },
+          "isMarketplace": false
+        },
+        "payments": [
+          {
+            "costCode": "INV",
+            "name": "Rechnung"
+          },
+          {
+            "costCode": "PP",
+            "name": "PayPal"
+          },
+          {
+            "costCode": "SUW",
+            "name": "Sofort."
+          },
+          {
+            "costCode": "CBC",
+            "name": "Kreditkarte"
+          },
+          {
+            "costCode": "CIA",
+            "name": "Vorkasse"
+          },
+          {
+            "costCode": "AMZP",
+            "name": "Amazon Pay"
+          }
+        ],
+        "showPaymentDisclaimer": false,
+        "delivery": {
+          "deliveryText": "Di. 01.12.–Mi. 02.12.2026",
+          "deliveryStatus": "SHORT",
+          "earlyDeliveryDate": "2026-12-01",
+          "lateDeliveryDate": "2026-12-02"
+        },
+        "freeReturnDays": 14,
+        "relocatorUrl": "https://www.idealo.de/relocator/relocate?offerKey=54d5e3750fb14b8778c876d11af18b00&categoryId=3832&pos=3&price=152.49&productid=208345450&sid=20490&type=offer&media=ipc-public-mcp",
+        "minShippingCost": "0,00 €",
+        "hasAlwaysFreeShipping": true,
+        "cheapestTotalPriceOffer": true,
+        "freshness": "2026-11-27T15:06:16.297Z"
+      }
+    ],
+    "prosCons": {
+      "pros": [
+        "hohe Bildwiederholrate von 200 Hz für flüssiges Gaming",
+        "schnelle Reaktionszeit von 1 ms (GtG)",
+        "vielseitige Ergonomie mit Höhen-, Neige-, Dreh- und Pivot-Funktion",
+        "WQHD-Auflösung (2.560 × 1.440 Pixel) für scharfe Details"
+      ],
+      "cons": [
+        "eingeschränkte NVIDIA G-Sync-Kompatibilität",
+        "HDMI-Version 2.0 statt HDMI 2.1",
+        "8-Bit-Farbtiefe ohne 10-Bit-Unterstützung"
+      ]
+    },
+    "testReports": {
+      "summary": {
+        "ratingCount": 0
+      },
+      "list": []
+    },
+    "expertReview": {
+      "autogenerated": true,
+      "created": "2026-01-21T11:27:55",
+      "rating": 0,
+      "text": "<p>Mit dem UltraGear 27G610A-B hat LG einen HDR-fähigen 27-Zoll-Gaming-Monitor im Sortiment.</p>\n<h3>LG UltraGear 27G610A-B</h3>\n<ul>\n<li>IPS-Panel leistet 200 Hz und 1 Millisekunden Reaktionszeit</li>\n<li>27-Zöller mit 1440p-Auflösung</li>\n<li>400 cd/m² und HDR mit 8-Bit-Farbtiefe</li>\n</ul>\n<h3>Ein Gerät zum Zocken</h3>\n<p>Der 16,9-Monitor besitzt eine Bildauflösung von 2.560 × 1.440 Bildpunkten. Der LCD-Monitor mit IPS-Technologie eignet sich am besten für die geschäftliche und private Nutzung. Der Monitor unterstützt den Farbraum sRGB 99%. Anzeigeleuchtdichte ist eine ausschlaggebende Besonderheit beim Kauf eines Monitors. cd/m² ist ein Maß für die Helligkeit und gibt Auskunft darüber, wie hell ein Monitor sein kann. Sinnvoll für helle Arbeitsumgebungen ist eine hohe Anzeigeleuchtdichte. Bildschirminhalte lassen sich trotz Lichtreflektionen wahrnehmen und Farben feiner unterscheiden. Mit einer Anzeigeleuchtdichte von bis zu 400 cd/m² qualifiziert sich das Gerät zudem für den DisplayHDR 400-Standard. Wenn dir hohe Kontraste und brillante Farben wichtig sind, dann kannst du hier  Monitore, die HDR unterstützen, sichten.</p>\n<h3>Art und Anzahl von Schnittstellen</h3>\n<p>Auch bei den Anschlüssen ist der Monitor gut ausgestattet: 1 DisplayPort 1.4-Anschluss sowie 2 HDMI-Anschlüsse erlauben das Einfügen in jede moderne Arbeitsumgebung. Praktisch ist der Kopfhörerausgang.</p>\n<h3>Hohe Ergonomie durch viele Verstellmöglichkeiten</h3>\n<p>Der Ständer des LG UltraGear 27G610A-B hat verschiedene Einstellungen. Er lässt sich  kippen, Dank Pivot-Funktion vom Querformat ins Hochformat drehen und höhenjustieren. Der Monitor lässt sich einfach an Schwenkarme und Halterungen mit 100 × 100 montieren. Der Markt bietet ähnliche Produkte in identischer Größe und mit ähnlicher Ausstattung.</p>"
+    },
+    "productSpecification": {
+      "groups": [
+        {
+          "name": "Bildeigenschaften",
+          "type": "DEFAULT",
+          "attributes": [
+            {
+              "name": "Bildschirmgröße",
+              "value": "27 Zoll"
+            },
+            {
+              "name": "Bildschirmdiagonale",
+              "value": "68,4 cm"
+            },
+            {
+              "name": "Panel-Technologie",
+              "value": "IPS"
+            },
+            {
+              "name": "Auflösung",
+              "value": "2.560 x 1.440 Pixel"
+            },
+            {
+              "name": "Bildschirmformat",
+              "value": "16:9"
+            },
+            {
+              "name": "Bildwiederholungsrate",
+              "value": "200 Hz"
+            },
+            {
+              "name": "Reaktionszeit",
+              "value": "1 ms"
+            },
+            {
+              "name": "Kontrastverhältnis (typisch)",
+              "value": "1.000:1"
+            },
+            {
+              "name": "Helligkeit",
+              "value": "400 cd/m²"
+            },
+            {
+              "name": "Farbtiefe",
+              "value": "8 Bit"
+            },
+            {
+              "name": "Darstellbare Farben",
+              "value": "16,7 Millionen"
+            },
+            {
+              "name": "FOV",
+              "value": "178/178 °"
+            },
+            {
+              "name": "Farbraum",
+              "value": "sRGB 99%"
+            },
+            {
+              "name": "Pixelabstand",
+              "value": "0,2331 mm"
+            }
+          ]
+        },
+        {
+          "name": "Anschlüsse",
+          "type": "DEFAULT",
+          "attributes": [
+            {
+              "name": "Anzahl HDMI",
+              "value": "2 x HDMI"
+            },
+            {
+              "name": "HDMI-Version",
+              "value": "HDMI 2.0"
+            },
+            {
+              "name": "Anzahl DisplayPort",
+              "value": "1 x DisplayPort"
+            },
+            {
+              "name": "DisplayPort Version",
+              "value": "DisplayPort 1.4"
+            },
+            {
+              "name": "Audio-Anschlüsse",
+              "value": "Kopfhörerausgang (3,5mm Klinke)"
+            },
+            {
+              "name": "Netzteil-Position",
+              "value": "extern"
+            }
+          ]
+        },
+        {
+          "name": "Ausstattung",
+          "type": "DEFAULT",
+          "attributes": [
+            {
+              "name": "Synchronisation",
+              "value": "FreeSync"
+            },
+            {
+              "name": "Funktionen",
+              "value": "flimmerfrei, Low Blue Light"
+            },
+            {
+              "name": "DisplayHDR Standard",
+              "value": "DisplayHDR 400"
+            },
+            {
+              "name": "Komforteigenschaften",
+              "value": "Wandmontage"
+            },
+            {
+              "name": "geeignet für",
+              "value": "Office, Spiele"
+            }
+          ]
+        },
+        {
+          "name": "Design",
+          "type": "DEFAULT",
+          "attributes": [
+            {
+              "name": "VESA-Norm",
+              "value": "100 x 100"
+            },
+            {
+              "name": "ergonomische Eigenschaften",
+              "value": "höhenverstellbar, Pivot-Funktion (drehbar), Swivelfunktion (schwenkbar), Tiltfunktion (neigbar)"
+            },
+            {
+              "name": "Displayoberfläche",
+              "value": "matt"
+            },
+            {
+              "name": "Rahmenfarbe",
+              "value": "schwarz"
+            },
+            {
+              "name": "Rahmenoberfläche",
+              "value": "matt"
+            },
+            {
+              "name": "Rahmeneigenschaft",
+              "value": "Schlanker Rahmen"
+            },
+            {
+              "name": "Standfußfarbe",
+              "value": "schwarz"
+            },
+            {
+              "name": "Standfußform",
+              "value": "eckig"
+            }
+          ]
+        },
+        {
+          "name": "Energieverbrauch",
+          "type": "DEFAULT",
+          "attributes": [
+            {
+              "name": "Energieeffizienzklasse SDR",
+              "value": "E"
+            },
+            {
+              "name": "Stromverbrauch SDR",
+              "value": "20 kWh/1000h"
+            },
+            {
+              "name": "Energieeffizienzklasse HDR",
+              "value": "G"
+            },
+            {
+              "name": "Stromverbrauch HDR",
+              "value": "29 kWh/1000h"
+            }
+          ]
+        },
+        {
+          "name": "",
+          "type": "IMPORTANT",
+          "attributes": [
+            {
+              "name": "Gelistet seit",
+              "value": "November 2025"
+            },
+            {
+              "name": "Produkttypen",
+              "value": "WQHD Monitor, Gaming Monitor"
+            },
+            {
+              "name": "Serie",
+              "value": "LG UltraGear G6"
+            }
+          ]
+        }
+      ]
+    },
+    "productOverview": [
+      "27 Zoll",
+      "2.560 x 1.440 Pixel",
+      "200 Hz",
+      "IPS",
+      "16:9",
+      "Reaktionszeit 1 ms",
+      "1.000:1",
+      "Helligkeit 400 cd/m²",
+      "2 x HDMI",
+      "HDMI 2.0",
+      "1 x DisplayPort",
+      "DisplayPort 1.4",
+      "FreeSync",
+      "DisplayHDR 400"
+    ],
+    "productDetailsUrl": "https://www.idealo.de/preisvergleich/OffersOfProduct/208345450_-ultragear-27g610a-b-lg-electronics.html#datasheet",
+    "priceTrend": {
+      "history": [
+        {
+          "dateTime": 1793228399999,
+          "price": 12900
+        },
+        {
+          "dateTime": 1793314799999,
+          "price": 12900
+        },
+        {
+          "dateTime": 1793401199999,
+          "price": 12900
+        },
+        {
+          "dateTime": 1793487599999,
+          "price": 12900
+        },
+        {
+          "dateTime": 1793573999999,
+          "price": 12900
+        },
+        {
+          "dateTime": 1793660399999,
+          "price": 12900
+        },
+        {
+          "dateTime": 1793746799999,
+          "price": 13900
+        },
+        {
+          "dateTime": 1793833199999,
+          "price": 14989
+        },
+        {
+          "dateTime": 1793919599999,
+          "price": 12900
+        },
+        {
+          "dateTime": 1794005999999,
+          "price": 12900
+        },
+        {
+          "dateTime": 1794092399999,
+          "price": 12900
+        },
+        {
+          "dateTime": 1794178799999,
+          "price": 12900
+        },
+        {
+          "dateTime": 1794265199999,
+          "price": 12900
+        },
+        {
+          "dateTime": 1794351599999,
+          "price": 12900
+        },
+        {
+          "dateTime": 1794437999999,
+          "price": 15189
+        },
+        {
+          "dateTime": 1794524399999,
+          "price": 15189
+        },
+        {
+          "dateTime": 1794610799999,
+          "price": 14990
+        },
+        {
+          "dateTime": 1794697199999,
+          "price": 14990
+        },
+        {
+          "dateTime": 1794783599999,
+          "price": 14990
+        },
+        {
+          "dateTime": 1794869999999,
+          "price": 14990
+        },
+        {
+          "dateTime": 1794956399999,
+          "price": 14900
+        },
+        {
+          "dateTime": 1795042799999,
+          "price": 14900
+        },
+        {
+          "dateTime": 1795129199999,
+          "price": 14900
+        },
+        {
+          "dateTime": 1795215599999,
+          "price": 14900
+        },
+        {
+          "dateTime": 1795301999999,
+          "price": 14900
+        },
+        {
+          "dateTime": 1795388399999,
+          "price": 14900
+        },
+        {
+          "dateTime": 1795474799999,
+          "price": 14779
+        },
+        {
+          "dateTime": 1795561199999,
+          "price": 14900
+        },
+        {
+          "dateTime": 1795647599999,
+          "price": 14900
+        },
+        {
+          "dateTime": 1795733999999,
+          "price": 14900
+        },
+        {
+          "dateTime": 1795791976284,
+          "price": 14774
+        }
+      ]
+    }
+  },
+  "offers_pages": [
+    {
+      "nextOffset": 5,
+      "offers": [
+        {
+          "key": "31964193f7a294e425288a74ae56c1da",
+          "price": "147,74 €",
+          "basePrice": null,
+          "shop": {
+            "shopId": "302342",
+            "merchantId": null,
+            "name": "proshop.de",
+            "merchantName": null,
+            "rating": {
+              "count": 11612,
+              "avg": 4.76
+            },
+            "isMarketplace": false
+          },
+          "payments": [
+            {
+              "costCode": "INV",
+              "name": "Rechnung"
+            },
+            {
+              "costCode": "PP",
+              "name": "PayPal"
+            },
+            {
+              "costCode": "SUW",
+              "name": "Sofort."
+            },
+            {
+              "costCode": "CBC",
+              "name": "Kreditkarte"
+            },
+            {
+              "costCode": "CIA",
+              "name": "Vorkasse"
+            }
+          ],
+          "showPaymentDisclaimer": false,
+          "delivery": {
+            "deliveryText": "Do. 03.12.–Mo. 07.12.2026",
+            "deliveryStatus": "LONG",
+            "earlyDeliveryDate": "2026-12-03",
+            "lateDeliveryDate": "2026-12-07"
+          },
+          "freeReturnDays": null,
+          "relocatorUrl": "https://www.idealo.de/relocator/relocate?offerKey=31964193f7a294e425288a74ae56c1da&categoryId=3832&pos=1&price=147.74&productid=208345450&sid=302342&type=offer&media=ipc-public-mcp",
+          "minShippingCost": "4,99 €",
+          "hasAlwaysFreeShipping": false,
+          "cheapestTotalPriceOffer": false,
+          "freshness": "2026-11-27T15:06:16.529Z"
+        },
+        {
+          "key": "8a304ebaf63cfcbf0e5a28ba79faae63",
+          "price": "149,00 €",
+          "basePrice": null,
+          "shop": {
+            "shopId": "2380",
+            "merchantId": null,
+            "name": "technikdirekt.de",
+            "merchantName": null,
+            "rating": {
+              "count": 4165,
+              "avg": 5
+            },
+            "isMarketplace": false
+          },
+          "payments": [
+            {
+              "costCode": "PP",
+              "name": "PayPal"
+            },
+            {
+              "costCode": "CBC",
+              "name": "Kreditkarte"
+            },
+            {
+              "costCode": "CIA",
+              "name": "Vorkasse"
+            }
+          ],
+          "showPaymentDisclaimer": false,
+          "delivery": {
+            "deliveryText": "Di. 01.12.–Mi. 02.12.2026",
+            "deliveryStatus": "SHORT",
+            "earlyDeliveryDate": "2026-12-01",
+            "lateDeliveryDate": "2026-12-02"
+          },
+          "freeReturnDays": null,
+          "relocatorUrl": "https://www.idealo.de/relocator/relocate?offerKey=8a304ebaf63cfcbf0e5a28ba79faae63&categoryId=3832&pos=2&price=149.00&productid=208345450&sid=2380&type=offer&media=ipc-public-mcp",
+          "minShippingCost": "5,99 €",
+          "hasAlwaysFreeShipping": false,
+          "cheapestTotalPriceOffer": false,
+          "freshness": "2026-11-27T15:06:16.529Z"
+        },
+        {
+          "key": "54d5e3750fb14b8778c876d11af18b00",
+          "price": "152,49 €",
+          "basePrice": null,
+          "shop": {
+            "shopId": "20490",
+            "merchantId": null,
+            "name": "visunext.de",
+            "merchantName": null,
+            "rating": {
+              "count": 1886,
+              "avg": 4.71
+            },
+            "isMarketplace": false
+          },
+          "payments": [
+            {
+              "costCode": "INV",
+              "name": "Rechnung"
+            },
+            {
+              "costCode": "PP",
+              "name": "PayPal"
+            },
+            {
+              "costCode": "SUW",
+              "name": "Sofort."
+            },
+            {
+              "costCode": "CBC",
+              "name": "Kreditkarte"
+            },
+            {
+              "costCode": "CIA",
+              "name": "Vorkasse"
+            },
+            {
+              "costCode": "AMZP",
+              "name": "Amazon Pay"
+            }
+          ],
+          "showPaymentDisclaimer": false,
+          "delivery": {
+            "deliveryText": "Di. 01.12.–Mi. 02.12.2026",
+            "deliveryStatus": "SHORT",
+            "earlyDeliveryDate": "2026-12-01",
+            "lateDeliveryDate": "2026-12-02"
+          },
+          "freeReturnDays": 14,
+          "relocatorUrl": "https://www.idealo.de/relocator/relocate?offerKey=54d5e3750fb14b8778c876d11af18b00&categoryId=3832&pos=3&price=152.49&productid=208345450&sid=20490&type=offer&media=ipc-public-mcp",
+          "minShippingCost": "0,00 €",
+          "hasAlwaysFreeShipping": true,
+          "cheapestTotalPriceOffer": true,
+          "freshness": "2026-11-27T15:06:16.529Z"
+        },
+        {
+          "key": "589a7c93afb3860cdfb955b666a35b6c",
+          "price": "152,49 €",
+          "basePrice": null,
+          "shop": {
+            "shopId": "10721",
+            "merchantId": null,
+            "name": "beamer-discount.de",
+            "merchantName": null,
+            "rating": {
+              "count": 2024,
+              "avg": 4.94
+            },
+            "isMarketplace": false
+          },
+          "payments": [
+            {
+              "costCode": "INV",
+              "name": "Rechnung"
+            },
+            {
+              "costCode": "PP",
+              "name": "PayPal"
+            },
+            {
+              "costCode": "DD",
+              "name": "Lastschrift"
+            },
+            {
+              "costCode": "SUW",
+              "name": "Sofort."
+            },
+            {
+              "costCode": "CBC",
+              "name": "Kreditkarte"
+            },
+            {
+              "costCode": "APPLE_PAY",
+              "name": "Apple Pay"
+            },
+            {
+              "costCode": "CIA",
+              "name": "Vorkasse"
+            }
+          ],
+          "showPaymentDisclaimer": false,
+          "delivery": {
+            "deliveryText": "Mi. 02.12.–Sa. 05.12.2026",
+            "deliveryStatus": "MEDIUM",
+            "earlyDeliveryDate": "2026-12-02",
+            "lateDeliveryDate": "2026-12-05"
+          },
+          "freeReturnDays": 14,
+          "relocatorUrl": "https://www.idealo.de/relocator/relocate?offerKey=589a7c93afb3860cdfb955b666a35b6c&categoryId=3832&pos=4&price=152.49&productid=208345450&sid=10721&type=offer&media=ipc-public-mcp",
+          "minShippingCost": "0,00 €",
+          "hasAlwaysFreeShipping": true,
+          "cheapestTotalPriceOffer": true,
+          "freshness": "2026-11-27T15:06:16.529Z"
+        },
+        {
+          "key": "d787d2c1910e563f7cdf51a7121d00d4",
+          "price": "152,49 €",
+          "basePrice": null,
+          "shop": {
+            "shopId": "314133",
+            "merchantId": null,
+            "name": "edu.de",
+            "merchantName": null,
+            "rating": {
+              "count": 37,
+              "avg": 4.6
+            },
+            "isMarketplace": false
+          },
+          "payments": [
+            {
+              "costCode": "INV",
+              "name": "Rechnung"
+            },
+            {
+              "costCode": "PP",
+              "name": "PayPal"
+            },
+            {
+              "costCode": "CBC",
+              "name": "Kreditkarte"
+            },
+            {
+              "costCode": "CIA",
+              "name": "Vorkasse"
+            },
+            {
+              "costCode": "AMZP",
+              "name": "Amazon Pay"
+            }
+          ],
+          "showPaymentDisclaimer": false,
+          "delivery": {
+            "deliveryText": "Di. 01.12.–Mi. 02.12.2026",
+            "deliveryStatus": "SHORT",
+            "earlyDeliveryDate": "2026-12-01",
+            "lateDeliveryDate": "2026-12-02"
+          },
+          "freeReturnDays": 14,
+          "relocatorUrl": "https://www.idealo.de/relocator/relocate?offerKey=d787d2c1910e563f7cdf51a7121d00d4&categoryId=3832&pos=5&price=152.49&productid=208345450&sid=314133&type=offer&media=ipc-public-mcp",
+          "minShippingCost": "0,00 €",
+          "hasAlwaysFreeShipping": true,
+          "cheapestTotalPriceOffer": true,
+          "freshness": "2026-11-27T15:06:16.530Z"
+        }
+      ]
+    },
+    {
+      "nextOffset": 0,
+      "offers": [
+        {
+          "key": "3d0ddda14db7207bd06c2e26aaaf65c3",
+          "price": "153,98 €",
+          "basePrice": null,
+          "shop": {
+            "shopId": "243147",
+            "merchantId": null,
+            "name": "playox.de",
+            "merchantName": null,
+            "rating": {
+              "count": 1352,
+              "avg": 3.8
+            },
+            "isMarketplace": false
+          },
+          "payments": [
+            {
+              "costCode": "INV",
+              "name": "Rechnung"
+            },
+            {
+              "costCode": "PP",
+              "name": "PayPal"
+            },
+            {
+              "costCode": "SUW",
+              "name": "Sofort."
+            },
+            {
+              "costCode": "CBC",
+              "name": "Kreditkarte"
+            },
+            {
+              "costCode": "CIA",
+              "name": "Vorkasse"
+            },
+            {
+              "costCode": "AMZP",
+              "name": "Amazon Pay"
+            }
+          ],
+          "showPaymentDisclaimer": false,
+          "delivery": {
+            "deliveryText": "bis Di. 01.12.2026",
+            "deliveryStatus": "SHORT",
+            "earlyDeliveryDate": null,
+            "lateDeliveryDate": "2026-12-01"
+          },
+          "freeReturnDays": 30,
+          "relocatorUrl": "https://www.idealo.de/relocator/relocate?offerKey=3d0ddda14db7207bd06c2e26aaaf65c3&categoryId=3832&pos=6&price=153.98&productid=208345450&sid=243147&type=offer&media=ipc-public-mcp",
+          "minShippingCost": "5,99 €",
+          "hasAlwaysFreeShipping": false,
+          "cheapestTotalPriceOffer": false,
+          "freshness": "2026-11-27T15:06:17.283Z"
+        },
+        {
+          "key": "bd9b94a5a16b963771ad1fbfd0de6751",
+          "price": "153,99 €",
+          "basePrice": null,
+          "shop": {
+            "shopId": "1140",
+            "merchantId": null,
+            "name": "computeruniverse.net",
+            "merchantName": null,
+            "rating": {
+              "count": 29704,
+              "avg": 3.78
+            },
+            "isMarketplace": false
+          },
+          "payments": [
+            {
+              "costCode": "INV",
+              "name": "Rechnung"
+            },
+            {
+              "costCode": "PP",
+              "name": "PayPal"
+            },
+            {
+              "costCode": "SUW",
+              "name": "Sofort."
+            },
+            {
+              "costCode": "CBC",
+              "name": "Kreditkarte"
+            },
+            {
+              "costCode": "APPLE_PAY",
+              "name": "Apple Pay"
+            },
+            {
+              "costCode": "CIA",
+              "name": "Vorkasse"
+            },
+            {
+              "costCode": "AMZP",
+              "name": "Amazon Pay"
+            }
+          ],
+          "showPaymentDisclaimer": false,
+          "delivery": {
+            "deliveryText": "Di. 01.12.–Mi. 02.12.2026",
+            "deliveryStatus": "SHORT",
+            "earlyDeliveryDate": "2026-12-01",
+            "lateDeliveryDate": "2026-12-02"
+          },
+          "freeReturnDays": 30,
+          "relocatorUrl": "https://www.idealo.de/relocator/relocate?offerKey=bd9b94a5a16b963771ad1fbfd0de6751&categoryId=3832&pos=7&price=153.99&productid=208345450&sid=1140&type=offer&media=ipc-public-mcp",
+          "minShippingCost": "6,99 €",
+          "hasAlwaysFreeShipping": false,
+          "cheapestTotalPriceOffer": false,
+          "freshness": "2026-11-27T15:06:17.283Z"
+        },
+        {
+          "key": "2d41d9be0d6bd9f303872a4be1a5d3d8",
+          "price": "153,99 €",
+          "basePrice": null,
+          "shop": {
+            "shopId": "27566",
+            "merchantId": null,
+            "name": "office-partner.de",
+            "merchantName": null,
+            "rating": {
+              "count": 3231,
+              "avg": 4.38
+            },
+            "isMarketplace": false
+          },
+          "payments": [
+            {
+              "costCode": "INV",
+              "name": "Rechnung"
+            },
+            {
+              "costCode": "PP",
+              "name": "PayPal"
+            },
+            {
+              "costCode": "SUW",
+              "name": "Sofort."
+            },
+            {
+              "costCode": "CBC",
+              "name": "Kreditkarte"
+            },
+            {
+              "costCode": "CIA",
+              "name": "Vorkasse"
+            },
+            {
+              "costCode": "AMZP",
+              "name": "Amazon Pay"
+            }
+          ],
+          "showPaymentDisclaimer": false,
+          "delivery": {
+            "deliveryText": "bis Di. 01.12.2026",
+            "deliveryStatus": "SHORT",
+            "earlyDeliveryDate": null,
+            "lateDeliveryDate": "2026-12-01"
+          },
+          "freeReturnDays": 30,
+          "relocatorUrl": "https://www.idealo.de/relocator/relocate?offerKey=2d41d9be0d6bd9f303872a4be1a5d3d8&categoryId=3832&pos=8&price=153.99&productid=208345450&sid=27566&type=offer&media=ipc-public-mcp",
+          "minShippingCost": "5,99 €",
+          "hasAlwaysFreeShipping": false,
+          "cheapestTotalPriceOffer": false,
+          "freshness": "2026-11-27T15:06:17.283Z"
+        },
+        {
+          "key": "0fc44213bf0d18b3a0123ed0c23df805",
+          "price": "154,00 €",
+          "basePrice": null,
+          "shop": {
+            "shopId": "2400",
+            "merchantId": null,
+            "name": "cyberport.de",
+            "merchantName": null,
+            "rating": {
+              "count": 26248,
+              "avg": 3.34
+            },
+            "isMarketplace": false
+          },
+          "payments": [
+            {
+              "costCode": "INV",
+              "name": "Rechnung"
+            },
+            {
+              "costCode": "PP",
+              "name": "PayPal"
+            },
+            {
+              "costCode": "SUW",
+              "name": "Sofort."
+            },
+            {
+              "costCode": "CBC",
+              "name": "Kreditkarte"
+            },
+            {
+              "costCode": "CIA",
+              "name": "Vorkasse"
+            },
+            {
+              "costCode": "AMZP",
+              "name": "Amazon Pay"
+            }
+          ],
+          "showPaymentDisclaimer": false,
+          "delivery": {
+            "deliveryText": "Di. 01.12.–Mi. 02.12.2026",
+            "deliveryStatus": "SHORT",
+            "earlyDeliveryDate": "2026-12-01",
+            "lateDeliveryDate": "2026-12-02"
+          },
+          "freeReturnDays": 30,
+          "relocatorUrl": "https://www.idealo.de/relocator/relocate?offerKey=0fc44213bf0d18b3a0123ed0c23df805&categoryId=3832&pos=9&price=154.00&productid=208345450&sid=2400&type=offer&media=ipc-public-mcp",
+          "minShippingCost": "6,99 €",
+          "hasAlwaysFreeShipping": false,
+          "cheapestTotalPriceOffer": false,
+          "freshness": "2026-11-27T15:06:17.283Z"
+        },
+        {
+          "key": "faba91ac0d7d933512ff22345381f4b5",
+          "price": "154,00 €",
+          "basePrice": null,
+          "shop": {
+            "shopId": "327061",
+            "merchantId": "4028",
+            "name": "mediamarkt.de (Marktplatzhändler)",
+            "merchantName": "Azerty DE",
+            "rating": {
+              "count": null,
+              "avg": null
+            },
+            "isMarketplace": true
+          },
+          "payments": [
+            {
+              "costCode": "INV",
+              "name": "Rechnung"
+            },
+            {
+              "costCode": "PP",
+              "name": "PayPal"
+            },
+            {
+              "costCode": "DD",
+              "name": "Lastschrift"
+            },
+            {
+              "costCode": "SUW",
+              "name": "Sofort."
+            },
+            {
+              "costCode": "CBC",
+              "name": "Kreditkarte"
+            }
+          ],
+          "showPaymentDisclaimer": false,
+          "delivery": {
+            "deliveryText": "Di. 01.12.–Do. 03.12.2026",
+            "deliveryStatus": "MEDIUM",
+            "earlyDeliveryDate": "2026-12-01",
+            "lateDeliveryDate": "2026-12-03"
+          },
+          "freeReturnDays": null,
+          "relocatorUrl": "https://www.idealo.de/relocator/relocate?offerKey=faba91ac0d7d933512ff22345381f4b5&categoryId=3832&pos=10&price=154.00&productid=208345450&sid=327061&type=offer&media=ipc-public-mcp",
+          "minShippingCost": "0,00 €",
+          "hasAlwaysFreeShipping": true,
+          "cheapestTotalPriceOffer": false,
+          "freshness": "2026-11-27T15:06:17.283Z"
+        }
+      ],
+      "message": "Trial tier limit reached: max 10 offers per product. Upgrade for full access."
+    }
+  ],
+  "offers": [
+    {
+      "key": "31964193f7a294e425288a74ae56c1da",
+      "price": "147,74 €",
+      "basePrice": null,
+      "shop": {
+        "shopId": "302342",
+        "merchantId": null,
+        "name": "proshop.de",
+        "merchantName": null,
+        "rating": {
+          "count": 11612,
+          "avg": 4.76
+        },
+        "isMarketplace": false
+      },
+      "payments": [
+        {
+          "costCode": "INV",
+          "name": "Rechnung"
+        },
+        {
+          "costCode": "PP",
+          "name": "PayPal"
+        },
+        {
+          "costCode": "SUW",
+          "name": "Sofort."
+        },
+        {
+          "costCode": "CBC",
+          "name": "Kreditkarte"
+        },
+        {
+          "costCode": "CIA",
+          "name": "Vorkasse"
+        }
+      ],
+      "showPaymentDisclaimer": false,
+      "delivery": {
+        "deliveryText": "Do. 03.12.–Mo. 07.12.2026",
+        "deliveryStatus": "LONG",
+        "earlyDeliveryDate": "2026-12-03",
+        "lateDeliveryDate": "2026-12-07"
+      },
+      "freeReturnDays": null,
+      "relocatorUrl": "https://www.idealo.de/relocator/relocate?offerKey=31964193f7a294e425288a74ae56c1da&categoryId=3832&pos=1&price=147.74&productid=208345450&sid=302342&type=offer&media=ipc-public-mcp",
+      "minShippingCost": "4,99 €",
+      "hasAlwaysFreeShipping": false,
+      "cheapestTotalPriceOffer": false,
+      "freshness": "2026-11-27T15:06:16.529Z"
+    },
+    {
+      "key": "8a304ebaf63cfcbf0e5a28ba79faae63",
+      "price": "149,00 €",
+      "basePrice": null,
+      "shop": {
+        "shopId": "2380",
+        "merchantId": null,
+        "name": "technikdirekt.de",
+        "merchantName": null,
+        "rating": {
+          "count": 4165,
+          "avg": 5
+        },
+        "isMarketplace": false
+      },
+      "payments": [
+        {
+          "costCode": "PP",
+          "name": "PayPal"
+        },
+        {
+          "costCode": "CBC",
+          "name": "Kreditkarte"
+        },
+        {
+          "costCode": "CIA",
+          "name": "Vorkasse"
+        }
+      ],
+      "showPaymentDisclaimer": false,
+      "delivery": {
+        "deliveryText": "Di. 01.12.–Mi. 02.12.2026",
+        "deliveryStatus": "SHORT",
+        "earlyDeliveryDate": "2026-12-01",
+        "lateDeliveryDate": "2026-12-02"
+      },
+      "freeReturnDays": null,
+      "relocatorUrl": "https://www.idealo.de/relocator/relocate?offerKey=8a304ebaf63cfcbf0e5a28ba79faae63&categoryId=3832&pos=2&price=149.00&productid=208345450&sid=2380&type=offer&media=ipc-public-mcp",
+      "minShippingCost": "5,99 €",
+      "hasAlwaysFreeShipping": false,
+      "cheapestTotalPriceOffer": false,
+      "freshness": "2026-11-27T15:06:16.529Z"
+    },
+    {
+      "key": "54d5e3750fb14b8778c876d11af18b00",
+      "price": "152,49 €",
+      "basePrice": null,
+      "shop": {
+        "shopId": "20490",
+        "merchantId": null,
+        "name": "visunext.de",
+        "merchantName": null,
+        "rating": {
+          "count": 1886,
+          "avg": 4.71
+        },
+        "isMarketplace": false
+      },
+      "payments": [
+        {
+          "costCode": "INV",
+          "name": "Rechnung"
+        },
+        {
+          "costCode": "PP",
+          "name": "PayPal"
+        },
+        {
+          "costCode": "SUW",
+          "name": "Sofort."
+        },
+        {
+          "costCode": "CBC",
+          "name": "Kreditkarte"
+        },
+        {
+          "costCode": "CIA",
+          "name": "Vorkasse"
+        },
+        {
+          "costCode": "AMZP",
+          "name": "Amazon Pay"
+        }
+      ],
+      "showPaymentDisclaimer": false,
+      "delivery": {
+        "deliveryText": "Di. 01.12.–Mi. 02.12.2026",
+        "deliveryStatus": "SHORT",
+        "earlyDeliveryDate": "2026-12-01",
+        "lateDeliveryDate": "2026-12-02"
+      },
+      "freeReturnDays": 14,
+      "relocatorUrl": "https://www.idealo.de/relocator/relocate?offerKey=54d5e3750fb14b8778c876d11af18b00&categoryId=3832&pos=3&price=152.49&productid=208345450&sid=20490&type=offer&media=ipc-public-mcp",
+      "minShippingCost": "0,00 €",
+      "hasAlwaysFreeShipping": true,
+      "cheapestTotalPriceOffer": true,
+      "freshness": "2026-11-27T15:06:16.529Z"
+    },
+    {
+      "key": "589a7c93afb3860cdfb955b666a35b6c",
+      "price": "152,49 €",
+      "basePrice": null,
+      "shop": {
+        "shopId": "10721",
+        "merchantId": null,
+        "name": "beamer-discount.de",
+        "merchantName": null,
+        "rating": {
+          "count": 2024,
+          "avg": 4.94
+        },
+        "isMarketplace": false
+      },
+      "payments": [
+        {
+          "costCode": "INV",
+          "name": "Rechnung"
+        },
+        {
+          "costCode": "PP",
+          "name": "PayPal"
+        },
+        {
+          "costCode": "DD",
+          "name": "Lastschrift"
+        },
+        {
+          "costCode": "SUW",
+          "name": "Sofort."
+        },
+        {
+          "costCode": "CBC",
+          "name": "Kreditkarte"
+        },
+        {
+          "costCode": "APPLE_PAY",
+          "name": "Apple Pay"
+        },
+        {
+          "costCode": "CIA",
+          "name": "Vorkasse"
+        }
+      ],
+      "showPaymentDisclaimer": false,
+      "delivery": {
+        "deliveryText": "Mi. 02.12.–Sa. 05.12.2026",
+        "deliveryStatus": "MEDIUM",
+        "earlyDeliveryDate": "2026-12-02",
+        "lateDeliveryDate": "2026-12-05"
+      },
+      "freeReturnDays": 14,
+      "relocatorUrl": "https://www.idealo.de/relocator/relocate?offerKey=589a7c93afb3860cdfb955b666a35b6c&categoryId=3832&pos=4&price=152.49&productid=208345450&sid=10721&type=offer&media=ipc-public-mcp",
+      "minShippingCost": "0,00 €",
+      "hasAlwaysFreeShipping": true,
+      "cheapestTotalPriceOffer": true,
+      "freshness": "2026-11-27T15:06:16.529Z"
+    },
+    {
+      "key": "d787d2c1910e563f7cdf51a7121d00d4",
+      "price": "152,49 €",
+      "basePrice": null,
+      "shop": {
+        "shopId": "314133",
+        "merchantId": null,
+        "name": "edu.de",
+        "merchantName": null,
+        "rating": {
+          "count": 37,
+          "avg": 4.6
+        },
+        "isMarketplace": false
+      },
+      "payments": [
+        {
+          "costCode": "INV",
+          "name": "Rechnung"
+        },
+        {
+          "costCode": "PP",
+          "name": "PayPal"
+        },
+        {
+          "costCode": "CBC",
+          "name": "Kreditkarte"
+        },
+        {
+          "costCode": "CIA",
+          "name": "Vorkasse"
+        },
+        {
+          "costCode": "AMZP",
+          "name": "Amazon Pay"
+        }
+      ],
+      "showPaymentDisclaimer": false,
+      "delivery": {
+        "deliveryText": "Di. 01.12.–Mi. 02.12.2026",
+        "deliveryStatus": "SHORT",
+        "earlyDeliveryDate": "2026-12-01",
+        "lateDeliveryDate": "2026-12-02"
+      },
+      "freeReturnDays": 14,
+      "relocatorUrl": "https://www.idealo.de/relocator/relocate?offerKey=d787d2c1910e563f7cdf51a7121d00d4&categoryId=3832&pos=5&price=152.49&productid=208345450&sid=314133&type=offer&media=ipc-public-mcp",
+      "minShippingCost": "0,00 €",
+      "hasAlwaysFreeShipping": true,
+      "cheapestTotalPriceOffer": true,
+      "freshness": "2026-11-27T15:06:16.530Z"
+    },
+    {
+      "key": "3d0ddda14db7207bd06c2e26aaaf65c3",
+      "price": "153,98 €",
+      "basePrice": null,
+      "shop": {
+        "shopId": "243147",
+        "merchantId": null,
+        "name": "playox.de",
+        "merchantName": null,
+        "rating": {
+          "count": 1352,
+          "avg": 3.8
+        },
+        "isMarketplace": false
+      },
+      "payments": [
+        {
+          "costCode": "INV",
+          "name": "Rechnung"
+        },
+        {
+          "costCode": "PP",
+          "name": "PayPal"
+        },
+        {
+          "costCode": "SUW",
+          "name": "Sofort."
+        },
+        {
+          "costCode": "CBC",
+          "name": "Kreditkarte"
+        },
+        {
+          "costCode": "CIA",
+          "name": "Vorkasse"
+        },
+        {
+          "costCode": "AMZP",
+          "name": "Amazon Pay"
+        }
+      ],
+      "showPaymentDisclaimer": false,
+      "delivery": {
+        "deliveryText": "bis Di. 01.12.2026",
+        "deliveryStatus": "SHORT",
+        "earlyDeliveryDate": null,
+        "lateDeliveryDate": "2026-12-01"
+      },
+      "freeReturnDays": 30,
+      "relocatorUrl": "https://www.idealo.de/relocator/relocate?offerKey=3d0ddda14db7207bd06c2e26aaaf65c3&categoryId=3832&pos=6&price=153.98&productid=208345450&sid=243147&type=offer&media=ipc-public-mcp",
+      "minShippingCost": "5,99 €",
+      "hasAlwaysFreeShipping": false,
+      "cheapestTotalPriceOffer": false,
+      "freshness": "2026-11-27T15:06:17.283Z"
+    },
+    {
+      "key": "bd9b94a5a16b963771ad1fbfd0de6751",
+      "price": "153,99 €",
+      "basePrice": null,
+      "shop": {
+        "shopId": "1140",
+        "merchantId": null,
+        "name": "computeruniverse.net",
+        "merchantName": null,
+        "rating": {
+          "count": 29704,
+          "avg": 3.78
+        },
+        "isMarketplace": false
+      },
+      "payments": [
+        {
+          "costCode": "INV",
+          "name": "Rechnung"
+        },
+        {
+          "costCode": "PP",
+          "name": "PayPal"
+        },
+        {
+          "costCode": "SUW",
+          "name": "Sofort."
+        },
+        {
+          "costCode": "CBC",
+          "name": "Kreditkarte"
+        },
+        {
+          "costCode": "APPLE_PAY",
+          "name": "Apple Pay"
+        },
+        {
+          "costCode": "CIA",
+          "name": "Vorkasse"
+        },
+        {
+          "costCode": "AMZP",
+          "name": "Amazon Pay"
+        }
+      ],
+      "showPaymentDisclaimer": false,
+      "delivery": {
+        "deliveryText": "Di. 01.12.–Mi. 02.12.2026",
+        "deliveryStatus": "SHORT",
+        "earlyDeliveryDate": "2026-12-01",
+        "lateDeliveryDate": "2026-12-02"
+      },
+      "freeReturnDays": 30,
+      "relocatorUrl": "https://www.idealo.de/relocator/relocate?offerKey=bd9b94a5a16b963771ad1fbfd0de6751&categoryId=3832&pos=7&price=153.99&productid=208345450&sid=1140&type=offer&media=ipc-public-mcp",
+      "minShippingCost": "6,99 €",
+      "hasAlwaysFreeShipping": false,
+      "cheapestTotalPriceOffer": false,
+      "freshness": "2026-11-27T15:06:17.283Z"
+    },
+    {
+      "key": "2d41d9be0d6bd9f303872a4be1a5d3d8",
+      "price": "153,99 €",
+      "basePrice": null,
+      "shop": {
+        "shopId": "27566",
+        "merchantId": null,
+        "name": "office-partner.de",
+        "merchantName": null,
+        "rating": {
+          "count": 3231,
+          "avg": 4.38
+        },
+        "isMarketplace": false
+      },
+      "payments": [
+        {
+          "costCode": "INV",
+          "name": "Rechnung"
+        },
+        {
+          "costCode": "PP",
+          "name": "PayPal"
+        },
+        {
+          "costCode": "SUW",
+          "name": "Sofort."
+        },
+        {
+          "costCode": "CBC",
+          "name": "Kreditkarte"
+        },
+        {
+          "costCode": "CIA",
+          "name": "Vorkasse"
+        },
+        {
+          "costCode": "AMZP",
+          "name": "Amazon Pay"
+        }
+      ],
+      "showPaymentDisclaimer": false,
+      "delivery": {
+        "deliveryText": "bis Di. 01.12.2026",
+        "deliveryStatus": "SHORT",
+        "earlyDeliveryDate": null,
+        "lateDeliveryDate": "2026-12-01"
+      },
+      "freeReturnDays": 30,
+      "relocatorUrl": "https://www.idealo.de/relocator/relocate?offerKey=2d41d9be0d6bd9f303872a4be1a5d3d8&categoryId=3832&pos=8&price=153.99&productid=208345450&sid=27566&type=offer&media=ipc-public-mcp",
+      "minShippingCost": "5,99 €",
+      "hasAlwaysFreeShipping": false,
+      "cheapestTotalPriceOffer": false,
+      "freshness": "2026-11-27T15:06:17.283Z"
+    },
+    {
+      "key": "0fc44213bf0d18b3a0123ed0c23df805",
+      "price": "154,00 €",
+      "basePrice": null,
+      "shop": {
+        "shopId": "2400",
+        "merchantId": null,
+        "name": "cyberport.de",
+        "merchantName": null,
+        "rating": {
+          "count": 26248,
+          "avg": 3.34
+        },
+        "isMarketplace": false
+      },
+      "payments": [
+        {
+          "costCode": "INV",
+          "name": "Rechnung"
+        },
+        {
+          "costCode": "PP",
+          "name": "PayPal"
+        },
+        {
+          "costCode": "SUW",
+          "name": "Sofort."
+        },
+        {
+          "costCode": "CBC",
+          "name": "Kreditkarte"
+        },
+        {
+          "costCode": "CIA",
+          "name": "Vorkasse"
+        },
+        {
+          "costCode": "AMZP",
+          "name": "Amazon Pay"
+        }
+      ],
+      "showPaymentDisclaimer": false,
+      "delivery": {
+        "deliveryText": "Di. 01.12.–Mi. 02.12.2026",
+        "deliveryStatus": "SHORT",
+        "earlyDeliveryDate": "2026-12-01",
+        "lateDeliveryDate": "2026-12-02"
+      },
+      "freeReturnDays": 30,
+      "relocatorUrl": "https://www.idealo.de/relocator/relocate?offerKey=0fc44213bf0d18b3a0123ed0c23df805&categoryId=3832&pos=9&price=154.00&productid=208345450&sid=2400&type=offer&media=ipc-public-mcp",
+      "minShippingCost": "6,99 €",
+      "hasAlwaysFreeShipping": false,
+      "cheapestTotalPriceOffer": false,
+      "freshness": "2026-11-27T15:06:17.283Z"
+    },
+    {
+      "key": "faba91ac0d7d933512ff22345381f4b5",
+      "price": "154,00 €",
+      "basePrice": null,
+      "shop": {
+        "shopId": "327061",
+        "merchantId": "4028",
+        "name": "mediamarkt.de (Marktplatzhändler)",
+        "merchantName": "Azerty DE",
+        "rating": {
+          "count": null,
+          "avg": null
+        },
+        "isMarketplace": true
+      },
+      "payments": [
+        {
+          "costCode": "INV",
+          "name": "Rechnung"
+        },
+        {
+          "costCode": "PP",
+          "name": "PayPal"
+        },
+        {
+          "costCode": "DD",
+          "name": "Lastschrift"
+        },
+        {
+          "costCode": "SUW",
+          "name": "Sofort."
+        },
+        {
+          "costCode": "CBC",
+          "name": "Kreditkarte"
+        }
+      ],
+      "showPaymentDisclaimer": false,
+      "delivery": {
+        "deliveryText": "Di. 01.12.–Do. 03.12.2026",
+        "deliveryStatus": "MEDIUM",
+        "earlyDeliveryDate": "2026-12-01",
+        "lateDeliveryDate": "2026-12-03"
+      },
+      "freeReturnDays": null,
+      "relocatorUrl": "https://www.idealo.de/relocator/relocate?offerKey=faba91ac0d7d933512ff22345381f4b5&categoryId=3832&pos=10&price=154.00&productid=208345450&sid=327061&type=offer&media=ipc-public-mcp",
+      "minShippingCost": "0,00 €",
+      "hasAlwaysFreeShipping": true,
+      "cheapestTotalPriceOffer": false,
+      "freshness": "2026-11-27T15:06:17.283Z"
+    }
+  ],
+  "price_history": {
+    "priceTrend": {
+      "history": [
+        {
+          "dateTime": 1793228399999,
+          "price": "129,00 €",
+          "dateTimeISO": "2026-10-28T22:59:59.999Z"
+        },
+        {
+          "dateTime": 1793314799999,
+          "price": "129,00 €",
+          "dateTimeISO": "2026-10-29T22:59:59.999Z",
+          "priceChangePercent": 0
+        },
+        {
+          "dateTime": 1793401199999,
+          "price": "129,00 €",
+          "dateTimeISO": "2026-10-30T22:59:59.999Z",
+          "priceChangePercent": 0
+        },
+        {
+          "dateTime": 1793487599999,
+          "price": "129,00 €",
+          "dateTimeISO": "2026-10-31T22:59:59.999Z",
+          "priceChangePercent": 0
+        },
+        {
+          "dateTime": 1793573999999,
+          "price": "129,00 €",
+          "dateTimeISO": "2026-11-01T22:59:59.999Z",
+          "priceChangePercent": 0
+        },
+        {
+          "dateTime": 1793660399999,
+          "price": "129,00 €",
+          "dateTimeISO": "2026-11-02T22:59:59.999Z",
+          "priceChangePercent": 0
+        },
+        {
+          "dateTime": 1793746799999,
+          "price": "139,00 €",
+          "dateTimeISO": "2026-11-03T22:59:59.999Z",
+          "priceChangePercent": 7.751937984496124
+        },
+        {
+          "dateTime": 1793833199999,
+          "price": "149,89 €",
+          "dateTimeISO": "2026-11-04T22:59:59.999Z",
+          "priceChangePercent": 7.83453237410072
+        },
+        {
+          "dateTime": 1793919599999,
+          "price": "129,00 €",
+          "dateTimeISO": "2026-11-05T22:59:59.999Z",
+          "priceChangePercent": -13.936887050503701
+        },
+        {
+          "dateTime": 1794005999999,
+          "price": "129,00 €",
+          "dateTimeISO": "2026-11-06T22:59:59.999Z",
+          "priceChangePercent": 0
+        },
+        {
+          "dateTime": 1794092399999,
+          "price": "129,00 €",
+          "dateTimeISO": "2026-11-07T22:59:59.999Z",
+          "priceChangePercent": 0
+        },
+        {
+          "dateTime": 1794178799999,
+          "price": "129,00 €",
+          "dateTimeISO": "2026-11-08T22:59:59.999Z",
+          "priceChangePercent": 0
+        },
+        {
+          "dateTime": 1794265199999,
+          "price": "129,00 €",
+          "dateTimeISO": "2026-11-09T22:59:59.999Z",
+          "priceChangePercent": 0
+        },
+        {
+          "dateTime": 1794351599999,
+          "price": "129,00 €",
+          "dateTimeISO": "2026-11-10T22:59:59.999Z",
+          "priceChangePercent": 0
+        },
+        {
+          "dateTime": 1794437999999,
+          "price": "151,89 €",
+          "dateTimeISO": "2026-11-11T22:59:59.999Z",
+          "priceChangePercent": 17.74418604651163
+        },
+        {
+          "dateTime": 1794524399999,
+          "price": "151,89 €",
+          "dateTimeISO": "2026-11-12T22:59:59.999Z",
+          "priceChangePercent": 0
+        },
+        {
+          "dateTime": 1794610799999,
+          "price": "149,90 €",
+          "dateTimeISO": "2026-11-13T22:59:59.999Z",
+          "priceChangePercent": -1.310158667456712
+        },
+        {
+          "dateTime": 1794697199999,
+          "price": "149,90 €",
+          "dateTimeISO": "2026-11-14T22:59:59.999Z",
+          "priceChangePercent": 0
+        },
+        {
+          "dateTime": 1794783599999,
+          "price": "149,90 €",
+          "dateTimeISO": "2026-11-15T22:59:59.999Z",
+          "priceChangePercent": 0
+        },
+        {
+          "dateTime": 1794869999999,
+          "price": "149,90 €",
+          "dateTimeISO": "2026-11-16T22:59:59.999Z",
+          "priceChangePercent": 0
+        },
+        {
+          "dateTime": 1794956399999,
+          "price": "149,00 €",
+          "dateTimeISO": "2026-11-17T22:59:59.999Z",
+          "priceChangePercent": -0.600400266844563
+        },
+        {
+          "dateTime": 1795042799999,
+          "price": "149,00 €",
+          "dateTimeISO": "2026-11-18T22:59:59.999Z",
+          "priceChangePercent": 0
+        },
+        {
+          "dateTime": 1795129199999,
+          "price": "149,00 €",
+          "dateTimeISO": "2026-11-19T22:59:59.999Z",
+          "priceChangePercent": 0
+        },
+        {
+          "dateTime": 1795215599999,
+          "price": "149,00 €",
+          "dateTimeISO": "2026-11-20T22:59:59.999Z",
+          "priceChangePercent": 0
+        },
+        {
+          "dateTime": 1795301999999,
+          "price": "149,00 €",
+          "dateTimeISO": "2026-11-21T22:59:59.999Z",
+          "priceChangePercent": 0
+        },
+        {
+          "dateTime": 1795388399999,
+          "price": "149,00 €",
+          "dateTimeISO": "2026-11-22T22:59:59.999Z",
+          "priceChangePercent": 0
+        },
+        {
+          "dateTime": 1795474799999,
+          "price": "147,79 €",
+          "dateTimeISO": "2026-11-23T22:59:59.999Z",
+          "priceChangePercent": -0.8120805369127517
+        },
+        {
+          "dateTime": 1795561199999,
+          "price": "149,00 €",
+          "dateTimeISO": "2026-11-24T22:59:59.999Z",
+          "priceChangePercent": 0.8187292780296366
+        },
+        {
+          "dateTime": 1795647599999,
+          "price": "149,00 €",
+          "dateTimeISO": "2026-11-25T22:59:59.999Z",
+          "priceChangePercent": 0
+        },
+        {
+          "dateTime": 1795733999999,
+          "price": "149,00 €",
+          "dateTimeISO": "2026-11-26T22:59:59.999Z",
+          "priceChangePercent": 0
+        },
+        {
+          "dateTime": 1795791977908,
+          "price": "147,74 €",
+          "dateTimeISO": "2026-11-27T15:06:17.908Z",
+          "priceChangePercent": -0.8456375838926173
+        }
+      ],
+      "statistics": {
+        "minPrice": "129,00 €",
+        "maxPrice": "151,89 €",
+        "avgPrice": "141,19 €",
+        "currentPrice": "147,74 €",
+        "priceChangePercent": 14.527131782945737,
+        "lowestPriceDate": "2026-10-28T22:59:59.999Z",
+        "highestPriceDate": "2026-11-11T22:59:59.999Z"
+      },
+      "samplingGranularity": "daily",
+      "dataSourceConfidence": 0.95,
+      "periodDays": 29.7,
+      "totalDataPoints": 31
+    }
+  }
+}
